@@ -1,0 +1,19 @@
+.venv/
+encoded_dataset/
+fine_tuned_distilbert/ 
+results/
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore model and training artifacts
+results/
+checkpoints/
+*.pt
+*.pth
+*.h5
+
+# Ignore Hugging Face cache
+~/.cache/huggingface/
+
+# Ignore VS Code settings (optional)
+.vscode/
