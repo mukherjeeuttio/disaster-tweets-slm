@@ -1,0 +1,1319 @@
+id,keyword,location,text,predicted_label,predicted_severity,disaster_label
+0,Unknown,Unknown,Just happened a terrible car crash,1,Severe,2
+2,Unknown,Unknown,"Heard about #earthquake is different cities, stay safe everyone.",1,Mild,0
+3,Unknown,Unknown,"there is a forest fire at spot pond, geese are fleeing across the street, I cannot save them all",1,Severe,2
+9,Unknown,Unknown,Apocalypse lighting. #Spokane #wildfires,1,Mild,0
+11,Unknown,Unknown,Typhoon Soudelor kills 28 in China and Taiwan,1,Severe,2
+12,Unknown,Unknown,We're shaking...It's an earthquake,1,Mild,0
+46,ablaze,London,Birmingham Wholesale Market is ablaze BBC News - Fire breaks out at Birmingham's Wholesale Market http://t.co/irWqCEZWEU,1,Mild,0
+75,ablaze,India,Rape victim dies as she sets herself ablaze: A 16-year-old girl died of burn injuries as she set herself ablazeÛ_ http://t.co/UK8hNrbOob,1,Severe,2
+99,accident,"Homewood, PA",Accident cleared in #PaTurnpike on PATP EB between PA-18 and Cranberry slow back to #traffic http://t.co/SL0Oqn0Vyr,1,Moderate,1
+111,accident,Bexhill,@Traffic_SouthE @roadpol_east Accident on A27 near Lewes is it Kingston Roundabout rather than A283,1,Moderate,1
+116,accident,Unknown,For Legal and Medical Referral Service @1800_Injured Call us at: 1-800-465-87332 #accident #slipandfall #dogbite,1,Moderate,1
+124,accident,"All Motorways, UK",On the #M42 northbound between junctions J3 and J3A there are currently delays of 10 mins due to an accident c... http://t.co/LwI3prBa31,1,Moderate,1
+127,accident,"Gresham, OR",ACCIDENT - HIT AND RUN - COLD at 500 BLOCK OF SE VISTA TER GRESHAM OR [Gresham Police #PG15000044357] 10:35 #pdx911,1,Moderate,1
+140,accident,Unknown,@Calum5SOS this happened on accident but I like it http://t.co/QHmXuljSX9,1,Mild,0
+142,accident,Las Vegas ,Please donate and spread the word! A training accident left the pole-vaulter Kira GrÌ_nberg a paraplegic http://t.co/6MpnyCl8PK,1,Moderate,1
+169,aftershock,"Detroit, MI",'We are still living in the aftershock of Hiroshima people are still the scars of history.' - Edward Bond http://t.co/engTl5wrGp,1,Mild,0
+200,airplane accident,"Lake Charles, LA",When carelessness leads to an aviation accident the victim has the right to seek compensation for damages. http://t.co/eqAG6rz1vO,1,Severe,2
+206,airplane accident,Unknown,A girl who died in an airplane accident fifteen years ago,1,Severe,2
+207,airplane accident,Unknown,@Mintechan Hihow are you? There is Keio line on the stationright? BTW do you know the airplane accident near Chofu airport this week?,1,Moderate,1
+214,airplane accident,"Eagle Pass, Texas",Mexican airplane accident in Ocampo Coahuila MX on 7/29/25 killed Coahuila government SubSecretariat Francisco Garcia Castells age 42.,1,Severe,2
+217,airplane accident,Unknown,Horrible Accident  Man Died In Wings of AirplaneåÊ(29-07-2015) http://t.co/5ZRKZdhODe,1,Severe,2
+223,airplane accident,inland empire ca,@god if an accident were to happen on this airplane idc if the rest of my luggage is completely destroyed just please save my makeup,1,Moderate,1
+224,airplane accident,Muscat,Horrible Accident Man Died In Wings of Airplane (29-07-2015) http://t.co/hG8u2kR1Rq,1,Severe,2
+227,airplane accident,Unknown,#UPDATE: Picture from the Penn Twp. airplane accident. http://t.co/6JfgDnZRlC,1,Moderate,1
+228,airplane accident,New York,"See how a judge ruled in this 2009 accident at #JFK Airport? involving Korean Air?.
+
+http://t.co/Yh1cGlN3rl http://t.co/6F5ShPKjOB",1,Moderate,1
+233,airplane accident,USA - Global Online Sales ,36 years ago today baseball lost one of its greats in an airplane accident. RIP Captain. #Yankees @yankees http://t.co/iNKU28vjJj,1,Mild,0
+234,airplane accident,Unknown,Experts in France begin examining airplane debris found on Reunion Island: French air accident experts on Wedn... http://t.co/miw2i0pQxz,1,Moderate,1
+236,airplane accident,Unknown,#BreakingNews Experts in France begin examining airplane debris found on Reunion Island: French air accident e...  http://t.co/3XIcUvlvlJ,1,Moderate,1
+239,airplane accident,France,Experts in France begin examining airplane debris found on Reunion Island: French air accident experts on Wedn...  http://t.co/KuBsM16OuD,1,Moderate,1
+250,ambulance,"Istanbul, TÌ_rkiye",Twelve feared killed in Pakistani air ambulance helicopter crash http://t.co/zdsug0UjS7,1,Severe,2
+275,ambulance,"Atlanta, GA",Shot 12 times. Found dead in cuffs after being involved in a car accident. Officers told ambulance not to treat him. https://t.co/MEUDJwaaNg,1,Severe,2
+286,ambulance,World,2 held with heroin in ambulance http://t.co/d9sOwi1G21 http://t.co/OPxmdPIwAu,1,Moderate,1
+288,ambulance,Unknown,http://t.co/B2FaSrt1tN Twelve feared killed in Pakistani air ambulance helicopter crash http://t.co/O8BJXnEPQm,1,Severe,2
+292,ambulance,"West Chester, PA",Why should a helicopter ambulance ride to transfer to a hospital 21 miles away cost $29800? http://t.co/7ZqIreY7Te http://t.co/9Qp3PqPwZv,1,Mild,0
+304,annihilated,San Diego,Cop pulls drunk driver to safety SECONDS before his car is hit by train. http://t.co/cTL5xzIHxAåÊ http://t.co/1kDOZTD9mv via @ViralSpell,1,Mild,0
+305,annihilated,New Orleans,Cop pulls drunk driver to safety SECONDS before his car is hit by train. http://t.co/cSsc8HcsXnåÊ http://t.co/jBlGyLCsAy via @ViralSpell,1,Mild,0
+326,annihilated,Unknown,"Aug 3 1915ÛÓKAISERJAEGERS WIPED OUT.; Francis Joseph's Crack Regiment Annihilated on Carso Plateau.
+http://t.co/D1sPSwl66H",1,Moderate,1
+351,annihilation,Unknown,"Allied Plans for the Annihilation of the German People http://t.co/RUHxGlo18q
+http://t.co/HbUpkzWdWq
+Louis Nizer - Very interesting...",1,Mild,0
+417,apocalypse,Unknown,"Apocalypse no! Why artists should not go into the #Fukushima exclusion zone 
+http://t.co/3zqL0qbLUw
+#nuclear #ura",1,Moderate,1
+473,armageddon,Unknown,#Turkey invades #Israel - Halfway to #Armageddon http://t.co/xUOh3sJNXF,1,Mild,0
+537,army,"Logansport, Indiana",Check out more data on Upper Wabash reservoirs here on @LouisvilleUSACE site: http://t.co/hqqLQUqZmD,1,Mild,0
+547,arson,Unknown,Cheesehead Report - Arson charges filed in Jackson County house fire http://t.co/I3Y1ZWjBzO,1,Severe,2
+548,arson,"Los Angeles, CA",Arson suspect linked to 30 fires caught in Northern California http://t.co/z8tlcAdKOw,1,Moderate,1
+549,arson,Unknown,Israeli police unable to solve the case of Duma arson attack http://t.co/WtZgXzaf7Z,1,Severe,2
+553,arson,"Las Vegas, NV","SHOCK REPORT: Muslims Setting Wildfires Across American West...Arson Jihad!
+
+http://t.co/92F4nKxjIu",1,Severe,2
+555,arson,ITUNES RADIO [Hiphop/Rap],#BreakingNews Mourning notices for stabbing arson victims stir Û÷politics of griefÛª in Israel: Posters f... http://t.co/KTKDrGVHgX #rome,1,Severe,2
+557,arson,"Paterson, New Jersey ",Mourning notices for stabbing arson victims stir Û÷politics of griefÛª in Israel: Posters for Shira Banki and A... http://t.co/WbCtkGGTY9,1,Severe,2
+566,arson,"Saginaw, Mich.",RT Saginaw - Police sketches of 2 'persons of interest' in Saginaw arson http://t.co/a2tZJ07nId http://t.co/LvtP5MHjaG,1,Moderate,1
+572,arson,USA,Fire That Destroyed Charlton Winery Ruled To Be Arson http://t.co/4a9l0jrMYB,1,Severe,2
+573,arson,Unknown,WEHTWTVWlocal: Trial date set for man charged with arson burglary. https://t.co/eUk7lKS11r,1,Moderate,1
+582,arson,"Lawrence, KS",Man charged in connection to Shawnee arson and burglary: OLATHE Kan. ÛÓ A man was in court Wednesday accused ofÛ_ http://t.co/zcXmQoKtZ1,1,Severe,2
+586,arson,Unknown,960KZIM: Steele police arrest 2 in possible arson investigation https://t.co/w6ZbWryqjC,1,Severe,2
+590,arson,Unknown,Arson suspect linked to 30 fires caught in Northern California http://t.co/HkFPyNb4PS,1,Moderate,1
+595,arson,Unknown,Mourning notices for stabbing arson victims stir Û÷politics of griefÛª in Israel: Posters for Shira Banki and A... http://t.co/6o92wDfcLu,1,Severe,2
+596,arsonist,"3rd terrestrial planet, Sun",Contra Costa Co. authorities arrest suspected serial arsonist: Authorities believe thatÛ_ http://t.co/bzCmzM7bi5 | http://t.co/LBQldyKgdp,1,Severe,2
+605,arsonist,USA,Arsonist Sets NYC Vegetarian Restaurant on Fire: Police #NewYork - http://t.co/agn4cL4uSK,1,Moderate,1
+610,arsonist,"Nanaimo, BC",Arsonist torches a house himself and his getaway vehicle police say - Surrey Leader http://t.co/q0J5lTVD6k @RichardGEarl,1,Mild,0
+618,arsonist,"Dorset, UK",Hotel arsonist who caused å£70000 damage was Û÷crying for helpÛª: An arsonist has been jailed after a court hear... http://t.co/HNGDdBhewa,1,Severe,2
+620,arsonist,San Francisco,suspected serial arsonist in east bay under arrest @christinKPIX5 @NightBeatTV 10pm @KBCWtv @VeronicaDLCruz,1,Severe,2
+632,arsonist,"San Luis Obispo, California",Suspected serial arsonist arrested in NorCal http://t.co/Dty4t75CGu http://t.co/MjxbygejyL,1,Severe,2
+634,arsonist,Unknown,Surveillance Video Captures Man Removing American Flag From Long Beach Home ... - KTLA http://t.co/g0o9wiAgHu,1,Moderate,1
+645,arsonist,Fresno,Arson suspect linked to 30 fires caught in Northern California https://t.co/emsXyWp5s5,1,Moderate,1
+647,attack,Unknown,Delhi government to provide free treatment to acid attack victims in private hospitals #AAPatWork http://t.co/xjtp8SBpt3,1,Moderate,1
+666,attack,Indianapolis,TexasÛªs Gratuitously Cruel Attack On A Dying GayåÊMan http://t.co/retdjqyCuB,1,Severe,2
+673,attack,Unknown,Suspect in latest US theatre attack had psychological issues http://t.co/TvsvjuAVif http://t.co/npovfR4rGo,1,Severe,2
+696,attacked,"New Delhi,India",Cop injured in gunfight as militants attack Udhampur police post: Suspected militants attacked a police post i... http://t.co/ERW7FdxnCr,1,Severe,2
+698,attacked,UK,Newcastle: Schoolgirl attacked in Seaton Delaval park by 'pack of animals' led by a former friend http://t.co/4xbrVNib9T #newcastle,1,Moderate,1
+703,attacked,between here and there,Christian Attacked by Muslims at the Temple Mount after Waving Israeli Flag via Pamela Geller - ... http://t.co/ajMtU7EHy2,1,Moderate,1
+707,attacked,"Revolutionary Road, USA",Christian Attacked by Muslims at the Temple Mount after Waving Israeli Flag via Pamela Geller - ... http://t.co/OGoyzOlJk5,1,Moderate,1
+708,attacked,Lucknow,Tennessee man killed by police attacked family with hatchet: 911åÊcall http://t.co/pWiw9q30DT,1,Severe,2
+711,attacked,1937 Germany ,Christian Attacked by Muslims at the Temple Mount after Waving Israeli Flag via Pamela Geller - ... http://t.co/RICbduIACc,1,Moderate,1
+715,attacked,"Toronto, Ontario",Christian Attacked by Muslims at the Temple Mount after Waving Israeli Flag via Pamela Geller - ... http://t.co/zb8vVBiSY4,1,Moderate,1
+733,attacked,Melbourne,Christian Attacked by Muslims at the Temple Mount after Waving Israeli Flag via Pamela Geller - ... http://t.co/PuVOZi3Pa3,1,Moderate,1
+741,attacked,"Helsinki, Finland",@LogitechG BUT THEN THE FIRE NATION ATTACKED....,1,Moderate,1
+742,attacked,Unknown,Christian Attacked by Muslims at the Temple Mount after Waving Israeli Flag via Pamela Geller - ... http://t.co/7kxGS7VDFy,1,Moderate,1
+743,attacked,"Nashville, TN",Metro Nashville Police - simply the best.   Thank you for protecting us.    911 call: http://t.co/ZWIG51QECF via @AOL,1,Mild,0
+811,battle,Unknown,#environment Lone Pine trees growing across the country in remembrance of battle at Gallipoli 100 years ago: T... http://t.co/GJCAAnfCYk,1,Moderate,1
+830,bioterror,Unknown,FedEx no longer to transport bioterror germs in wake of anthrax lab mishaps #breakingnews,1,Moderate,1
+831,bioterror,Unknown,FedEx no longer to transport bioterror germs in wake of anthrax lab mishaps http://t.co/kA0syAhqVW via @usatoday,1,Moderate,1
+839,bioterror,South of Boston,FedEx no longer to transport bioterror germs in wake of anthrax lab mishaps http://t.co/1CsEBhPLfh via @usatoday,1,Moderate,1
+847,bioterror,East Texas,"FedEx no longer to transport bioterror germs in wake of anthrax lab mishaps
+
+http://t.co/SjNKpJ8lEe
+
+#watchcbs19 http://t.co/JiRXfok46c",1,Moderate,1
+854,bioterror,Unknown,#FedEx no longer to transport #bioterror germs in wake of #anthrax lab mishaps http://t.co/Ziw1RWPJkK,1,Moderate,1
+861,bioterror,"Phoenix, AZ",FedEx no longer to transport bioterror germs in wake of anthrax lab mishaps http://t.co/L04Q4DKvue http://t.co/z5voujEus4,1,Moderate,1
+869,bioterror,Unknown,FedEx no longer to transport bioterror germs in wake of anthrax lab mishaps http://t.co/RghHkWtKLR #newsdict #news  #FedEx,1,Moderate,1
+879,bioterrorism,USA,Bioterrorism and Ebola. http://t.co/ORIOVftLK4 RT #STOPIslam #TCOT #CCOT #MakeDCListen #TeaParty,1,Mild,0
+880,bioterrorism,Los Angeles,The largest bioterrorism attack on U.S. soil involved tacos @atlasobscura http://t.co/1n9CRhWmgl,1,Moderate,1
+887,bioterrorism,Amsterdam NL or Greenwich USA,Is it time to hedge against catastrophic risks such as climate change asteroid impacts or bioterrorism? https://t.co/HQ6WqsgSJX,1,Moderate,1
+897,bioterrorism,Unknown,Bioterrorism : Guidelines for Medical and Public Health Management (2002) http://t.co/zkUXHnoBaG http://t.co/FHgkYxffu5,1,Mild,0
+900,bioterrorism,"Denver,CO USA",@bbcworld Bioterrorism drones can reach large populated erea.,1,Mild,0
+904,bioterrorism,Unknown,@DebtAssassin They forget there is the threat of bioterrorism.,1,Moderate,1
+913,bioterrorism,Alaska,Uganda Seen as a Front Line in the Bioterrorism Fight,1,Mild,0
+914,bioterrorism,"Capitol Hill, Washington",Ppl living w/ HIV have been charged with aggravated assault and bioterrorism for things w/ low or no risk of transmission. #HIVIsNotaCrime,1,Severe,2
+920,bioterrorism,Unknown,Bioterrorism: Guidelines for Medical and Public Health Management Donald A. Hen http://t.co/tDg0Bsmd6c http://t.co/iirWFZMKHO,1,Mild,0
+950,blaze,Vancouver,Port Coquitlam fire crews say an electric towel warmer started the four alarm blaze last week that destroyed several businesses.,1,Severe,2
+970,blaze,"Lithgow, NSW, Australia",Lithgow News: Homeless after blaze near Portland http://t.co/Cht5w3znIK,1,Mild,0
+1011,blazing,ZIKKO'S HQ,"S3XLEAK!!!
+Ph0tos of 19yrs old Ash@wo lady in Festac town from Delta exp0sed on BBM 5 leaked pictures... http://t.co/lUm4l65alz",1,Mild,0
+1013,blazing,VISIT MY YOUTUBE CHANNEL.,HAPPENING NOW - FDNY RESCUE 1 BLAZING THRU@AND BLASTING THE AIR HORNÛ_ https://t.co/bX6cwRt8M7,1,Mild,0
+1016,blazing,On The Net,Satelite Shot: Series of wildfires in Northern California continue blazing: There are at least five fire compl... http://t.co/BmGuHqY7W4,1,Moderate,1
+1027,blazing,Your screen,"S3XLEAK!!!
+Ph0tos of 19yrs old Ash@wo lady in Festac town from Delta exp0sed on BBM 5 leaked pictures... http://t.co/2WUpSDttVi",1,Mild,0
+1028,blazing,"Sacramento, California",@BlazingRoselia California is hot but not blazing even though there are wildfires going on now. Even the big massive Rocky fire,1,Mild,0
+1033,bleeding,??????????? :P,#Nepal: This house near TIA bleeding intÛªl airline companies dry. | http://t.co/lI8wi1kuMY,1,Moderate,1
+1171,blight,Metro Detroit,#Detroit has made progress against blight but too many burned out shells of houses remain.,1,Moderate,1
+1355,blown up,"Paterson, New Jersey ",Deadly suicide bombing hits mosque in Saudi Arabia: A suicide bomber has blown himself up at a mosque in the s... http://t.co/RkvU3xjAzH,1,Severe,2
+1370,blown up,Unknown,@MalikChaimaa I hope Zayn gets blown up in a drone attack whilst visiting family in Pakistan ??,1,Mild,0
+1512,body bags,"Alexandria, VA ","Fairfax Co. investigating firefighter Khalil Abdul-Rasheed for Facebook post saying police shld be put in body bags
+
+http://t.co/VpvskCIyro",1,Moderate,1
+1529,bomb,"NYC, ??, VAN",One of the top RT-ed tweets in #Japan is a screenshot of a young person claiming to not know the 70th anniversary of the Hiroshima bomb,1,Moderate,1
+1536,bomb,Unknown,Hiroshima marks 70 years since bomb: The Japanese city of Hiroshima marks the 70th anniversary of the dropping... http://t.co/INRGS4z0AC,1,Mild,0
+1548,bomb,N 51å¡25' 0'' / W 0å¡45' 0'',RIP RT @AJENews: On Aug. 6 1945 at 8:16 AM Tokyo time the worldÛªs 1st atom bomb on Hiroshima http://t.co/6Q5CS9MCdW http://t.co/7OGFoQr0MG,1,Mild,0
+1550,bomb,"Tinley Park, IL",@joshrogin @slwsew379 @jimsciutto @NatSecCNN As suspected. Kerry and Barry got taken for a ride. Iran was making a bomb while talks went on.,1,Moderate,1
+1552,bomb,Unknown,Why American censors supressed accounts of suffering in Nagasaki http://t.co/kZbeas50KE http://t.co/YQgpaSX3MG,1,Severe,2
+1557,bomb,Unknown,What if your hometown were hit by the Hiroshima atomic bomb? http://t.co/XuWN4McgYp #safemode,1,Moderate,1
+1563,bomb,"Long Beach, Dublin, Amsterdam",@johncusack text: We Dropped The A-Bomb (1946)https://t.co/boJCX32qcZ Û_,1,Moderate,1
+1566,bomb,SHIBUYA TOKYO JAPAN,&lt;Kyodonews&gt; UPDATE1: Hiroshima marks 70th A-bomb anniv. amid fears of eroded pacifism http://t.co/VpGu8z1Lhb #followme #japan,1,Moderate,1
+1586,bombed,New York,At this hour 70 yrs ago one of the greatest acts of mass murder in world history occurred when #Hiroshima was bombed. http://t.co/2QJl5MfKzv,1,Severe,2
+1589,bombed,Unknown,70 years ago nowish America bombed #Hiroshima. Was it justified? All I can say is #noMOREHiroshimas #VJDay70 #FEPOW http://t.co/SYADSa6QeS,1,Mild,0
+1592,bombed,Unknown,#Hiroshima does not look like a bombed city. It looks as if a monster steamroller had passed over it and squashed it out of existence.,1,Moderate,1
+1598,bombed,"Jaipur, Rajasthan",6th July 1945 ...Hiroshima was bombed with nuclear weapon _bomb was named little boy&amp;carried in a plane called Enola Gay ...1/2,1,Moderate,1
+1616,bombed,Unknown,@davej798 @JohnEJefferson remind me when SomaliaEritrea &amp; Nigeria were bombed by UK 28% of asylum applicants to UK 2014 were from S &amp; E,1,Mild,0
+1629,bombing,Unknown,Bombing of Hiroshima 1945. http://t.co/4UHq9jKCvq,1,Moderate,1
+1630,bombing,These United States,We dont really talk about the murder of the bombing campaigns in WWII because we won but murder it is. https://t.co/jsGwnY6kdJ,1,Severe,2
+1635,bombing,Tokyo JAPAN,#Hiroshima marks 70th anniversary of atomic bombing ( via NHK WORLD News) http://t.co/qGWoyNJLY8,1,Mild,0
+1640,bombing,Philippines,Japan to mark 70th anniversary of Hiroshima atomic bombing http://t.co/RUQPVtdBzT,1,Mild,0
+1641,bombing,South East Asia,Just Happened in Asia: Japan marks 70th anniversary of Hiroshima atomic bombing http://t.co/E5dEmdScEh,1,Mild,0
+1642,bombing,London,What it was like to survive the atomic bombing of Hiroshima http://t.co/0cvXS2E1Er,1,Mild,0
+1651,bombing,Unknown,70th Anniversary of Hiroshima bombing https://t.co/juwvomhGPd,1,Mild,0
+1655,bombing,Philippines,Japan marks the 70th anniversary of the atomic bombing of Hiroshima. http://t.co/YmKn1IwPvF http://t.co/mMmJ8Bo9y3,1,Mild,0
+1656,bombing,Kill Devil Hills,'Japan Marks 70th Anniversary of Hiroshima Atomic Bombing' by THE ASSOCIATED PRESS via NYT http://t.co/kKULqGB9e3,1,Mild,0
+1659,bombing,"Derbyshire, England",The 'sanitised narrative' of Hiroshima's atomic bombing. #Hiroshima70 #japan http://t.co/zsyj6sqYCn,1,Mild,0
+1664,bombing,Philippines,Japan marks 70th anniversary of Hiroshima atomic bombing: Bells tolled in Hiroshima on Thursday as Japan marke... http://t.co/IqAIRPdIhg,1,Mild,0
+1667,bombing,Unknown,Japan marks 70th anniversary of Hiroshima atomic bombing http://t.co/MLZxmGVuIh,1,Mild,0
+1668,bombing,Somewhere on the Earth,70 yrs since the atomic bombing of Hiroshima... Terrible mass murder...,1,Severe,2
+1674,bridge collapse,"London, United Kingdom",BREAKING NEWS: Australia collapse to a hapless 60 all out at Trent Bridge http://t.co/O2CFWDzZld,1,Moderate,1
+1680,bridge collapse,Unknown,New: Two giant cranes holding a bridge collapse into nearby homes http://t.co/ACirPv8Hn4,1,Moderate,1
+1681,bridge collapse,Nigeria,@AkinwunmiAmbode Urgentthere is currently a 3 storey building at church B/stop Oworoshoki Third mainland bridge which likely to collapse,1,Moderate,1
+1682,bridge collapse,New York City & Mpls/St. Paul,"Throwback Thursday: More Thoughts About Citizen Media During Minneapolis Bridge Collapse Disaster - http://t.co/GudUDAZ4fx 
+#TBT",1,Severe,2
+1685,bridge collapse,India,Ashes 2015: AustraliaÛªs collapse at Trent Bridge among worst in history: England bundled out Australia for 60 ... http://t.co/l5ULCx4mOm,1,Severe,2
+1695,bridge collapse,Unknown,Two giant cranes holding a bridge collapse into nearby homes http://t.co/Mqm46H6G8b,1,Moderate,1
+1696,bridge collapse,Minneapolis St. Paul Minnesota,"Throwback Thursday: Minneapolis Bridge Collapse &amp; Citizen Journalism - http://t.co/bXV3vlMBBp 
+#TBT http://t.co/iBmqVWrVyz",1,Moderate,1
+1704,bridge collapse,Unknown,Australia collapse at Trent Bridge how Twitter . On the first morning of the fourth Ashes Test... http://t.co/WAtjhzULa8,1,Moderate,1
+1711,bridge collapse,Unknown,2 Injured 1 missing in bridge collapse in central Mexico http://t.co/scDa8eVwR6,1,Severe,2
+1713,bridge collapse,Unknown,Australia's Ashes disaster - how the collapse unfolded at Trent Bridge http://t.co/UqEtEeltVU #telegraph,1,Severe,2
+1717,bridge collapse,Unknown,5 injured in bridge collapse at Swiss kosher hotel: The accident occurred on Tuesday at the Metropol Hotel a ... http://t.co/sIGeZlynJ9,1,Severe,2
+1729,buildings burning,"Liverpool, England",a very scary thought is if 9/11 had happened today their would be teenagers taking selfies in front of the burning buildings,1,Moderate,1
+1732,buildings burning,Unknown,@CTVKathyLe and in other news: don't run into burning buildings,1,Mild,0
+1734,buildings burning,Unknown,forestservice : RT dhsscitech: #Firefighters run into burning buildingsÛÓwe work on #tech tÛ_ http://t.co/KybQcSvrZa) http://t.co/Ih49kyMsMp,1,Mild,0
+1736,buildings burning,The Triskelion,this is like when folks said ÛÏburning down buildings doesnÛªt workÛÛ_onlyÛ_it did. now cities trying to get information out ASAP to prevent it,1,Severe,2
+1743,buildings burning,Unknown,@chistate33 @thehill What hate crimes? It's the looney libs that are always burning down buildings and vandalzing private property,1,Severe,2
+1748,buildings burning,Sunshine Coast of BC,Port Coquitlam fire burning several businesses http://t.co/Q5FzYLBvTk,1,Moderate,1
+1749,buildings burning,New Jersey,@speechgirlAM On par with caring for the sick helping people move not talking during movies rescuing people from burning buildings...,1,Mild,0
+1751,buildings burning,Cin City,@TravDave @Kornbread_ICU especially where it happened. Really nothing to tear up. Burning the buildings saves the city money for real,1,Mild,0
+1764,buildings burning,"San Francisco, CA",Two buildings burn in 3-alarm Antioch fire: Two buildings are burning in a 3-alarm fire at the Delta PinesÛ_ http://t.co/GQgF2ygpX2,1,Severe,2
+1777,buildings on fire,Wellington,"Jane Kelsey on the FIRE Economy
+5th Aug 5:30ÛÒ7:30pm
+Old Govt Buildings Wgton
+The context &amp; the driver for #TPP and #TRADEinSERVICESAgreement",1,Moderate,1
+1778,buildings on fire,"Mighty Tempe, Arizona",'Failure doesnÛªt exist. ItÛªs only a change of direction' - Alejandro Jodorowsky (via buildings-on-fire) http://t.co/ByMVemW4xF,1,Severe,2
+1781,buildings on fire,IG: 94fijiwater,I'm security so they want me to help out in case of emergency like the buildings on fire or a shooter's in the building. I'm leaving tho..,1,Mild,0
+1782,buildings on fire,?arsehole squad?,@blainescronuts thats what i would do if there were buildings on fire,1,Moderate,1
+1783,buildings on fire,Wherever the music takes me ,fucking apartments across the street are on fire right now. 5 fuckin firetrucks wtf. this is the second time those buildings caught on fire,1,Severe,2
+1785,buildings on fire,Fallen TX,It's a testimony to the human spirit that more of us don't set fire to our office buildings on Sunday night.,1,Mild,0
+1788,buildings on fire,Las Vegas,"There are multiple buildings on fire In Downtown Hinton OK.
+The fire is threatening to level the entire block! #8NN https://t.co/pEVtSf7Cyt",1,Severe,2
+1793,buildings on fire,"?????????, ?????-?????????","#DNR
+Res. buildings shelled &amp; on fire in #Gorlovka tonight.
+Civilian casualties Jan-July 2015:ÛÓ
+164 killed (incl. 16 children)
+501 wounded",1,Severe,2
+1794,buildings on fire,"ÌÏT: 41.373061,-71.942237",@gilsimmons lightening struck &amp; 2 units in 1 of our buildings in our development on fire. Groton CT. Check out my FB wall most recent post,1,Moderate,1
+1795,buildings on fire,TAIZ - YEMEN,"#Taiz
+#Houthi #Saleh indiscriminate shelling from castle sets Tahreer st buildings on fire
+#Yemen http://t.co/qsli2ivIoG",1,Moderate,1
+1797,buildings on fire,Unknown,Buildings on fire behind Tisa's in Niceville @tristapnwfdn https://t.co/ACl1baBacR,1,Moderate,1
+1800,buildings on fire,New Hampshire Û¢ WMUR ,Two buildings involved in fire on 2nd Street in #Manchester. @WMUR9 #wmur http://t.co/bCEUGsoi2r,1,Moderate,1
+1801,buildings on fire,Yorkshire and London,"Agricultural Buildings on Fire - Aldwark - NYorks Fire &amp; Rescue Service 
+
+Still grim news but fewer piglets caught up http://t.co/0kjCWG6pN9",1,Moderate,1
+1805,buildings on fire,Boston,Multiple firefighters hospitalized after fighting a fire Manchester NH. #7News http://t.co/X1oYU5Y6bI,1,Moderate,1
+1806,buildings on fire,"Las Vegas, Nevada","There are multiple buildings on fire In Downtown Hinton OK.
+The fire is threatening to level the entire block! #8NN https://t.co/GXDKLhxU22",1,Severe,2
+1819,buildings on fire,Sydney Australia,"My Happy Pensioner Stories
+Safe Buildings: watching a report on unsafe cladding catching fire in Melbourne same... http://t.co/cnoxJB8XoQ",1,Moderate,1
+1820,buildings on fire,"Kalispell, Montana",Multiple houses/buildings on fire in Kalispell http://t.co/1iyThVshgF,1,Moderate,1
+1825,burned,"Las Vegas, NV",Family heartbroken.Mobile home at Nellis &amp; Cheyenne burned in fire. Kids were all ready to go back 2 school @News3LV http://t.co/VAf1RAiYQb,1,Moderate,1
+1830,burned,"Dallas, Texas",Let me tell you Brandace brought it today at #NTC! Heat and all...we survived! Burned over 500Û_ https://t.co/ILfd6wcGqg,1,Mild,0
+1839,burned,Poyth WesssterrrnnOystrayahhh,@IrSolichin @9Tawan99 @178kakapo @POTUS The last 2 of 68 cities where everyone was burned to death. Terrorism on the grandest of scales,1,Severe,2
+1871,burning,mumbai,hermancranston: WIRED : All these fires are burning through firefighters' budgets http://t.co/FSGAnfRgjH http://t.co/ju9zzu9TiOÛ_ Û_,1,Mild,0
+1874,burning,"Conover, NC",Geoengineering and burning of fossil fuels is making our global weather unstable. With temps up to 165å¡ and biggest flood in past 200 years,1,Mild,0
+1930,burning buildings,"San Francisco, CA",Three-alarm fire burning in Antioch apartment complex. @kron4news http://t.co/IH7cTORGRH,1,Severe,2
+1944,burning buildings,"Denver, CO",The Rocky Fire burning in CA still threatening more than 7k buildings. Largest in state &amp; one of nearly 2 dozen burning now #9newsmornings,1,Severe,2
+1970,burning buildings,San Diegohhjhhhhhghghpjg,What if we used drones to help firefighters lead people out of burning buildings/ help put the fire out?,1,Mild,0
+1977,bush fires,Dundee,Soaring temperature's in some southern US states causing bush fires pity @scotgov only allow rain in Scotland. #TweetLikeKez,1,Severe,2
+1978,bush fires,Unknown,You know it's hot when there are bush fires right near your villa ????,1,Mild,0
+1982,bush fires,Unknown,Bushfire causes first victim in Albania ::  The multiple fires in Albania have caused the first vict http://t.co/yuba6XmBlq #Bush,1,Severe,2
+1984,bush fires,"SQU\/D, uk",Drove past the field on fire yesterday. Reminded me of the bush fires we used to get in South Africa. http://t.co/SN3dHuYnFe,1,Moderate,1
+1988,bush fires,"Melbourne, Australia",Bush #food fires: http://t.co/Q1Y8lm7us9 http://t.co/TofLxOdyrX,1,Mild,0
+1993,bush fires,"Dubai, United Arab Emirates",[WATCH] Mother Nature halts Australia Blue Mountains bushfire http://t.co/xxA4rmFZ01,1,Mild,0
+1997,bush fires,$$$,@jiminswang i was about 2 say bush fires in aus but the reason is hot,1,Mild,0
+2002,bush fires,London,If you like goats and dislike bush fires then this is probably the video for you http://t.co/93VacQM4b1,1,Mild,0
+2004,bush fires,"Scotland, United Kingdom",@PamelaMueller @TIME  It is an honour  and privlege to pray. I have witnessed these bush fires when living in Australia,1,Mild,0
+2005,bush fires,Mid north coast of NSW,@TheRealPBarry How much CO2 does an erupting volcano and bush fires raging put into the atmosphere? None of the believers mention this.,1,Mild,0
+2011,casualties,Ellixton London's 33rd Borough,Warfighting Robots Could Reduce Civilian Casualties So Calling for a Ban Now Is Premature http://t.co/yvYgTcAz7k,1,Severe,2
+2018,casualties,Unknown,American Weapons and Support Are Fueling a Bloody Air War in Yemen http://t.co/ZBLU4xXo44,1,Severe,2
+2021,casualties,Unknown,More women children casualties of Afghan violence http://t.co/OstkZA1qaX,1,Severe,2
+2029,casualties,Ngayogyakarta Hadiningrat ,Memorial day of 70 years Hiroshima and Nagasaki (69 august 1945) wth total casualties 200.000+ . God forgive them!,1,Mild,0
+2030,casualties,Worldwide,Warfighting Robots Could Reduce Civilian Casualties So Calling for a Ban Now Is Premature - http://t.co/trNGqOPBdl,1,Severe,2
+2044,casualties,Unknown,@JimW_in_NM @KurtSchlichter Here's the thing: they were predicting UP TO A MILLION AMERICAN CASUALTIES. Forget the goddamn Japanese.,1,Moderate,1
+2048,casualties,Unknown,American Weapons and Support Are Fueling a Bloody Air War in Yemen http://t.co/F7ZcqaOcY7,1,Severe,2
+2052,casualties,Unknown,Let's appreciate that the group of people that everyone hates so much the police prevented mass casualties today in Nashville.,1,Severe,2
+2053,casualties,Unknown,@DonteStallworth @SteveSGoddard if you look at the casualties on Iwo Jima and Okinawa and the numbers dead on both sides you'll see it.,1,Severe,2
+2054,casualties,Unknown,@Cameron_Surname @chrisg0000 The Allies forecast an Invasion of Japan had a minimum of 1 million casualties that is a minimum.,1,Mild,0
+2072,casualty,Unknown,"ÛÏ@MacCocktail: 'The first casualty of war is truth.'
+? Hiram Johnson (died this day) - in Tony Blairs case it died before the war! ??",1,Severe,2
+2079,casualty,Unknown,Georgian wines have become a casualty in Russia's political campaign against the Ukraine: http://t.co/wCo724AmPl,1,Severe,2
+2088,casualty,"Cambridge, MA",Documenting climate change's first major casualty http://t.co/5QMvEwDgiS via @GreenHarvard http://t.co/NmtWI59MU4,1,Severe,2
+2137,catastrophe,London UK,Gaza 2014 - The Summer of Catastrophe https://t.co/gm3YI1D1dV #gaza #palestine #israel #BDS,1,Severe,2
+2143,catastrophe,"Manhattan, NY",@twlldun @peterjukes It's a very good piece. And I agree the failure of post-war planning was the catastrophe.,1,Severe,2
+2152,catastrophe,Puerto Rico,@BarackObama hello Mr. President there is a really big problem in Puerto Rico regarding the water situation no more like a catastrophe...,1,Severe,2
+2155,catastrophe,Portugal,Alaska's #Wolves face catastrophe Alexander #ArchipelagoWolves population plummeted 60% in 1 yr. Be their voice:  http://t.co/vCpKdbnSfp,1,Moderate,1
+2166,catastrophic,Unknown,[WP] Following a catastrophic event the United States is decimated. The President prepares his first post apocalyÛ_ http://t.co/6eCMRxUyR6,1,Moderate,1
+2178,catastrophic,Unknown,The Catastrophic Effects of Hiroshima and Nagasaki Atomic Bombings Still Being Felt Today http://t.co/W1iFF7ddvy,1,Moderate,1
+2197,catastrophic,Unknown,#gaming Learning from the Legacy of a Catastrophic Eruption: fifteen-mile-high plume of ash . The eruption wh... http://t.co/sv5KBP1FmO,1,Moderate,1
+2202,catastrophic,www.facebook.com/Randirobics,Society will collapse by 2040 due to catastrophic food shortages says study http://t.co/2wWZBW5lId,1,Severe,2
+2223,chemical emergency,"New Jersey, USA","Fake 'explosion toxic chemical' drills emergency responders before Pope Francis 1.5 million visit in Sept.
+http://t.co/AjVFJD3qnI",1,Severe,2
+2224,chemical emergency,"Corpus Christi, Texas",Emergency crews are on the scene of a chemical spill at Spohn Shoreline. We will have more details as they come to us.,1,Moderate,1
+2228,chemical emergency,Manchester,Emergency services called to Bacup after 'strong' chemical smells http://t.co/4GaJhSPfwl,1,Moderate,1
+2232,chemical emergency,UK,Rossendale: Emergency services called to Bacup after 'strong' chemical smells http://t.co/hUDTl2HdSV #rossendale,1,Moderate,1
+2234,chemical emergency,Sydney,"Emergency services in Hammondville. Near Jewell Close. STORY: http://t.co/jQcy5NwbUg  #Liverpool #7News
+https://t.co/snpmAlngvd",1,Moderate,1
+2243,chemical emergency,Sydney,Chemical spill at a house in Hammondville. Emergency services attending. #BreakingNews #7News http://t.co/bQ94MjYgfe,1,Moderate,1
+2249,chemical emergency,Unknown,Emergency services called to Bacup after 'strong' chemical smells http://t.co/hJJ7EFTJ7O,1,Moderate,1
+2252,chemical emergency,Unknown,@PMBreedlove Russian nuclear-biological-chemical (NBC) brigade 'emergency response' exercise in Southern MD http://t.co/qyoT2B59ig Û_,1,Moderate,1
+2253,chemical emergency,UK,Emergency prompted due to chemical spill at a factory near RedruthåÊUK https://t.co/oiCtAcbwSR http://t.co/46lSIanjMC,1,Moderate,1
+2276,cliff fall,Emirate,Huge cliff landslide on road in China: Watch the moment a cliff collapses as huge chunks of rock fall onto a r... http://t.co/LKDO0momtw,1,Mild,0
+2287,cliff fall,Unknown,"Video: Man rescued after 80ft cliff fall at Shaldon
+Read more: http://t.co/efQCLTEVlr http://t.co/4gQy7ziMfC",1,Mild,0
+2302,cliff fall,Unknown,@NTSouthWest Looks very tasty but the problem is the cliff might fall into the sea due to coastal erosion so it would be crumbly then,1,Moderate,1
+2310,collapse,"Kampala, Uganda",Greece's tax revenues collapse as debt crisis continues http://t.co/V5yyzNGRBZ,1,Severe,2
+2323,collapse,Unknown,West Side water main break causes street collapse (VIDEO) - El Paso Times http://t.co/uP9TWymJlV,1,Moderate,1
+2328,collapse,Greece,The Guardian Greece's tax revenues collapse as debt crisis continues The Guardian FreshÛ_ http://t.co/L0ARQL2q2O,1,Severe,2
+2335,collapse,Unknown,Residents set up sign as tribute to families who lost their lives in the Thane building collapse: The unfortun...  http://t.co/zT6wANhXuj,1,Severe,2
+2353,collapse,"Paterson, New Jersey ",Greece's tax revenues collapse as debt crisis continues: As talks continue over proposed âÂ86bn third bailout ... http://t.co/7w2WiEFjuq,1,Severe,2
+2360,collapsed,"Minneapolis, MN",35W Memorial honoring those who died when the bridge collapsed. http://t.co/qIb5fYaLGs,1,Moderate,1
+2380,collapsed,"Eugene, OR.",VIDEO: Link to the billowing fire after the SouthTowne Lanes roof collapsed: http://t.co/YrRHqZLKoR http://t.co/dXk4sUXMKV,1,Moderate,1
+2383,collapsed,"Huntsville, AL",3D view of the storm that developed &amp; collapsed over Albertville this evening; some wind damage reported #valleywx http://t.co/2wJ1MNz3mE,1,Moderate,1
+2393,collapsed,Hong Kong,3-pronged inquiry launched into collapsed #HongKong furniture retailer DSC http://t.co/Tg3ukIsgEN @scmp_news http://t.co/An5LpimNfA,1,Moderate,1
+2401,collapsed,Tampa Bay,Official: Crowd in tent that collapsed was told to stay put: LANCASTER N.H. - Circus workers first told spectatorsÛ_ http://t.co/yRQgASn0JG,1,Mild,0
+2461,collided,Islamabad,@FarhanKVirk @PTISalarKhan ! Instead of promoting false news first get your facts right . It was a road rage incident . Vehicles collided,1,Severe,2
+2481,collided,Unknown,#maritime The sand carrier Shinto Maru and chemical tanker Hoshin Maru collided on 7 nautical miles off Honshu... http://t.co/2bnfoAGpzD,1,Mild,0
+2509,collision,Unknown,Call to car vs fed ex truck head on collision on I-40 mile marker 118. Prayers for the families as we get to the scene!,1,Moderate,1
+2511,collision,Unknown,Motorcyclist bicyclist injured in Denver collision on Broadway http://t.co/eOPWBtUYr9,1,Severe,2
+2518,collision,Denver Colorado,Motorcyclist bicyclist injured in Denver collision on Broadway: At least two people were taken to a localÛ_ http://t.co/PMv8ZDFnmr,1,Severe,2
+2522,collision,"Parkway, CA",Traffic Collision - Ambulance Enroute: Florin Rd at Franklin Blvd South Sac http://t.co/dYEl9nMQ0A,1,Moderate,1
+2525,collision,Unknown,The Denver Post - Motorcyclist bicyclist injured in Denver collision on Broadway http://t.co/yjrIi5mHii,1,Severe,2
+2529,collision,"San Francisco, CA",Marin Sr37 / Sr121 **Trfc Collision-Unkn Inj** http://t.co/yqJVEVhSzx,1,Mild,0
+2533,collision,"Riverside, CA",Riverside I15 N Sr91 E Con / I15 N Sr91 W Con **Trfc Collision-Unkn Inj** http://t.co/QqMLKvgPQk,1,Mild,0
+2558,crash,Somewhere in the Canada,Mom fights to recover in hospital from fiery car crash while kids miss her at home - http://t.co/0UH26R2zfX,1,Severe,2
+2562,crash,Unknown,No citation for Billings police officer who caused Broadwater crash http://t.co/aAhYoEITzl http://t.co/ULZ3ubQV5z,1,Severe,2
+2563,crash,Unknown,'Our little angel': Banjo Pilon 10 dies after skateboarding crash at Wamberal: At the weekend 10-year-old B... http://t.co/5bcOQB6Cff,1,Mild,0
+2574,crash,Unknown,New post: 'India Train Crash Kills Dozens' http://t.co/6OQaZmQa3L,1,Severe,2
+2583,crash,Unknown,Thieves crash dealership gate steal four vehicles in Killeen http://t.co/aA47AXC6sr http://t.co/fz5axahPVr,1,Severe,2
+2586,crash,Vancouver,#portmoody Clarke Rd hill n/b blocked by crash past Seaview traffic back to Kemsley. Take Como Lake to Gatensbury to get around it.,1,Moderate,1
+2596,crash,Los Angeles,.@Emily_Noel95 @SterlingKnight @joeylawrence @ABCFmelissajoey that car crash was pretty fun to film  #melissaandjoeychat,1,Mild,0
+2600,crash,Philippines,NEWS: 2 injured in school bus crash in Bordentown - http://t.co/672bY6OOjn | Details: http://t.co/N5IHOfDpD4,1,Moderate,1
+2601,crash,"Indian Trail, North Carolina",The Crash And A New Depression ÛÒ The Seeds For The Next Crisis Have Already Been Sown http://t.co/IsN9HdZ4cp,1,Severe,2
+2623,crashed,Estados Unidos,Bin Laden family plane crashed after 'avoiding microlight and landing too far down runway': Three members of t... http://t.co/ZlBOeMXo2T,1,Moderate,1
+2634,crashed,Arlington VA (DC Area),#news Bin Laden family plane crashed after 'avoiding microlight and landing too far down runway': Three member... http://t.co/hHsN0VnYKs,1,Moderate,1
+2636,crashed,Unknown,"aQgcO mhtw4fnet
+
+Pakistan says army helicopter has crashed in country's restive northwest  - Fox News",1,Mild,0
+2639,crashed,Pakistan,"Pak army helicopter crashed in Mansehra. 
+Pray for departed souls. http://t.co/XclNBVvfSi",1,Mild,0
+2650,crashed,Swat Pakistan,08 Army personnel including 5 Majors were martyred when a helicopter of Army Medical Corps crashed near Mansehra. http://t.co/wyMrtwsZHU,1,Mild,0
+2762,curfew,"Lufkin.Texas,USA",Black African refugees in 'Israel' cannot attend Kenye West concert due to curfew for black refugees.. http://t.co/S0usjQYIJe,1,Moderate,1
+2804,cyclone,"Miami, FL",Happy to report all is quite in the TROPICS. Cyclone Development not expected at this time @CBSMiami @MiamiHerald http://t.co/vI5oVsaHqL,1,Mild,0
+2809,cyclone,"Melbourne, Australia",An Appeal By Cardinal Charles Bo SDB ( CNUA) Dear Brothers and Sisters The  recent cyclone and the massive... http://t.co/bLgH5bTV8T,1,Mild,0
+2810,cyclone,"Comox Valley Courtenay, BC  ",Cyclone hits Skye  http://t.co/QZYeRMrQtW http://t.co/N5AI9pQNjg,1,Mild,0
+2812,cyclone,NYC,@orochinagicom GIGATECH CYCLONE,1,Mild,0
+2814,cyclone,"Quezon City, PHILIPPINES","SEVERE WEATHER BULLETIN No. 6
+FOR: TYPHOON ÛÏ#HannaPHÛ (SOUDELOR)
+TROPICAL CYCLONE: WARNING
+
+ISSUED AT 11:00 PM... http://t.co/fKoJd0YqK0",1,Severe,2
+2816,cyclone,"Brooklyn, NY",First time for everything! @ Coney Island Cyclone https://t.co/SdNT3Dhs3W,1,Mild,0
+2818,cyclone,Sittwe,@Aliyeskii @wquddin @tunkhin80 @MaungKyawNu @drkhubybe @nslwin @ibrahimdubashi @mdskar @zarnikyaw @kyawthu043 After cyclone,1,Mild,0
+2824,cyclone,"Vineland, NJ, USA",#weather #tropicalweather: Tropical Cyclone Tracking update 1245Z 6 Aug 15. http://t.co/D79laflys9 #tropicalupdate,1,Mild,0
+2834,cyclone,Unknown,Is that a hurricane or a typhoon? No matter which one it's also a cyclone. http://t.co/c5kJAtjgzn,1,Moderate,1
+2845,cyclone,Unknown,"RT  SEVERE WEATHER BULLETIN No. 6
+FOR: TYPHOON ÛÏÛ (SOUDELOR)
+TROPICAL CYCLONE: WARNING
+
+ISSUED AT 11:00 PM...  https://t.co/BYy4dHrqyH",1,Severe,2
+2847,cyclone,NYC,Red Tropical Cyclone alert for SOUDELOR-15 in China Northern Mariana Islands 06 Aug 2015 06:00 UTC http://t.co/DMnr5Nkfo7,1,Mild,0
+2848,cyclone,"Mansfield, Ohio","#LocalEventCountdown:
+8. Curtain opens on The Black Cyclone in Shelby tickets &amp; info: http://t.co/v7dCz5DJDj #rstoday",1,Mild,0
+2868,damage,Downtown New York,#LMÛªs @frauncestavern named one of the historic properties granted $$ by @NYGovCuomo to repair #Sandy damage http://t.co/OcAdC8vFyF,1,Moderate,1
+2894,damage,USA,Alpine city park vandalized $2500 in damage http://t.co/fwk8puB2wF,1,Moderate,1
+2989,dead,Nigeria,411Naija åÈ Flood: Two people dead 60 houses destroyed in Kaduna http://t.co/yAvL49DoOF,1,Severe,2
+2996,dead,Indiana,For everyone that doesn't know Chris Prater was struck by a train this morning and pronounced dead on scene. Prayers to his family.,1,Severe,2
+3031,death,Unknown,This wall is going to be the death of me...due to the years of water leaks and lack of maintenanceÛ_ https://t.co/PVd2fYBa0q,1,Severe,2
+3032,death,Unknown,The Iran Deal Will Result In Terrorism And Death | Truth Revolt http://t.co/xrG0FacL6T,1,Severe,2
+3040,death,Unknown,A single death is a tradery many deaths is statistics.,1,Severe,2
+3063,deaths,Does it really matter!,Deaths 2 http://t.co/4A1fSwePpg,1,Mild,0
+3065,deaths,In my baby with pie,@betrayedhunter reading he paused as he came across a couple of deaths and began to read deeper into it.,1,Mild,0
+3067,deaths,Does it really matter!,Deaths 5 http://t.co/0RtxTT11jj,1,Mild,0
+3069,deaths,"Kampala, Uganda",Bigamist and his 'first' wife are charged in the deaths of his 'second' pregnant wife her child 8 her motherÛ_ http://t.co/t5HwUnjK7g,1,Moderate,1
+3076,deaths,ICO Arkansas,HEALTH FACT: Women account for 39% of smoking deaths. http://t.co/fSx2H9XAkI,1,Mild,0
+3087,deaths,UAE,@mohammedzismail because there was more deaths by regular gunsmissilesbombs and what not warfare than the A-bombs used in A war.,1,Severe,2
+3088,deaths,"Georgetown,Guyana",Infections driving up neonatal deaths ÛÒ Health Minister #Guyana http://t.co/ImugNXrEBN,1,Mild,0
+3094,deaths,Unknown,Bigamist and his Û÷firstÛª wife are charged in the deaths of his Û÷secondÛª pregnant wife her child 8 her mother her nephew 1 and their uÛ_,1,Mild,0
+3096,deaths,"Elko, Nevada",MSHA stepping up enforcement after mining deaths: http://t.co/4HM34lrUER via @elkodaily,1,Mild,0
+3098,deaths,Also follow ?,Bigamist and his 'first' wife are charged in the deaths of his 'second' pregnant wife her child 8 her mothe... http://t.co/RH15gGSgQG,1,Moderate,1
+3110,debris,Canada,Debris Found in Indian Ocean could be Malaysia Flight 370! http://t.co/VUoJPrKUAX,1,Mild,0
+3113,debris,Rochester Minnesota,BBC News - MH370: Reunion debris is from missing Malaysia flight http://t.co/bze47fzKUd,1,Moderate,1
+3121,debris,Unknown,#news Island Wreckage Is From Missing Malaysian Jet: Officials: Debris found on Reunion Island is from flight ... http://t.co/kRvUmMtVY2,1,Moderate,1
+3127,debris,Eastbourne East Sussex ,Hopefully this will bring some closure for the families #MH370: Malaysian PM confirms debris is from missing flight http://t.co/2963y36LdF,1,Moderate,1
+3128,debris,Unknown,RÌ©union Debris Is Almost Surely From Flight 370 Officials Say http://t.co/hJ1BX8Bgu1,1,Mild,0
+3129,debris,UK.,#AUS Aircraft debris found on island is from MH370 Malaysia confirms http://t.co/1zFGk9ET5v #abc,1,Mild,0
+3135,debris,Unknown,#?? #?? #??? #??? MH370: Aircraft debris found on La Reunion is from missing Malaysia Airlines ...  http://t.co/ykLruIMIsD,1,Moderate,1
+3143,debris,Unknown,With authorities ???increasingly confident??? the airplane debris recovered Wednesday comes from MH370 official analysis is set to begin,1,Mild,0
+3146,debris,"Calabasas, CA",Investigators: Plane Debris Is 'Conclusively' From MH370 http://t.co/uKOZWID5k3 #gadgets #tech,1,Mild,0
+3148,debris,World,Top story: MH370: Reunion debris is from missing plane - BBC News http://t.co/jasWg2MwIi see more http://t.co/qgk64YPN13,1,Moderate,1
+3149,debris,"New York, NY",Per Malaysia's PM 'this piece of debris ... is conclusively a part from the wing of #MH370.' More right now http://t.co/Bd3ik4oz2r,1,Mild,0
+3151,debris,"Bristol, UK",Interesting MH370: Aircraft debris found on La Reunion is from missing Malaysia Airlines ... - ABC O... http://t.co/q0OjWnY4Kc Please RT,1,Mild,0
+3206,deluged,"Toronto, Canada",thousands displaced as houses &amp; roads deluged by floodwater after week of persistent rains. #floods #climate #cdnpoli http://t.co/4WeDZRSWbn,1,Mild,0
+3209,deluged,'schland,Police are still searching for two people after rain and mud deluged the western town of TetovoÛ_ http://t.co/XPhZ3GoUhR #Deutsche #Sprache,1,Mild,0
+3247,deluged,hyderabad,Glimpses: &lt;b&gt;Hyderabad&lt;/b&gt; deluged by heavy rainfall: HYDERABAD: With flood waters headingÛ_ http://t.co/TWFWTxZ2dS,1,Mild,0
+3250,deluged,Austin,"deluged dismay so
+soon surrendered summer drought
+descending disturbed
+
+#sunrise#haiku #poetry #wimberley #atx#smtx http://t.co/z9FDebg5Fm",1,Severe,2
+3257,demolish,USA,"RT AbbsWinston: #Zionist #Terrorist Demolish Tire Repair Shop Structure in #Bethlehem
+http://t.co/Om3ntQIh2m http://t.co/6SAS3fuahA",1,Severe,2
+3305,demolished,Canada,A demolished Palestinian village comes back to life http://t.co/Jsf5OFB3m6 via @wagingnv http://t.co/Hskd5MUosM,1,Mild,0
+3321,demolished,"Paterson, New Jersey ",@Ramdog1980 Israeli soldiers demolished a residential shed and a barn. Soldiers also demolished a shed in Beit Kahel northwest of Hebron.,1,Moderate,1
+3330,demolished,"Paterson, New Jersey ",Six Palestinians Kidnapped in West Bank Hebron Home Demolished - International Middle East Media Center http://t.co/J9UzIIQ3PX,1,Mild,0
+3331,demolished,India,Uttarakhand: Journalist's house demolished who exposed corruption - Oneindia http://t.co/Ro1aWWuDYE,1,Severe,2
+3358,demolition,"San Diego, CA",De-watering demolition defends against flooding http://t.co/dTO0ULjxn3,1,Mild,0
+3360,demolition,Unknown,"#Muslim cemetery demolition infuriates cultural groups in #Israel 
+
+http://t.co/vpLZKUidz2",1,Mild,0
+3371,demolition,cyberspace,Canberra's Currong Apartments marked for demolition in September http://t.co/ZyRR8DzJx6,1,Mild,0
+3374,demolition,Unknown,General News Û¢åÊ'Demolition of houses on waterways begins at Achimota Mile 7 ' via @233liveOnline. Full story at http://t.co/iO7kUUg1uq,1,Mild,0
+3378,demolition,"New York, New York",Demolition Means Progress: Flint Michigan and the Fate of the American Metropolis Highsmith https://t.co/fj7p8A1hvM,1,Mild,0
+3385,demolition,Unknown,Problem motel nears demolition http://t.co/fKx4IH7kM1 http://t.co/n8VcxGyhQ8,1,Moderate,1
+3416,derail,San Francisco,Two trains derail in central India's Madhya Pradesh http://t.co/ijDePwuYNY,1,Moderate,1
+3422,derail,Unknown,BBC News - India rail crash: Trains derail in Madhya Pradesh flash flood http://t.co/9UFemKfIiv,1,Severe,2
+3426,derail,Unknown,Related News: Here&amp;#8217;s what caused a Metro train to derail in downtown D.C. - Local - The Washington Post |  http://t.co/4AoNQ9vnhs,1,Moderate,1
+3453,derailed,DC & MoCo,@CoolBreezeT train derailed at Smithsonian...no passenger train...then my red line train became disabled between FH &amp; Bethesda,1,Moderate,1
+3456,derailed,"Edmonton, Alberta",Interesting to note: Metro train derailed in Washington this morn after going thru interlocking area. One of lines affected by closure 1/3,1,Moderate,1
+3457,derailed,"Washington, DC",@FixWMATA @AdamTuss Do you know about path of derailed train? Doesn't make sense. If it was coming from yard why turning at Smithsonian?,1,Severe,2
+3458,derailed,"District of Columbia, USA",Train derailed at Smithsonian Metro. Sidewalks outside L'Enfant mobbed to get on buses @wmata #nightmarecommute,1,Moderate,1
+3461,derailed,PG,@lizkhalifa no passenger train derailed earlier this morning,1,Moderate,1
+3467,derailed,"Waterloo, Ontario, Canada",".@CBCNorth see photo Old Lady of the Falls (sacred site) RR says derailed Talston power line to diamond mines in 2010
+http://t.co/SxlfSNsPH0",1,Moderate,1
+3488,derailed,"Washington, DC",Also there is no estimate of damage yet from #WMATA/#Metro on the six-car train that derailed ~5 a.m. Shuttle service available. @CQnow,1,Severe,2
+3491,derailed,"Alexandria, VA, USA",Oh a #wmata train derailed. Kind of disappointed how unsurprised I am.,1,Moderate,1
+3496,derailed,"Woodbridge, VA ",3 cars of #Metro train ready to go into service derailed near #Smithsonian station disrupting service. No injuries. More at noon @wusa9,1,Severe,2
+3502,derailed,"/ Kattappana, Kerala ",'@WSJ: How a rare lizard derailed Adani GroupÛªs plan to build a huge coal mine in Australia http://t.co/dkNPK6FbE4 http://t.co/BiVShY4q1b',1,Moderate,1
+3507,derailment,Worldwide,Google News - A Twin Train Derailment in India Leaves at Least 24 Dead - TIME http://t.co/yf56oK7Pgp #world,1,Severe,2
+3511,derailment,"Chicago, IL",@CTAFails PHOTOS from Green Line derailment http://t.co/Y8xFVJAlLr http://t.co/qUUUN88czw,1,Mild,0
+3515,derailment,Unknown,Madhya Pradesh Train Derailment: Village Youth Saved Many Lives: A group of villagers saved over 70 passengers' lives after two train...,1,Mild,0
+3516,derailment,"Chicago, IL",#CTA GREEN LINE: All passengers have been evacuated due to a derailment however no service Garfield-Cottage Grove. http://t.co/qePJ0Hwpay,1,Moderate,1
+3538,derailment,Chicago,Great photo by the Tribune's Terrence Antonio James after Green Line derailment (no one hurt fortunately) http://t.co/YFavM641OS,1,Mild,0
+3539,derailment,Mumbai,Latest : Suresh Prabhu calls Harda derailment a natural calamity; officials feel ... - Economic Ti... http://t.co/6bCIvdaEa0 #IndianNews,1,Mild,0
+3541,derailment,Unknown,CTA Green Line service has resumed after an earlier derailment near Garfield expect delays. @WBBMNewsradio,1,Mild,0
+3545,derailment,Unknown,Green Line trains resume service after South Side derailment: Green Line service has resumed more than four h... http://t.co/dJztc7apf1,1,Mild,0
+3547,derailment,Unknown,#Amtrak Rail #Disaster http://t.co/H6Ol73KZJg http://t.co/Qfydu4PVGK,1,Severe,2
+3551,derailment,India,Madhya Pradesh Train Derailment: Village Youth Saved Many Lives,1,Mild,0
+3579,desolate,Macclesfield,@WilliamTCooper TY for the follow Go To http://t.co/l9MB2j5pXg BRUTALLY ABUSED+DESOLATE&amp;LOST + HER LOVELY MUM DIES..Is it Murder? Pls RT,1,Moderate,1
+3620,desolation,"Sydney, Australia",#Kids going to #school amidst the #desolation of an #earthquake #aftermath #Love #OlympusÛ_ https://t.co/pqds20yrJs,1,Mild,0
+3699,destroyed,Unknown,@Musketeiro I see ISIL destroyed in Iraq in  May 2016. This may help Iraqis help Syrian government against it. But Nusrah and Ahrar not yet.,1,Severe,2
+3701,destroyed,Unknown,#TheSun Flood: Two people dead 60 houses destroyed in Kaduna: Two people have been reportedly killed and 60 h...  http://t.co/Aawmx5w9sh,1,Severe,2
+3709,destroyed,"festac,Lagos,Nigeria",(SJ GIST): 148 Houses Farm Produce Destroyed By Flood In Sokoto: About 148 houses were on Saturday destroyed ... http://t.co/vqU1Y31hKU,1,Severe,2
+3720,destroyed,Nigeria,Flood: Two people dead 60 houses destroyed in Kaduna http://t.co/8H2SP6Ze3o,1,Severe,2
+3728,destroyed,"Cape Town, South Africa",Remember #Hiroshima destroyed by #Nuclear bomb..an occurrence should never ever happen again yet highly likely recur http://t.co/mB3MJevBb0,1,Severe,2
+3733,destroyed,"Dunedin, New Zealand",19000 homes destroyed in Gaza -- ZERO rebuilt. Join me in busting the blockade! Sign &amp; RT #Gaza #OpenGaza https://t.co/WF9GMhjh2M,1,Moderate,1
+3762,destruction,"lake worth, Fl",New RAN report from the frontlines of human rights abuses and forest destruction for fashion.: http://t.co/OmpzUyAsle,1,Severe,2
+3781,destruction,Hollywood,Russian authorities to take account of petition against destruction of sanctioned food: Vladimir Putin's press... http://t.co/GUvSVPesZU,1,Severe,2
+3783,destruction,Unknown,The day of death destruction chaos; 60000 to 80000 people were killed instantly. Please take sometime to remember and think about others,1,Severe,2
+3784,destruction,Unknown,He is one of the three survivors of the destruction of Otsuka Village.,1,Severe,2
+3791,destruction,Unknown,New RAN report from the frontlines of human rights abuses and forest destruction for fashion.: http://t.co/5xyE2Rkuri,1,Severe,2
+3792,destruction,Unknown,Related News: The Bureaucrats Who Singled Out Hiroshima for Destruction - Global - The Atlantic |  http://t.co/Tnex4HUsnp,1,Severe,2
+3847,detonate,Boulder via DC,First Stearns grenade thought to be WWII-era. This one apparently newer. Bomb squad plans to detonate around 8 p.m. http://t.co/qppTQ6oTat,1,Moderate,1
+3882,detonation,ShloMotion,#JerusalemPost WATCH: Israel performs controlled detonation of land mines on Golan Heights http://t.co/01HuX8Y9Gi,1,Mild,0
+3884,detonation,Unknown,via Jerusalem Post: WATCH: Israel performs controlled detonation of land mines on Golan Heights... http://t.co/rFB2ft4wX0,1,Mild,0
+3891,detonation,Please follow and RT! :),WATCH: Israel performs controlled detonation of land mines on Golan Heights - Jerusalem Po... http://t.co/0Y07oA5UeX #israel #israelnews,1,Mild,0
+3898,devastated,Unknown,Obama Declares Disaster for Typhoon-Devastated Saipan,1,Severe,2
+3915,devastated,Unknown,Obama Declares Disaster for Typhoon-Devastated Saipan: Obama signs disaster declaration for Northern Marians a... http://t.co/AslUFEKOXN,1,Severe,2
+3920,devastated,Unknown,Obama Declares Disaster for Typhoon-Devastated Saipan: Obama signs disaster declaration for Northern Marians a... http://t.co/9i6CrCRq2m,1,Severe,2
+3930,devastated,Dhaka,Obama Declares Disaster for Typhoon-Devastated Saipan: Obama signs disaster declaration for Northern Marians a... http://t.co/lEYJwNnAH8,1,Severe,2
+3965,devastation,wherever Wolf Blitzer is,#CNNHoTD soccer mom wild swimming handcuffed child teen hookup case nuclear devastation showers Miss Piggy... http://t.co/XG9s40AFtZ,1,Moderate,1
+3972,devastation,"Pennsylvania, USA",Despite past devastation fortunately #forgiveness mutual #respect and #peace emerged.  #Remember #Hiroshima and #Nagasaki,1,Mild,0
+3976,devastation,Unknown,"HQhed mhtw4fnet
+
+A sad reminder of nuclear devastation - Washington Post",1,Severe,2
+3985,devastation,EspaÌ±a/Catalunya/Girona,Is This Country Latin America's Next 'Argentina': One week ago we reported on the economic devastation in he o... http://t.co/J3rcOflDyA,1,Severe,2
+3987,devastation,Pakistan,At least 18 houses 5 bridges destroyed in flash #floods in #Gilgit-#Baltistan on Wednesday. http://t.co/HSJcR45SIS http://t.co/dQ931ea6Pr,1,Severe,2
+3988,devastation,Unknown,70 Years After Atomic Bombs Japan Still Struggles With War Past: The anniversary of the devastation wrought b... http://t.co/JESoSSDjjH,1,Severe,2
+3991,devastation,kansas USA,70 Years After Atomic Bombs Japan Still Struggles With Wartime Past: The anniversary of the devastation wroug... http://t.co/AU6Sm5FaMq,1,Severe,2
+3999,disaster,Ottawa,IRIN Asia | Red tape tangles Nepal reconstruction | Nepal | Disaster Risk Reduction | Natural Disasters http://t.co/q7LG6ncf7G,1,Severe,2
+4002,disaster,Indiana,Trying to route my sister into W. Lafayette from the Indy airport. Suggested I-74 to SR 25 west of Crawfordsville. Hope it's not a disaster.,1,Mild,0
+4004,disaster,"UiTM, Shah Alam",Time to End the Disaster of Rail Privatisation http://t.co/ksxznPY5gt,1,Severe,2
+4031,disaster,Unknown,Disaster [Chapter 27] https://t.co/EAsxT3y84R http://t.co/CjUFunsDKg,1,Severe,2
+4035,disaster,Unknown,Deepwater drill company gains $735m: Transocean one of the companies associated with BP's Deepwater Horizon oil well disaster recoversÛ_,1,Severe,2
+4040,disaster,Unknown,"This Palestinian family was lucky but hundreds are feared dead in the latest boat disaster in the Mediterranean
+https://t.co/cT5v3LcNKD",1,Severe,2
+4048,displaced,International Action,Heat wave adding to the misery of internally-displaced Gazans http://t.co/jW3hN9ewFT via @PressTV http://t.co/NYWrkRQ7Kn,1,Severe,2
+4053,displaced,Pedophile hunting ground,.POTUS #StrategicPatience is a strategy for #Genocide; refugees; IDP Internally displaced people; horror; etc. https://t.co/rqWuoy1fm4,1,Severe,2
+4066,displaced,magodo,#mightyworld Thousands displaced after monsoon rains in Myanmar: Tens of thousands of people have been displac... http://t.co/HkSDk89c6C,1,Mild,0
+4067,displaced,Unknown,Angry Woman Openly Accuses NEMA Of Stealing Relief Materials Meant For IDPs: An angry Internally Displaced woman... http://t.co/C1vzJOr2qz,1,Severe,2
+4070,displaced,"Indianapolis, IN",Job event targets displaced Double 8 employees http://t.co/2SJaaDRYdc http://t.co/RovTa5EUQO,1,Moderate,1
+4073,displaced,U.S.,#Myanmar  Displaced #Rohingya at #Sittwe point of no return http://t.co/3S8nhaPVCh  #Prison like conditions #genocide IHHen MSF Refugees,1,Moderate,1
+4075,displaced,usa,local family displaced by fire http://t.co/f1nu18CArd via @gofundme  Lets help that family out please,1,Moderate,1
+4082,displaced,U.S.,.POTUS #StrategicPatience is a strategy for #Genocide; refugees; IDP Internally displaced people; horror; etc. https://t.co/8owC41FMBR,1,Severe,2
+4099,drought,Unknown,U.S. in record hurricane drought http://t.co/NratKzyU5E #JustBitching http://t.co/JATvPAT0MO,1,Mild,0
+4102,drought,"Beaumont, Texas",Drought report lists SE Texas as 'abnormally dry' http://t.co/wBOXpyoZj0 #SETXNews,1,Moderate,1
+4110,drought,arizona,@MarcVegan @NonDairyKerry true. Also takes 16000 gal water to produce 1 lb hamburger. Drought in Midwest will be chaos,1,Severe,2
+4118,drought,Portugal-Spain-Indonesia,U.S. in record hurricane drought http://t.co/JXOMdLtJ73,1,Mild,0
+4120,drought,"Tyler, TX",New drought monitor showing drought spreads in ETX. 'Severe Drought' in Marion/Harrison Counties. @KLTV7 http://t.co/v8eG2kSLoH,1,Severe,2
+4130,drought,Unknown,Water conservation urged for North Thompson: B.C. government declares a Level 3 drought level for the North Th... http://t.co/dJ4qw8YfW5,1,Mild,0
+4134,drought,Hustle Flow Nation,#KondoByJaymOnI U.S. in record hurricane drought http://t.co/fqLSkejWxH #Anticipate,1,Mild,0
+4137,drought,"Dubai, UAE",U.S. in record hurricane drought http://t.co/Wd4UdSxacq via CNN,1,Mild,0
+4207,drowned,UK,Hundreds feared drowned as migrant boat capsizes off Libya: Hundreds of migrants are feared to have drowned af... http://t.co/bF3OhacB1r,1,Severe,2
+4208,drowned,Unknown,100s of migrants feared drowned after 700 squeeze onto boat in Mediterranean.  http://t.co/lsyPtk18se,1,Severe,2
+4215,drowned,Germany,Hundreds feared drowned as migrant boat capsizes off Libya: Hundreds of migrants are feared to have drowned af... http://t.co/Cbhe0eXIRA,1,Severe,2
+4217,drowned,FEMA REGION 2,Hundreds of migrants feared drowned off Libya: http://t.co/RTx4O0SIyH #news #bbc #cnn #msnbc #nyt #tcot #tlot #waar #ccot #ctot #p2 #ap,1,Severe,2
+4223,drowned,Unknown,Hundreds feared drowned as migrant boat capsizes off Libya http://t.co/U8H5s8oPs5 #NLU,1,Severe,2
+4231,drowned,Jupiter,#dw_english Hundreds feared drowned as migrant boat capsizes off Libya: Hundreds of migrants are feared to hav... http://t.co/i9HW0qZoVy,1,Severe,2
+4254,drowning,Unknown,Boy saves autistic brother from drowning: A nine-year-old in Maine dove into a pool to save his autistic broth... http://t.co/pihUIaOR5O,1,Mild,0
+4258,drowning,"Atlanta, GA",Family mourns drowning of 'superhero' toddler with rare epilepsy: Bradley Diebold suffered hundreds of epilept... http://t.co/aSAn4yGd48,1,Severe,2
+4285,drowning,Liverpool,Boy saves autistic brother from drowning: A nine-year-old in Maine dove into a pool to save his autistic brother from drowning,1,Mild,0
+4308,dust storm,Unknown,The dust storm chase scene is pretty damn cool. #GhostProtocol,1,Mild,0
+4311,dust storm,Unknown,recent project (Dust Storm ). :) http://t.co/jmj9izVvzO,1,Mild,0
+4315,dust storm,Mtl,Photo: susfu: Dust storm rolling onto the base by cptesco August 03 2008 at 09:39PM http://t.co/ekkruDQzbv,1,Mild,0
+4331,dust storm,France,Photoset: hookier: New stills from The Dust Storm (x) http://t.co/h8YjcFG8hv,1,Mild,0
+4338,dust storm,San Francisco,@whatupdave Headline in 2075 'Dust Storm on Mars Destroys 1% of Money Supply',1,Severe,2
+4339,dust storm,Louisville Kentucky,Pickathon dust storm is sadly over but we have @sunsetballard in Seattle tonight to look forward to w/ @tomonakayama http://t.co/RtgGzWCAix,1,Mild,0
+4340,dust storm,The Universe,Kids Disappear in Dust Storm in Atmospheric Aussie Thriller http://t.co/iR7VaxehEW RT @Newz_Sacramento,1,Mild,0
+4346,dust storm,San Francisco,A dust storm in Pheonix. http://t.co/AMgfOnzUSD,1,Mild,0
+4347,dust storm,Unknown,NASA MODIS image: Dust storm over Morocco and the Straits of Gibraltar http://t.co/Q1jBreEsXv #duststorm,1,Mild,0
+4360,earthquake,"Hawaii, USA",USGS EQ: M 1.9 - 5km S of Volcano Hawaii: Time2015-08-06 01:04:01 UTC2015-08-05 15:04:01 -10:00 a... http://t.co/3rrGHT4ewp #EarthQuake,1,Mild,0
+4364,earthquake,"Do Not Follow Me, Am I a Bot.",#Earthquake of M 2.9 - 140km W of Ferndale California http://t.co/8t8oSCs4w7,1,Mild,0
+4367,earthquake,"Bay Area, California ",@lizXy_ IMAGINE IF AN EARTHQUAKE HAPPENED,1,Mild,0
+4369,earthquake,"Sydney, New South Wales",#Children traumatised after the Nepal earthquake are educated on coping mechanisms.   http://t.co/UbwDBydK1a,1,Severe,2
+4380,earthquake,Unknown,5.3 #Earthquake in South Of Fiji Islands. #iPhone users download the Earthquake app for more information http://t.co/V3aZWOAmzK,1,Mild,0
+4386,earthquake,"Alaska, USA",#USGS M 1.9 - 15km E of Anchorage Alaska: Time2015-08-06 00:11:16 UTC2015-08-05 16:11:16 -08:00 at epicen... http://t.co/HkIiPyX5jL #SM,1,Mild,0
+4389,earthquake,"California, USA",1.57 magnitude #earthquake. 27 km from #Ramona CA #UnitedStates http://t.co/ZtOlVGkDuk,1,Mild,0
+4390,earthquake,"Alaska, USA",1.9 magnitude #earthquake. 16 km from Anchorage AK #UnitedStates http://t.co/wVu08yJGOK,1,Mild,0
+4461,electrocuted,USA,South Side factory where worker electrocuted pays $17000 penalty #Columbus http://t.co/nSGWiCYXFT,1,Moderate,1
+4469,electrocuted,Central #Ohio,South Side factory where worker electrocuted pays $17000 penalty http://t.co/PENJHc4ZCx #Columbus #Ohio #news,1,Moderate,1
+4545,emergency,"Las Vegas, Nevada",Be safe and be prepare from emergency kits to evacuation. Alertness esp women and children who are also @gmanews  https://t.co/3GALBowItN,1,Mild,0
+4552,emergency plan,"Calgary, Canada",Municipal Emergency Plan deactivated! Crisis averted.  https://t.co/37L4qUAAVu,1,Severe,2
+4554,emergency plan,Unknown,Calgary takes another beating from summer storms; City activates emergency plan http://t.co/4oi9hMo7om,1,Moderate,1
+4558,emergency plan,"Vancouver, Canada",Calgary takes another beating from summer storms; City activates emergency plan: It was another day of watching theÛ_ http://t.co/240ZLieBrk,1,Moderate,1
+4559,emergency plan,"Paonia, Colorado",@go2MarkFranco I spoke w Caleen Sisk. If #ShastaDam gets funded through Cali Emergency Drought Act I plan on doing story wfocus on Winnemem,1,Mild,0
+4581,emergency plan,edmonton,Calgary takes another beating from summer storms; City activates emergency plan http://t.co/u59DmRnlTK,1,Moderate,1
+4583,emergency plan,Calgary,Calgary takes another beating from summer storms; City activates emergency plan #yyc #abstorm http://t.co/iQIXjtUEwH,1,Moderate,1
+4586,emergency plan,In erotic world ,Calgary takes another beating from summer storms; City activates emergency plan: Calgary Airdrie Okotoks and... http://t.co/i7QX4hAz6R,1,Moderate,1
+4591,emergency plan,"Calgary, Alberta",Storm prompts activation of City of Calgary's Municipal Emergency Plan: As the City of Calgary remains under aÛ_ http://t.co/7jcR8REgUv,1,Moderate,1
+4603,emergency services,Singapore,Call for Tasmania's emergency services to be trained in horse rescues http://t.co/q9OXqfdGwX #abcnews,1,Moderate,1
+4612,emergency services,"Lismore, New South Wales",Ballina emergency services have again been activated following a shark sighting of what has been described as two... http://t.co/Eu5tKTptpW,1,Moderate,1
+4613,emergency services,UK.,Call for Tasmania's emergency services to be trained in horse rescues http://t.co/zVQwLpScSC,1,Moderate,1
+4647,emergency services,"Bodmin, Cornwall",@bodminmoor1 experienced the expertise of some of Cornwalls finest emergency and rescue services!,1,Mild,0
+4654,engulfed,United Kingdom,Tube strike live: Latest travel updates as London is engulfed in chaos - http://t.co/wrMSpcpml3 http://t.co/nWolqktxaf,1,Severe,2
+4683,engulfed,Unknown,Men escape car engulfed in flames in Parley's Canyon crews investigating cause - http://t.co/1TVFfba95l http://t.co/ALjwAWkxPj,1,Mild,0
+4685,engulfed,"Hollywood, California",#Tubestrike live: Latest travel updates as #London is engulfed in chaos - Telegraph http://t.co/AFzJamLFe6,1,Severe,2
+4728,evacuate,Kurdistan ,ISIS are deploying their troops to other battle grounds since deal with Turkey to evacuate buffer zone areas hence moving fronts to Assad.,1,Severe,2
+4733,evacuate,foothills,What if the fire up in the Catalinas gets worse and we have to evacuate the area. Aka no school tomorrow,1,Moderate,1
+4743,evacuate,San Diego,my father fucking died when the north tower collapsed ON HIM as he was trying to evacuate more people from the building.,1,Severe,2
+4756,evacuate,Oregon & SW Washington,Town of Roosevelt Washington ordered to evacuate again as fire worsens http://t.co/Xkh5s1DR8d,1,Severe,2
+4761,evacuated,"Arizona, USA",@misschaela_ not yet.  Everywhere else except us and like a few other shops like Panda are evacuated but they haven't come for us yet.,1,Mild,0
+4764,evacuated,"Grand Rapids, Mich.",Chemical spill at GR water plant contained and water supply OK. @KocoMcAboy asked plant officials what happened: http://t.co/FHPLkEX3oK,1,Mild,0
+4767,evacuated,Unknown,A house was evacuated in Orakei after a bank collapsed and trees were felled by strong winds in Auckland ... http://t.co/UCuCmKypdN #NZ,1,Mild,0
+4772,evacuated,St. Louis,Chesterfield apartment complex evacuated because of fire #STL http://t.co/MIq39IOK3U,1,Moderate,1
+4776,evacuated,"Gold Coast, Australia",Gold Coast tram evacuated due to broken powerlines http://t.co/hJqbA42iY9 #Local NewsbrokenEmergency ServicesGold CoastpowerlineTramTr,1,Moderate,1
+4780,evacuated,State of Jefferson,"So many fires in NorCal they can't fight some of them. 
+
+Pray for our firefighters air tanker pilots support crews &amp; evacuated people.",1,Mild,0
+4781,evacuated,"Queensland, Australia",#FortitudeValley unit damaged and residents evacuated after fire broke out after 7am this morning #7News http://t.co/8iZgxCeLcc,1,Severe,2
+4792,evacuated,Auckland NZ,Family evacuated after weather bomb http://t.co/2A4z8pmvVE,1,Moderate,1
+4796,evacuated,Chicagoland and the world!,Grass fire burns past Roosevelt Wash. prompts evacuation http://t.co/BSuDXCPrSG #fire #firefighter,1,Severe,2
+4801,evacuated,"Chicago, Illinois",Green Line train derails on South Side passengers safely evacuated CTA says http://t.co/w6F7ZiS3KA http://t.co/t7L8jCjyq3,1,Mild,0
+4804,evacuated,Everywhere.. ,Why does the secret bunker used by Cheney during 9/11 look like it was catered when ktchn staff had been evacuated?,1,Mild,0
+4805,evacuated,Australia,Valley building evacuated after fire http://t.co/nyqF8GqMzg #queensland,1,Moderate,1
+4806,evacuated,Unknown,13000 evacuated as California firefighters fight flames to save homes: CLEARLAKE OAKS Calif. ÛÓ Wildfires lik... http://t.co/xwBYeaOWMw,1,Mild,0
+4817,evacuation,Nigeria ,FAAN orders evacuation of abandoned aircraft at MMA http://t.co/5RXI47gCAj #NEWS @TodayNGR,1,Moderate,1
+4824,evacuation,"West Palm Beach, FL",Do you know your hurricane evacuation route? Find it here: http://t.co/mWMVIcdW9O,1,Mild,0
+4827,evacuation,"Chevy Chase, MD",The EFAK would be designed for building occupants once they evacuate and report to their evacuation assembly sites,1,Mild,0
+4838,evacuation,"The Dalles, Oregon",KCEM Jeff King reports a level 3 evacuation east of Roosevelt from Whitner rd to the county line between SR14 &amp; Hale rd.,1,Mild,0
+4839,evacuation,NIFC,#MadRiverComplex #CA #CASRF http://t.co/hjWLDCLiE4 Mad River Complex: Evacuation Advisory for Swayback Ridge Area,1,Mild,0
+4841,evacuation,Unknown,@CALFIRE_PIO Being prepared is crucial but returning to homes after evacuation only to find them robbed is criminal! #WillowFire,1,Severe,2
+4851,evacuation,Edmonton Alberta Canada,Survey: 52% of medical care facilities near nuclear plants lack evacuation plans http://t.co/vLMmCdPkRo,1,Moderate,1
+4855,evacuation,Breaking News,Evacuation order lifted for town of Roosevelt - Washington Times http://t.co/Kue48Nmjxh,1,Mild,0
+4921,exploded,"Alexander, Iowa",#Aphid population in #NorthIowa has exploded in last 4 days! http://t.co/cw6jxYVbNj #FromTheField,1,Mild,0
+4928,exploded,"ÌÏT: 39.168519,-119.766123",Holy hell the bathroom on car 649 smells like is exploded... @Metrolink,1,Mild,0
+4937,exploded,Unknown,#news #science London warship exploded in 1665 because sailors were recycling artillery cartridges: A dive to ... http://t.co/r4WGXrA59M,1,Mild,0
+4939,exploded,Unknown,At this moment 70 years ago (local time) the 'Little Boy' atomic bomb exploded over Hiroshima instantly killing at least 70-80000 people.,1,Severe,2
+4960,exploded,?????,Fun. Hobby Lobby exploded in this home. http://t.co/TT5L40sjaI,1,Mild,0
+4963,explosion,Unknown,Hp lto-5 lump together warehouse information explosion is more than one divestment able: PMngiqy,1,Mild,0
+4965,explosion,Unknown,GAElite 0    Explosion Greg 1 [Top 2nd] [0 Out] [0 balls] [0 strikes] ... No one on [P: #16 Morgan Orchard] [B: ],1,Moderate,1
+4991,explosion,Unknown,Ahead of Print: A New Paradigm of Injuries From Terrorist Explosions as a Function of Explosion Setting Type.:... http://t.co/tqQc3yxBoR,1,Severe,2
+5003,explosion,"Florida, USA",1 injured in Naples boat explosion http://t.co/89lcTH3Sx1,1,Moderate,1
+5012,eyewitness,California,Read an eyewitness account from #Hiroshima on Aug. 6 1945 http://t.co/sbIP9g52YQ Mankind's worst invention.,1,Severe,2
+5023,eyewitness,Free Palestine | Save Gaza,#Fracking #Ecocide Eyewitness to Extreme Weather: 11 Social Media Posts that Show Just How Crazy T... http://t.co/dEdDH8Rme8 #Revolution,1,Moderate,1
+5031,eyewitness,Unknown,How 'Little Boy' Affected the People In Hiroshima - Eyewitness Testimonials! - https://t.co/5x5hSV5sKO,1,Mild,0
+5036,eyewitness,"Cape Town, South Africa",Cape Town: Thousands living on Cape Town's streets - Eyewitness News: Eyewitness NewsThousands living on Cape ... http://t.co/nAo6EWCPK2,1,Mild,0
+5045,eyewitness,Unknown,Dutch crane collapses demolishes houses: Dramatic eyewitness video captures the moment a Dutch crane hoisting...  http://t.co/8PpZNGYAqE,1,Moderate,1
+5048,eyewitness,Montreal,Dutch crane collapses demolishes houses: Dramatic eyewitness video captures the moment a Dutch crane hoisting... http://t.co/AJHKfh4e7G,1,Moderate,1
+5066,famine,Unknown,http://t.co/tcXRtfaPZa Russian 'food crematoria' provoke outrage amid crisis famine memories http://t.co/eT9xxfdJnM,1,Severe,2
+5070,famine,Blog,'Russian 'Food Crematoria' Provoke Outrage Amid Crisis Famine Memories' by REUTERS via NYT http://t.co/jbYjbQEoiK #Ukraine,1,Severe,2
+5077,famine,"Washington, DC",Ukraine famine memorial in progress since 2006 goes up in Washington: http://t.co/Td7VIEoODi,1,Mild,0
+5081,famine,Unknown,#IntlDevelopment Ukraine Famine Monument Erected In Washington: Û_ who perished in the Ukraine famine of the 19...  http://t.co/nUPy6EPAWn,1,Severe,2
+5090,famine,"Kyiv (Kiev), Ukraine (????, ????, ???????)",#Ukraine #Kyiv #News Radio Free Europe/Radio Liberty: Ukraine famine monument erected in ... http://t.co/ME5u1YqH4i #Kiev #Ukrainian #Ua,1,Moderate,1
+5100,famine,"Dublin, Ireland. ",Miners strike; Botha Apartheid SA Tutu Nobel prize; IRA bomb Brighton  Famine in Ethiopia. '84 feels like yesterday http://t.co/UZKssvj9CW,1,Moderate,1
+5108,famine,kyiv. ukraine,Russian 'food crematoria' provoke outrage amid crisis famine memories http://t.co/kZYvMnqHy7 via @Reuters,1,Severe,2
+5111,fatal,Cincinnati,Protesters mark year since fatal police shooting in Wal-Mart (from @AP) http://t.co/3KbeJGmj0d,1,Severe,2
+5112,fatal,"Kansas City, MO",Police investigate fatal shooting on 71 Highway http://t.co/0KJjdaOJHI,1,Severe,2
+5121,fatal,Unknown,11-Year-Old Boy Charged With Manslaughter of Toddler: Report: An 11-year-old boy has been charged with manslaughter over the fatal sh...,1,Severe,2
+5129,fatal,Milton Keynes ,Trim error led to fatal Greek F-16 crash: ?A NATO safety investigation board report has determined that the ma... http://t.co/YhSahLKQo4,1,Severe,2
+5151,fatal,Unknown,Investigators shift focus to cause of fatal Waimate fire http://t.co/ej0mewOupS,1,Severe,2
+5156,fatal,"Buffalo, NY","Police continue to investigate fatal shooting on Vermont &amp; 14th Street
+http://t.co/daACJ5Hfmq",1,Severe,2
+5167,fatalities,"Greenville, SC",Highway Patrol reports uptick in statewide pedestrian fatalities - Post and Courier  http://t.co/xccv3D9IcR,1,Severe,2
+5173,fatalities,Unknown,"http://t.co/pcdub1gQoC
+
+#Figureskate #ToshikazuKatayama [Earthquake Report]@OnlyQuakeNews Get all the headlines of our earthquake-report.Û_",1,Mild,0
+5205,fatalities,seattle,Wow 3 are WSEA RT @KING5Seattle: Seattle's deadliest red light runner intersections revealed http://t.co/zqUsy2k4ws http://t.co/OX6dHXEUwe,1,Mild,0
+5294,fear,"Jakarta, Indonesia",FEAR GOD MORE NAJIB LESS: Nazir taking another stab at brother as govt threats police crackdownsÛ_ http://t.co/bQT9bjdUJG #WayneRooney_INA,1,Severe,2
+5361,fire truck,NY,Tractor-trailers collide on NJ Turnpike å_ 42 http://t.co/OTEXyh79J8 http://t.co/MLZG4l0xnL,1,Mild,0
+5363,fire truck,Tulsa,News On 6 Crew Neighbors Put Out Hallett Truck Fire http://t.co/TwqVKZY6Dn http://t.co/eeyveTLAHW,1,Moderate,1
+5369,fire truck,Los Angeles,#Irvine #SigAlert update: 133 S now closed at Irvine Blvd. 133 N closed past the 5 b/c of trash truck fire. @KNX1070,1,Moderate,1
+5374,fire truck,Tulsa,News On 6 Crew Neighbors Put Out Hallett Truck Fire http://t.co/TwqVKZY6Dn http://t.co/QoInQ6gc9M,1,Moderate,1
+5376,fire truck,"Los Angeles, California",Photo: #NJTurnpike å_ NJ Turnpike Reopens Hours After Truck Fire In Linden; Driver Dead | NJ Turnpike... http://t.co/8SRT9rGaX7,1,Severe,2
+5388,fire truck,"Queens, New York",@dmon2112 @C_T_Morgan but the fire rings of NYC permits I'd have to jump through for a food truck don't make it appealing,1,Moderate,1
+5390,fire truck,"Fredericksburg, VA",Last night was a ball! Atop a 40 ft. fire truck latter!#NNO2015 http://t.co/0KTxo7HLne,1,Moderate,1
+5393,fire truck,USA,Fire shuts down part of NJ Turnpike å_ 96 http://t.co/UzeatfZAyA http://t.co/ejrGK69aeq,1,Moderate,1
+5395,fire truck,"Los Angeles, CA",This dude just pulled in front of our production with his truck on fire. Cops pulled up after we put it out http://t.co/e7DRPQUW4G,1,Moderate,1
+5398,fire truck,Unknown,Truck catches fire in Warwick: A tree service truck caught fire around 7:15 p.m. on Wednesday in Warwick on In... http://t.co/nAdAvcq9VA,1,Moderate,1
+5399,fire truck,USA,Pickup Truck Fire On Driscoll Bridge Snags Garden State Parkway #NewYork http://t.co/Q5YU2tZGte,1,Moderate,1
+5401,fire truck,Unknown,Langhorne-Middletown Fire Co. welcomes new truck ... http://t.co/KrpJo9zMSx,1,Moderate,1
+5402,fire truck,New Jersey,Truck driver died in Turnpike fire most lanes still closed police say http://t.co/tTmJgq6ayM via @njdotcom,1,Severe,2
+5427,first responders,Northern Colorado,'An alarming trend among first responders is raising concerns for local fire departments in Colorado and around... http://t.co/Iqr6v6DTHr,1,Moderate,1
+5431,first responders,Serving Oklahoma,Volunteers served first responders today during a tanker fire in Eufaula. Provided cold drinks and food. #okwx #tankerfire,1,Moderate,1
+5434,first responders,"Baton Rouge, LA",'The longer you wait the more people die': #Lafayette theater shooting first responders relied on training: http://t.co/yXOojnbr7m,1,Moderate,1
+5438,first responders,Unknown,"SPD OFFICER SHOT - PLEASE PRAY
+
+Please pray for the Shreveport Police Department and other first responders... http://t.co/Kx1YnSME5T",1,Mild,0
+5441,first responders,"Goldsboro, NC",Red Cross arrived on the scene around 9:30pm to canteen for first Responders fighting this massive blaze. Go... http://t.co/IDY9KsCaVV,1,Severe,2
+5568,flood,Unknown,If you decide to get rid of #flood damaged #furniture solid waste will pick it up for a fee. You can call #Tampa Solid Waste at 813-274-8811,1,Moderate,1
+5571,flood,United States,2 NNW Hana [Maui Co HI] COUNTY OFFICIAL reports COASTAL FLOOD at 5 Aug 10:00 AM HST -- WAIANAPANAPA STATE PARK CLOSED DUE TO LARGE SURF. Û_,1,Moderate,1
+5572,flood,United States,Flood Advisory issued August 05 at 4:35PM EDT by NWS http://t.co/fuZ7y44P4I #WxKY,1,Mild,0
+5591,flood,Canada,How did I know as soon as I walked out of class that Calgary would flood again today,1,Mild,0
+5601,flood,Asia,Myanmar Flood Victims Need More Relief Aid and Food: Regions struggle with flood aftermath and dwindling suppl... http://t.co/O5adXdNnII,1,Severe,2
+5606,flood,"Desloge, Mo","Flash Flood Watch in effect through 7:00am Thursday morning/12:00pm Thursday afternoon.
+For: Perry Wayne Cape... http://t.co/fs7vro5seS",1,Mild,0
+5616,flooding,"Austin, Texas",Memorial unveiled for Travis County Deputy Jessica Hollis who was killed in Sept. flooding http://t.co/uSiN3M9kgI http://t.co/Mo5lmviPw5,1,Severe,2
+5630,flooding,New York City,#NYCHA says the pipe that burst and flooded apartments in a senior center is being repaired. http://t.co/eCyui3290H http://t.co/6S6sYUYypL,1,Mild,0
+5636,flooding,United States,#BREAKING Business at the Sponge Docks washed out by rain flooding  /#news,1,Mild,0
+5637,flooding,Unknown,Nigeria warned against massiveåÊflooding http://t.co/CofH4khFsD http://t.co/m0fLpPxIlg,1,Moderate,1
+5639,flooding,"Raleigh, NC","@caseyliss def - and donÛªt even fathom when there is bad weather / flooding ??
+
+#byebyeroad",1,Moderate,1
+5640,flooding,"36702 State Road 52, Dade City","Flooding updates from Pasco County
+
+http://t.co/gOSzRa5bdD",1,Mild,0
+5643,flooding,State College Pa,Donate to help Myanmar Flooding victims http://t.co/fuRVRES9Ks,1,Mild,0
+5667,floods,Tampa FL,Pasco officials impressed by drone video showing floods: Drone videos have given an up-close view of flooded areasÛ_ http://t.co/PrUunEDids,1,Mild,0
+5678,floods,Islamabad,"@asgharchohan86 @AdilGhumro 
+There are floods in kpk because you guys couldn't build dams in 30 years you ruled.
+Even for your own Thar",1,Mild,0
+5679,floods,Unknown,"Who is bringing the tornadoes and floods. Who is bringing the climate change. God is after America He is plaguing her
+ 
+#FARRAKHAN #QUOTE",1,Mild,0
+5681,floods,Colorado,"If I wouldn't have lost all my guns in #Colorado floods I would say I could completely understand
+#copolitics #2A https://t.co/37rHlsobbn",1,Mild,0
+5682,floods,Montana Misery,all cats are in....time for the floods.......,1,Mild,0
+5691,floods,Unknown,VIDEO Facing Up To Persecution ÛÒ Pastors Silenced ÛÒ MB Obama holds Iraqi Christian asylumÛ_ https://t.co/qrtUzfHOdw http://t.co/xBNRPS8xHO,1,Severe,2
+5696,floods," Elizabeth, NJ",Typhoon Soudelor approaches after 7 killed 2 missing in floods in Philippines http://t.co/hALJNnWrwi via @abc7chicago,1,Severe,2
+5697,floods,"Manila, Philippines",Flash floods landslides possible as Hanna draws in more monsoon rains - Pagasa http://t.co/TzWmsEQPHW | via News5 #iBalita,1,Mild,0
+5702,floods,"Brooksville, Florida",Myanmar floods occur during low season for river cruising - Pandaw River Expeditions is currently operating only t... http://t.co/cQtTGrkwf6,1,Mild,0
+5708,floods,Australia,#WorldVision is responding to floods in #India and #MyanmarFlood with more than 300000 affected: http://t.co/eU8jypIzsd,1,Moderate,1
+5709,floods,Unknown,Bengal floods: CM Mamata Banerjee blames DVC BJP claims state failed to use relief funds: KOLKATA: Even as fl... http://t.co/WFwWRcmi9t,1,Moderate,1
+5718,forest fire,"Oregon, USA",Grass fire near Forest Grove contained. Sparked by a rock being struck by a tractor. #LiveOnK2 @JackieKATU http://t.co/Yr9mmIS7jT,1,Moderate,1
+5723,forest fire,world,Damn dry desert forest fire...damn :( https://t.co/P5SoDrkVW3,1,Severe,2
+5725,forest fire,Unknown,#Winston #salem Fire in Pisgah National Forest grows to 375 acres http://t.co/5IMxNGsaSA,1,Moderate,1
+5728,forest fire,Unknown,Crews responding to small brush fire burning in Tahoe Forest - My News 4 - KRNV Reno NV http://t.co/VhyJnVug6f,1,Moderate,1
+5731,forest fire,"Forest Grove, OR",OMG there's a news chopper over a 3-acre mostly contained fire outside Forest Grove? #slownewsday ?,1,Moderate,1
+5735,forest fires,Unknown,#GlobalWarming U.S. Forest Service says spending more than half of budget on fires: Û_  United States the agen...  http://t.co/mWiE5CeEIi,1,Mild,0
+5737,forest fires,Unknown,#Reuters #US Forest #Service says spending more than half of budget on fires http://t.co/XlpgKguhkG,1,Mild,0
+5742,forest fires,San Francisco,Why can't they use ocean water to fight forest fires? http://t.co/NMWi5Sm3Uw,1,Moderate,1
+5747,forest fires,west coast ,People come and go. Some are cigarette breaks others are forest fires.,1,Mild,0
+5749,forest fires,"alberta, canada",@gilmanrocks7 ya it was. Damn forest fires.,1,Severe,2
+5750,forest fires,"Muskegon, MI",@lldubs Are any of your vineyards affected by the forest fires in California?,1,Mild,0
+5755,forest fires,Unknown,I hope the rain stops the forest fires tbh we've been on lvl. 3 lockdown for water for the past month :/,1,Mild,0
+5756,forest fires,Unknown,Stubborn forest fires burn in two provinces |RZ| http://t.co/yZO948652k #Iran #IranElection,1,Moderate,1
+5761,forest fires,"Washington, DC",Worth the read --&gt; As California fires rage the Forest Service sounds the alarm about sharply rising wildfire costs http://t.co/2LZtOMsAUz,1,Severe,2
+5762,forest fires,"Panama City Beach, Florida",A group of Florida Forest Service firefighters could be deployed to California to help contain fires. Details at 10! http://t.co/tRrig5J1Re,1,Mild,0
+5767,forest fires,Unknown,Property losses from northern CA wildfire nearly double http://t.co/fHqx7FiIVJ If you pray please remember CA people/forests/wildlife/water,1,Moderate,1
+5768,forest fires,"Kruibeke, BelgiÌÇ",'People come and go. Some are cigarette breaks others are forest fires.',1,Mild,0
+5770,forest fires,"Missoula, MT",Two New Bitterroot National Forest Fires are Largest for Forest So Far This Year http://t.co/zVa34qHU8M,1,Mild,0
+5773,forest fires,"Madison, WI",Standing in mountaintop field scented with wildflowers dust and distant forest fires smell of impending rain in the air.  #fieldworksmells,1,Mild,0
+5774,forest fires,Unknown,Q: Why do ducks have big flat feet? A: To stamp out forest fires. Q: Why do elephants have big flat feet? A: To stamp out flaming ducks.,1,Mild,0
+5779,forest fires,NYC,Firefighting consumes Forest Service budget sparks political clash http://t.co/ARN8qfgNpm,1,Severe,2
+5782,forest fires,NIFC,#RiverComplex #CA #CASHF http://t.co/37iYHPPNr4 River Complex: Six Rivers National Forest lightning fires ÛÒ Morning Update,1,Mild,0
+5786,hail,Unknown,@froilan_canin https://t.co/caCXADLEb8 AFTERNOON DELIGHT Ha! Bounce filmed in between Calgary's Uber Hail Storms #yyc http://t.co/6zgkDpMMSK,1,Mild,0
+5787,hail,United States,BYZ issues Severe Thunderstorm Warning [wind: 60 MPH hail: 1.00 IN] for Big Horn Yellowstone [MT] till Aug 5 8:00 PM MDT  Û_,1,Severe,2
+5788,hail,Sales Specialist~ Worldwide  ,Hvy rain wind sm hail Tree down on Bluff Ridge Rd. Multiple trees down o on house on South Shades Crest Rd. (Past Lake Drive) @spann,1,Mild,0
+5806,hail,Oklahoma,Severe Thunderstorm 7 Miles North of Arcadia Moving SE At 20 MPH. 60 MPH Wind Gusts and Large Hail. Hail... #okwx http://t.co/WEd69e4KRg,1,Severe,2
+5811,hail,Unknown,Severe Thunderstorm Warning until 08:00 PM local for Custer Fall River &amp; Shannon Counties in SD. 60 Mph Wind Gusts And Penny Size Hail. #sd,1,Severe,2
+5813,hail,British Columbia,@adolwyn This near U? @JWagstaffe: RT @OldsFireDept: Aug 5 2015 Hwy27 west of Olds. Approximately 1 foot of hail. http://t.co/Yg0pd73Bpw',1,Mild,0
+5830,hail,Rapid City & The Black Hills,New warning for Central Hills 1' hail 60 mph winds. NOT affecting Sturgis but could later tonight. #KOTAWeather http://t.co/E8oUxVKuTE,1,Mild,0
+5838,hailstorm,Unknown,Twin Storms Blow Through Calgary * 75 http://t.co/sIAKlSbdiP http://t.co/fm44ZS93OA,1,Mild,0
+5839,hailstorm,Washington State,We The Free Hailstorm Maxi http://t.co/Cnn1nXXNwc,1,Mild,0
+5844,hailstorm,North East America,Boston yesterday after an intense hailstorm. Photo by 'then0mads0ul'. http://t.co/uxgtXCArQ1,1,Mild,0
+5846,hailstorm,"Calgary, Alberta, Canada",#yyc #hailstorm #christmas came early https://t.co/f0A2IIzx3A,1,Mild,0
+5851,hailstorm,World Wide,Yesterday's #hailstorm! #boston #cambridge http://t.co/HbgYpruvO7 http://t.co/SwtgHLibs2,1,Mild,0
+5852,hailstorm,Toronto,RICHIE: This was #Calgary yesterday after a crazy #hailstorm! pics via Calgary Herald http://t.co/1oH20qHk2l,1,Moderate,1
+5857,hailstorm,"Calgary, Alberta, Canada",Get out of the hailstorm and come down to @TheBrokenCity 2night at 9PM to catch a screening ft. @thebanffcentre! There will be BEER + FOOD!,1,Mild,0
+5860,hailstorm,Sudbury,Hailstorm flash flooding slam Calgary knocks out power to 20k customers http://t.co/sNpPqrwuXB,1,Moderate,1
+5862,hailstorm,"Boston, MA",JPLocalFirst RT eliotschool: Yesterday's #hailstorm in #Boston. Wow. Thunder lightning. Artful awesome. http://t.co/YsvE1SEAko,1,Mild,0
+5865,hailstorm,Calgary ,#yyctraffic #yycstorm  Caller says 'idiots' are stopping under overpasses and blocking 'all lanes on Crowchild' in (small-sized) hailstorm.,1,Moderate,1
+5866,hailstorm,"Calgary, Alberta",here is goes again #abstorm #hailstorm #yychail stay safe everyone!,1,Mild,0
+5871,hailstorm,Philippines,Hundreds of commuters abandoned at LRT station during severe hailstorm http://t.co/vMIGkJ0tkZ,1,Severe,2
+5872,hailstorm,Golden British Columbia Canada,Good olde fashioned prairie #hailstorm #calgaryweather https://t.co/hI1yOQFlfm,1,Mild,0
+5877,hailstorm,Unknown,Hundreds of commuters abandoned at LRT station during severe hailstorm http://t.co/25wIeHMLZ5,1,Severe,2
+5878,hailstorm,Ottawa Canada,Hailstorm cleanup begins in Calgary http://t.co/DhH5jz2w49,1,Mild,0
+5879,hailstorm,Calgary and USA,600 passengers abandoned at LRT station during Tuesday's hailstorm http://t.co/eLZoyEqA3m #yyc #yycstorm #abstorm,1,Moderate,1
+5880,hailstorm,USA,@Haley_Whaley Hailstorm Clash ofClans Gems Giveaway is out now! visit my Profile Bio to get guide on how to get 200.00 Gems,1,Mild,0
+5986,hazardous,Unknown,#ine #instyle Olap #world pres: http://t.co/PJaY74M2Fi How To Recognize A Hazardous Waste And The Multidimensi http://t.co/vr3wlQXl0G,1,Moderate,1
+5994,hazardous,Unknown,#alfa #forecast Olap #world pres: http://t.co/YiFXKRQx0C How To Recognize A Hazardous Waste And The Multidimen http://t.co/HO4b3L0KI8,1,Moderate,1
+6005,hazardous,"Mobile, AL",@moneymaker32931 tanker truck overturned carrying hazardous materials.,1,Moderate,1
+6006,hazardous,United States,CHS issues Hazardous Weather Outlook (HWO)  http://t.co/lbkiyfwFlU #WX,1,Mild,0
+6008,hazardous,Unknown,#diablo #dsp Olap #world pres: http://t.co/LFEtNRXyWt How To Recognize A Hazardous Waste And The Multidimensio http://t.co/PvNvqaXsA7,1,Moderate,1
+6010,hazardous,Unknown,TSA issues Hazardous Weather Outlook (HWO) http://t.co/7vlu8ni90Q,1,Mild,0
+6016,hazardous,Unknown,#hot #fiat Olap #world pres: http://t.co/QddYwTynvF How To Recognize A Hazardous Waste And The Multidimensiona http://t.co/dzQGotozNA,1,Moderate,1
+6021,hazardous,Unknown,#triangle #peter Olap #world pres: http://t.co/JeHTQAqDFh How To Recognize A Hazardous Waste And The Multidime http://t.co/gwXdjd8nGu,1,Moderate,1
+6025,hazardous,New Zealand,SH 29 Kaimai Ranges - Eastbound. Hazardous driving conditions. Due To A Truck Breakdown... http://t.co/0cuCMZCmaO via @AA_Traffic,1,Moderate,1
+6028,hazardous,Yellowknife NT Canada,Drums of Hazardous Waste Dumped Around Kodiak Island: Someone has dumped drums of hazardous was... http://t.co/ZSnnrULaWo &gt;@alaskapublic,1,Moderate,1
+6054,heat wave,Canada,Activists Protest Pipelines in Canada and Shell in Portland Oh and Prepare for Another Heat Wave http://t.co/aKsYPKjdpB #CampLogistics,1,Severe,2
+6062,heat wave,Unknown,Heat Wave: A Social Autopsy of Disaster in Chicago by Klinenberg Eric http://t.co/fPtqxVokJC http://t.co/0gt63uQGcU,1,Severe,2
+6063,heat wave,"Charlotte, NC",@sportguyshow the heat wave ends really tomorrow but still time for another one to build. Only other thing that ends the heat is Autumn.,1,Mild,0
+6067,heat wave,"Stockport, Uk",Japan heat wave intensifies - death toll surges to 55: http://t.co/F1h1mzVSNn via @extinctionp,1,Severe,2
+6068,heat wave,Deerfield Beach Florida,Middle East ÛÏHeat DomeÛ Causes Crippling Heat Wave in Israel http://t.co/41Lcb9aepR,1,Mild,0
+6081,heat wave,"Chiba,very close to Tokyo.",Good morning. Slept about 6 hours. The heat wave hits Japan... The hot days still continue. I guess some people were killed by this climate.,1,Mild,0
+6082,heat wave,Unknown,Japan heat wave intensifies ÛÒ death toll surges to 55 http://t.co/ZwPoDn3KOH,1,Severe,2
+6136,hijack,Out and about ,"APC needs to watch all these PDP defecting to APC 
+
+Patience Jonathan On The Move To Hijack APC In Bayelsa State http://t.co/zzMwIebuci",1,Mild,0
+6180,hijack,Nigeria ,Criminals Who Hijack Lorries And Buses Arrested In Enugu (PHOTO) http://t.co/5cZ7eM9OTr,1,Severe,2
+6194,hijacker,Unknown,Governor allows parole for California school bus hijacker http://t.co/0aQBZmrvLQ via @abc7newsbayarea,1,Mild,0
+6214,hijacker,Amman,Governor Allows Parole for School Bus Hijacker http://t.co/7mqh7fhxYL http://t.co/BNCcwcsCKt #SahelNews,1,Mild,0
+6221,hijacker,California Central Valley,"Updated on Friday at 4:30 A.M. - Daily Area News
+California School Bus Hijacker Parole Stands http://t.co/24QEkAh893",1,Mild,0
+6225,hijacker,Unknown,Governor Allows Parole for School Bus Hijacker http://t.co/i7PIJK6XtM liveleakfun ? http://t.co/IONWArVRFy,1,Mild,0
+6235,hijacking,"Washington, D.C.",Earnest PletchÛªs cold-blooded killing of Carl Bivens was just one chapter in his strange life http://t.co/dnQn1OWWF9 http://t.co/xNEPq5HBYD,1,Severe,2
+6237,hijacking,Unknown,The Murderous Story Of AmericaÛªs First Hijacking http://t.co/VgBOpxb6Wg,1,Severe,2
+6238,hijacking,Unknown,Oops! I say he picked the right car to try hijacking.  https://t.co/SoMgI7hwli,1,Mild,0
+6252,hijacking,Italy,The Murderous Story Of AmericaÛªs First Hijacking http://t.co/QAOqtptgwH,1,Severe,2
+6270,hijacking,http://wingssilverwork.com,@ReasonVsFear 'One?'  Oh nonononono.  This hijacking's been going on forever but I've seen it about a dozen diff places today alone.,1,Mild,0
+6286,hostage,"Rochester, NY",Chris Brown's aunft was 'held hostage in a closet by armed intruders at his LA home while sin http://t.co/i1Fhb8QSZ7 http://t.co/7C5BG48BRJ,1,Mild,0
+6287,hostage,"Moncton, NB",Islamic State threatens to kill another hostage: @DailyGleaner @TJProvincial @TJGreaterSJ http://t.co/dfPLiqjMk2,1,Severe,2
+6289,hostage,Unknown,Pakistani Terrorist Was Captured By Villagers He Took Hostage - NDTV http://t.co/C5X10JAkGE,1,Severe,2
+6291,hostage,"Seattle, WA",Sinai branch of Islamic State threatens to execute Croatian hostage in 48 hours http://t.co/YvtcXrPt34,1,Moderate,1
+6295,hostage,"Long Island, New York",Concealed Carrier Rescues Hostage Captures Naked Attacker http://t.co/uLy5hM6PqR,1,Moderate,1
+6298,hostage,"Lahore, Pakistan",UPDATE 4-IS Egypt affiliate threatens to kill Croatian hostage in 48åÊhours http://t.co/C0zrqIk6KE,1,Severe,2
+6307,hostage,Visit our  dedicated website @,'IS Egypt affiliate threatens to kill Croatian hostage in 48 hours' - http://t.co/3LcgidRQpb,1,Severe,2
+6309,hostage,Unknown,Islamic State group threatens to kill hostage if 'Muslim women' aren't let go - Press Herald http://t.co/yKM6qfRh98,1,Severe,2
+6313,hostage,Niels Groeneveld / RedSocks,Bit-Defender hack ÛÒ Held Hostage!: Late last week it was discovered that antivirus vendor ... http://t.co/2vC8CSTWy5 #damballa #infosec,1,Moderate,1
+6333,hostage, Cairo,video says #ISIS Threatens To Kill Croatian Hostage 5oil-worker) If #Egypt Does Not Release Female Prisoners in 48 H http://t.co/GvpKrRdQnu,1,Severe,2
+6351,hostages,Brentwood uk,Militant 'Overpowered' By Hostages After Attack http://t.co/xWnp8a1JOn,1,Severe,2
+6352,hostages,france,#hot  C-130 specially modified to land in a stadium and rescue hostages in Iran in 1980 http://t.co/g601NBD7wS #prebreak #best,1,Mild,0
+6357,hostages,China,#hot  C-130 specially modified to land in a stadium and rescue hostages in Iran in 1980 http://t.co/PtAI4zBpbI #prebreak #best,1,Mild,0
+6360,hostages,India,Ajmal Kasab II: How hostages misled the terrorist got him caught alive http://t.co/n1up959OFM,1,Severe,2
+6364,hostages,The Universe,One Year On From #IS Massacre in #Sinjar Yazidis Blast Lack of Action over 3000--5000 Yazidis who remain enslaved: http://t.co/vnSn284ovw,1,Moderate,1
+6367,hostages,"Hubli, Karnataka",@IndiaToday @Iamtssudhir Time for India to join global war against ISIS cant sacrifice national interest to save hostages! #NationFirst,1,Severe,2
+6368,hostages,"my USA, åµ???? ?aÌÙ? ",India: Militant 'Overpowered' By Hostages After Attack http://t.co/mkjszGbaWR,1,Severe,2
+6377,hostages,Rocky Mountains,Sinjar Massacre Yazidis Blast Lack of Action Over Hostages http://t.co/fdU8aCnC2W #denver #billings #rapidcity #seattle #cheyenne #lasvegas,1,Moderate,1
+6381,hostages,Unknown,RT WatchmanIS216: #Sinjar Massacre #Yazidis Blast Lack of Action Over Hostages http://t.co/79iQDYZjBS; Portland #Û_ http://t.co/0z1PvJVdpf,1,Moderate,1
+6390,hurricane,Unknown,AngelRiveraLibÛ_ #Snowden 'may have' broken laws? Hurricane Katrina may have caused some damage. http://t.co/jAaWuiOvdc Without Snowden hÛ_,1,Severe,2
+6408,hurricane,"San Francisco, CA",Residents artists remember aftermath of Hurricane Katrina through artwork - WDSU New Orleans: WDSU New Orlean... http://t.co/U6pAvbZoB3,1,Mild,0
+6409,hurricane,Unknown,Found out a hurricane is brewing for thursday lol ??????,1,Mild,0
+6424,hurricane,Hawaii,HURRICANE GUILLERMO LIVE NOAA TRACKING / LOOPING WED.AUG.5TH ~ http://t.co/QktRt2J1o8 ~  http://t.co/b0JxS5QKkh http://t.co/KP05TOwSfM,1,Mild,0
+6426,hurricane,"Astoria, NY",@leeranaldo expressing his rage about Hurricane Sandy #LCOutOfDoors http://t.co/IwPR2qGYsI,1,Severe,2
+6432,hurricane,Worldwide,Brooklyn Sites Get $2.6 Million to Undo Hurricane SandyÛªs Toll http://t.co/HukwD0RE2a,1,Mild,0
+6435,injured,bangalore,Udhampur terror attack: Militants attack police post 2 SPOs injured: Suspected militants tonight attacked a p... http://t.co/nZAFokxX0h,1,Severe,2
+6439,injured,South Africa Braamfontein,4 dead dozens injured in Gaza blast near house leveled in summer war - Washington Post: New York Times4 dead... http://t.co/7C2qhMwtv5,1,Severe,2
+6442,injured,The North Coast,@NewsBreaker @sothathappened SO wheres the story? Anybody injured? Where did this happen?,1,Moderate,1
+6444,injured,Unknown,#???? #?? #??? #??? Udhampur terror attack: Militants attack police post 2 SPOs injured - Times of   http://t.co/1KxsGlsTA7,1,Severe,2
+6447,injured,USA,Man injured in Radcliff shooting http://t.co/3iYXOoaCW6,1,Moderate,1
+6456,injured,"United States, Ohio",Harper Woods policeman injured in fight after dead man found in garage: Ronnie Karjo 46 of Macomb Township http://t.co/tUoTICilBi,1,Severe,2
+6471,injured,India,Terrorists open fire at Udhampur police post 2 SPO's injured firing underway - See more at:... http://t.co/7jmGwOgqnh,1,Severe,2
+6476,injured,| INDIA |,RT- Udhampur terror attack: Militants attack police post 2 SPOs injured: Suspected militants tonight at... http://t.co/wN414hp9hZ #News,1,Severe,2
+6479,injured,Pune,@TOI_India Udhampur terror attack: Militants attack police post 2 SPOs injured: Suspected militants tonight a... http://t.co/EWCkcfBI28,1,Severe,2
+6483,injured,Unknown,Neelum Valley teen dies in 'dud shell' explosion: MUZAFFARABAD: A teenage boy was killed and his peer was injuredÛ_ http://t.co/GuRdZEPMhu,1,Severe,2
+6487,injuries,"chapel hill, cary n.c.",@wral there are now 5 fire trucks and 2 ambulances at Wellington ridge lp in Cary. one of the units is on fire. not sure on injuries,1,Severe,2
+6531,injuries,Unknown,No injuries reported after Green Line train derails on South Side http://t.co/nM7HuH3bjC,1,Moderate,1
+6539,injury,Unknown,CLEARED:incident with injury:I-495  inner loop Exit 31 - MD 97/Georgia Ave Silver Spring,1,Mild,0
+6544,injury,Unknown,incident with injury:I-495  inner loop Exit 31 - MD 97/Georgia Ave Silver Spring,1,Mild,0
+6639,inundation,Unknown,#EPAO MARSAC reports on Manipur flood: Heavy incessant rains in Manipur have led to inundation causin... http://t.co/rh7m7T9Gd9 #MANIPUR,1,Mild,0
+6641,inundation,#RoshanPakistan,"Punjab government flood relief platform: 
+
+http://t.co/bpG68gXI9k 
+
+realtime information on inundation damages... http://t.co/c8T9ThI7Wd",1,Moderate,1
+6650,landslide,Wickford,@R_o_M by a landslide.,1,Mild,0
+6652,landslide,Central New Jersey,TommyGShow: Burlington County offers to purchase landslide-damaged properties in Florence http://t.co/xgguElyxyi,1,Moderate,1
+6666,landslide,Unknown,WATCH: Likely landslide victims denied assistance again http://t.co/BxiohtiC5X,1,Moderate,1
+6673,landslide,"Louisville, KY",Artifacts found in southern Indiana landslide near Horseshoe Casino http://t.co/BdB0NpgPkH http://t.co/jbCC0KShol,1,Mild,0
+6696,landslide,Upper St. Clair,#CecilTownship seeks emergency repairs to Southpointe Boulevard landslide: http://t.co/ZjJdt3so72,1,Moderate,1
+6750,lightning,Northwest Arkansas,It doesn't get any closer. Heavy rain just barely missed @TontitownGrape festival but lightning TOO CLOSE #TGF2015 http://t.co/S53zvMS5Rf,1,Moderate,1
+6755,lightning,NWA & River Valley,It doesn't get any closer. Heavy rain just barely missed @TontitownGrape festival but lightning TOO CLOSE #TGF2015 http://t.co/d9PQIXaTX6,1,Moderate,1
+6786,lightning,Northwest Arkansas,It doesn't get any closer. Heavy rain just barely missed @TontitownGrape festival but lightning TOO CLOSE #TGF2015 http://t.co/zMtOp65Kx2,1,Moderate,1
+6851,mass murder,"Detroit, Mi",@AMAAS @JD_marsh22 just carry a gun. No way you get charged when you stop a mass murder,1,Severe,2
+6853,mass murder,Unknown,Candlelight vigil at my house tonight for the victims of the mass ant murder (by me) in my bathroom sink. There will be snacks.,1,Severe,2
+6859,mass murder,Unknown,@noah_anyname Socialism means mass murder. Houze that for 'correlation'?,1,Severe,2
+6865,mass murder,The Three Broomsticks ,Watching Murder in the First and you get the perspective from the family of the mass shooter person...it's crazy the pain they're in...,1,Severe,2
+6866,mass murder,Unknown,RedScareBot: Duck and Cover! RT tanstaafl23: noah_anyname Socialism means mass murder. Houze that for 'correlation'?,1,Severe,2
+6869,mass murder,Unknown,'Prompt and utter' mass murder  https://t.co/BRU7t5UzUy,1,Severe,2
+6871,mass murder,NYC,Plane debris is from #MH370 - it was a controlled crash. In other words it was mass murder by a musim http://t.co/J3xFDg9CWF @newscomauHQ,1,Severe,2
+6873,mass murder,17 year old anti-theist.,@Rawrheem: I can give you verses directly from the Qur'an that mandate terrorism mass-murder mass-rape genocide etc. Would you like them?,1,Severe,2
+6886,mass murder,Realville,@Conservatexian Farrakhan calling for 10000 men to rise up &amp; commit mass murder. http://t.co/gV84WNhB7S,1,Severe,2
+6887,mass murder,Anonymous,http://t.co/FhI4qBpwFH @FredOlsenCruise Please take the #FaroeIslands off your itinerary until the mass murder of dolphins &amp; whales stops.,1,Severe,2
+6888,mass murder,Unknown,@Cynicalreality when the subject is mass murder. @LetsBe_Rational @MishaWeller @llr517,1,Severe,2
+6889,mass murder,"Albany, Western Australia",Today marks 70 years since the mass murder of 140000 civilians in Hiroshima. The bombing of Hiroshima and Nagasaki did NOT end WW2,1,Severe,2
+6891,mass murder,The Real World,@CamPepperr @RiceeChrispies Then he would go to jail. But that wasn't a mass murder was it? It was a mistake that he made and he doesn't,1,Severe,2
+6894,mass murder,Unknown,Amazing how smug this guy is about the use of mass murder as a global power play. https://t.co/AlTTBJy8B9,1,Mild,0
+6895,mass murder,Unknown,Like bro they just committed a mass murder. You think they're gonna be scared to get guns illegally ????,1,Severe,2
+6899,mass murderer,U.S.,RT greta: Movement to impeach SA Pres #Zuma ÛÒ accused of helping mass murderer Pres #Bashir of #Sudan escape #genoÛ_ http://t.co/pnxhxlX9uP,1,Severe,2
+6901,mass murderer,Islamabad Pakistan,Asad is also a mass murderer.  https://t.co/dZOReZpxvR,1,Severe,2
+6902,mass murderer,Pedophilia,RT EmekaGift: VPSay NO to President Obama hosting Muhammadu Buhari the #pedophile #terrorist &amp; #mass-murderer,1,Severe,2
+6904,mass murderer,Unknown,Sooooo shooting up movie theaters the new mass murderer wave??,1,Severe,2
+6906,mass murderer,Unknown,@AParra210 So you are stereotyping the people. Are you a mass murderer like today's shooter?,1,Moderate,1
+6923,mass murderer,Still on my laptop,This is worth a re-read: 'A MASS-MURDERER' By Stuart Syvret http://t.co/C9UAyjrXt9 via @gojam_i_am,1,Moderate,1
+6927,mass murderer,Unknown,I am disgusted by @libertarianism and @CatoInstitute for celebrating a mass murderer of innocents today.,1,Severe,2
+6934,mass murderer,"Fukushima, JAPAN",Mass murderer had sex without touching each other or taking their clothes off because he was so fanatical on hygiene http://t.co/RfewQRGzbs,1,Severe,2
+6938,mass murderer,Unknown,Sounds pretty sensible for a mass murderer... https://t.co/qZZxFYSIU1,1,Moderate,1
+6941,mass murderer,"Denver, CO",Just now convicted mass murderer James Holmes told the judge he won't use his right to ask jury for mercy in his own words. #TheaterTrial,1,Moderate,1
+6944,mass murderer,Los Angeles via Pittsburgh,@Phoenix_Blue People will create rumors no matter what. The bottom line is giving fifteen minutes of fame to a mass murderer does no good.,1,Severe,2
+6952,massacre,Unknown,1 TRILLION Dollar Lawsuit Filed Against MSM For 'Staging Sandy Hook Massacre' http://t.co/qutzvk9xoP,1,Severe,2
+6958,massacre,University of Maryland,3 Years After the Sikh Temple Massacre Hate-Violence Prevention Is Key | Colorlines http://t.co/iJoORKaGyj,1,Mild,0
+6964,massacre,"Santos, SÌ£o Paulo",@stefsy14 the birthday massacre!!!,1,Mild,0
+6969,massacre,Unknown,"@WCBD 
+Parents of Colorado theater shooting victim fear copycat massacre
+
+http://t.co/LvlH3W3aWO
+#Antioch
+
+http://t.co/vIwXY1XDYK",1,Severe,2
+6976,massacre,@KEYTNC3 @KCOY,What person would possibly make a horror film about the Isla Vista massacre in order to make money off of our tragedy?,1,Severe,2
+6982,massacre,Wales Cymru,One Year After Massacre IraqÛªs Yazidis a Broken People http://t.co/pHqK28doni,1,Severe,2
+6986,massacre,Unknown,The same UN who stood&amp;watched the Serbs massacre thousands of muslims in Yougslavia ?don't need any lessons off them https://t.co/Ubf3CFzfEX,1,Mild,0
+6987,massacre,Unknown,"TimesNewsdesk : Police link beach massacre to Tunisia museum attack
+Û_ http://t.co/g11Rd44rgW) http://t.co/n834UntFf1",1,Severe,2
+6991,massacre,Unknown,Thus ends the clam massacre of 2015. #clambake #showgirldayoff https://t.co/PtyUJJi67T,1,Mild,0
+6993,massacre,"Waco, Texas",Saturday Night Massacre ? 25 Years Later #TomLandry?s Firing Still A Day of Infamy http://t.co/MlA71Y7mMW,1,Mild,0
+7007,mayhem,"Mumbai, Maharashtra",'Mumbai attack mayhem was planned and launched from Pakistan'Ex-Federal Investigation Agency (FIA) chief Tariq Khosa. http://t.co/xzSP5JhVfc,1,Severe,2
+7033,mayhem,Central Jersey,PNC Bank Arts Center shooting: Holmdel man nabbed http://t.co/tvmD14uikO,1,Mild,0
+7034,mayhem,Unknown,El Nino is getting stronger! Monster weather system may bring relief to California but it could cause 'mayhem' elÛ_ http://t.co/A9PoFHBbjf,1,Moderate,1
+7096,military,Abuja,Inspectors So Far Denied Access to Iran's Scientists - Wall Street Journal http://t.co/SuR3odwMKa http://t.co/2VSX1yO5hT,1,Moderate,1
+7133,military,Worldwide,Obama warns there will be another war without Iran deal #military http://t.co/gM7QlTRLuW http://t.co/wTutMlHDMH,1,Severe,2
+7151,mudslide,Kocaeli-Izmit,#Tajikistan #Mudslides #China aids to #Mudslide-hit #Tajiks http://t.co/BD546mtcpN,1,Mild,0
+7200,natural disaster,Unknown,@patrickandsam @ghaccount I've been screaming natural disaster for months but now idk. Maybe a hospital crisis.,1,Severe,2
+7207,natural disaster,California most of the time,Home Inventories Can Help all Homeowners  in Case of Natural Disaster - ABC News http://t.co/RNWvkBkhWU via @ABC,1,Moderate,1
+7209,natural disaster,Nepal,#Nepal Magnitude 4.3 tremor rattles #Dolakha as #aftershock counts 367 | Recent Natural Disasters : http://t.co/Re1d5ffcSx,1,Moderate,1
+7212,natural disaster,"USA, Haiti, Nepal",More Natural Disaster Research Urgent http://t.co/5Cm0LfZhxn via #JakartaPost,1,Moderate,1
+7219,natural disaster,Unknown,Expert Prepper: Financial Collapse Natural Disaster Failed Grid... http://t.co/5tf4CV4KeI http://t.co/KqYCFkcLr5,1,Severe,2
+7222,natural disaster,Unknown,The Return of Planet-X Book by Jaysen Rand Wormwood Natural Disaster Survivors http://t.co/k8cgZiirps http://t.co/d5sXGvp2pI,1,Severe,2
+7237,natural disaster,Modishthaan,RT Karnythia: Another #ErasureIsNotEquality example? Movies like The Impossible about a natural disaster in Thailand that focuses on white Û_,1,Severe,2
+7238,natural disaster,"Washington, DC area",@jonk @jamucsb Hopefully this vacation *doesn't* include an earthquake or other natural disaster!,1,Moderate,1
+7239,natural disaster,Unknown,New 15-Day Emergency food supply for natural disaster Earthquake Flood Tornado http://t.co/6hrlBLiIcO http://t.co/WS0nVDUZqW,1,Severe,2
+7240,natural disaster,Interwebs,How You Can Help The Community In The Event Of A Natural Disaster - http://t.co/42LgdZXz62,1,Moderate,1
+7243,natural disaster,Unknown,TRAIN ACCIDENT IN HARDA (M.P.) IS NOT NATURAL DISASTER. IT SHOWS FAILURE OF MINISTRY OF RAILWAY.PROPER CHECK AT FIXED INTERVAL IS NEEDED.,1,Severe,2
+7245,nuclear disaster,"New York, NY",This was amazing. Probably couldn't have watched if still living in Japan. Scary. Nuclear Meltdown Disaster | Nova http://t.co/j00WxMJRya,1,Severe,2
+7246,nuclear disaster,"Thessaloniki, Greece",Chronicles of #disaster:#Hiroshima in the #Yale Library #archives http://t.co/xqIqGMI0Op  Calls to end 'absolute evil' of #nuclear #weapons,1,Severe,2
+7249,nuclear disaster,Almost there ,"No authorities of Japan take responsibility about Nuclear disaster.
+Nobody have confidence in safety of Nuclear Plants in Japan.
+#AnonymousÛ_",1,Severe,2
+7257,nuclear disaster,Canada,Digital archive of public documents on the 2011 nuclear catastrophe at Fukushima launched. http://t.co/faJnMjNcxp,1,Severe,2
+7258,nuclear disaster,Japan ,Less consuming less energy to avoid nuclear disaster again and again.,1,Moderate,1
+7259,nuclear disaster,Florida,truthfrequencyradio Third of US West Coast Children Hit with Problems Following Fukushima NUCLEAR DISASTER: FU... http://t.co/7ktvkW3sS0,1,Severe,2
+7262,nuclear disaster,Finland,http://t.co/kPbtBLRKsB Japan's Nuclear Disaster and it's ongoing side effects.,1,Severe,2
+7263,nuclear disaster,Unknown,3 former executives to be prosecuted in Fukushima nuclear disaster http://t.co/uNTyEVXR4v,1,Severe,2
+7269,nuclear disaster,NYC,Check out 'NOVA | Nuclear Meltdown Disaster' http://t.co/ZzxM74d7qV #PBS,1,Severe,2
+7271,nuclear disaster, Stah-koomi-tapii-akii,Rare photographs show the nightmare aftermath of #Hiroshima | #NoNukes #Amerikkka #WhiteTerrorism #Nuclear #Disaster  http://t.co/8tWLAKdaBf,1,Severe,2
+7273,nuclear disaster,Unknown,3 former executives to be prosecuted in Fukushima nuclear disaster http://t.co/EmWU8Xksdu,1,Severe,2
+7276,nuclear disaster,Brussels,Fukushima Watch - Fukushima Watch Nuclear Disaster: Welcome. Welcome To Fukushima Watch offering t... http://t.co/M0KJdlwKFB #fukushima,1,Severe,2
+7279,nuclear disaster,Singapore,30 Years After the Chernobyl Nuclear Disaster via @fubiz http://t.co/N4B59iqm94,1,Severe,2
+7282,nuclear disaster,Unknown,"Safety by #Nuclear regulatory committee of Japan is already weakened by Authoritarian that caused Nuclear disaster
+@nytimes @guardian @WDR",1,Severe,2
+7284,nuclear disaster,Unknown,The people who tweet and care about #Japan #Fukushima nuclear disaster are not the problem those who ignore are the problem.,1,Severe,2
+7293,nuclear disaster,VA,@Lacci Yes it's a disaster. To shut down all nuclear power plants would be to reverse ALL the gains from renewables so far.,1,Severe,2
+7298,nuclear reactor,Tokio / Tokyo,Nuclear-Deal: Indo-Japan pact lies at the heart of two US reactor-based projects: If Japan were to go ahead an... http://t.co/mvwdm9ZbcV,1,Mild,0
+7303,nuclear reactor,Unknown,SEALED The Nuclear Regulatory Commission Reactor 1980 Record New Wave Art Rock http://t.co/FS9w33aczP http://t.co/7sywMf0EQU,1,Mild,0
+7304,nuclear reactor,Unknown,"Nuclear-Deal: Indo-Japan pact lies at the heart of two US reactor-based projects - The Indian Express 
+
+Read more... http://t.co/FMxmNNRDFe",1,Mild,0
+7308,nuclear reactor,Finland,@MaximEristavi Meanwhile in Finland: Nuclear project with Russian Rosatom moves on http://t.co/ogkoeFvzrj,1,Mild,0
+7339,nuclear reactor,Head of the Family,@AlbertBrooks Don't like the Ayatollah Khomeini Memorial Nuclear Reactor for the Annihilation of Israel? Racist!,1,Severe,2
+7341,nuclear reactor,"Lemon Grove, CA","http://t.co/N6Semm2M6i
+
+SAN ONOFRE NUCLEAR REACTOR WASTE TO BE BURIED UNDER SHORELINE USING 3 BILLION IN TAX PAYER DOLLARS",1,Moderate,1
+7349,obliterate,"Cape Coral, FL USA",It is insanity to call Climate Change more dangerous than Muslims wanting to obliterate America and Israel.  https://t.co/aA6S66huXh,1,Severe,2
+7370,obliterate,Seattle,@PauloSergioMDC @TheIranDeal @POTUS Those silly talks trusting a terrorist nation (who hates us) that has vowed to obliterate Israel.,1,Severe,2
+7406,obliterated,Nanda Parbat,Mad kids and innocent people who had nothing to do with the war got obliterated smh,1,Severe,2
+7427,obliterated,Unknown,@LeonC1963 @RomanGaul @Makrina91 Never realised how many conventional bombs the Yanks dropped on Japan prior 2 Nuks. They obliterated cities,1,Severe,2
+7436,obliterated,"Sydney, Australia",Remembering #Hiroshima 70 years on. Hundreds of thousands of lives obliterated 70 years of pain devastating... http://t.co/cZpJVJgXRp,1,Severe,2
+7440,obliterated,"Nigeria,West African",The day Hiroshima through the eyes of the bomber crew and survivors http://t.co/AYEWJ8marn via @MailOnline,1,Mild,0
+7489,obliteration,Unknown,Here we are 70 years after the nuclear obliteration of Hiroshima and Nagasaki and IÛªm wondering iÛ_ http://t.co/fvkekft4Rs,1,Moderate,1
+7495,oil spill,Unknown,Refugio oil spill may have been costlier bigger than projected: A Plains All American PipelineÛ_ http://t.co/sryaFqj9gZ #globetrottingwino,1,Mild,0
+7499,oil spill,Unknown,Refugio oil spill may have been costlier bigger than projected - http://t.co/6aUOT9vaIS  http://t.co/j2SyewbHE2,1,Mild,0
+7500,oil spill,"Los Angeles, CA",#breaking #LA Refugio oil spill may have been costlier bigger than projected http://t.co/5ueCmcv2Pk,1,Mild,0
+7506,oil spill,Unknown,National Briefing | West: California: Spring Oil Spill Estimate Grows: Documents released on Wednesday disclos... http://t.co/PsYWDxCCmj,1,Mild,0
+7508,oil spill,Unknown,Got the gas and the splash like an oil spill.,1,Mild,0
+7509,oil spill,Unknown,PODCAST: Oil spill anniversary http://t.co/wVdAVXTDaq,1,Mild,0
+7511,oil spill,Houston,'California: Spring Oil Spill Estimate Grows ' by THE ASSOCIATED PRESS via NYT http://t.co/gPKkHhBRIy,1,Mild,0
+7516,oil spill,Somewhere Out There,Refugio oil spill may have been costlier bigger than projected: A Plains All American Pipeline oil spill... http://t.co/lCQFI3LMAf #MLB,1,Mild,0
+7524,oil spill,"Arlington
+",When the Government couldn't figure out how to plug the Gulf oil spill so Chuck Norris plugged it...with his fist.,1,Moderate,1
+7538,oil spill,Australia,"NSW - BANKSTOWN Stacey St at Wattle St
+HAZARD Oil spill
+Started today 11:38am last checked today 11:54am
+Impact:... http://t.co/5ze5Z6BjLi",1,Mild,0
+7539,oil spill,Los Angeles,Refugio oil spill may have been costlier bigger than projected http://t.co/d7FdCLU404,1,Mild,0
+7541,oil spill,Dallas,'California: Spring Oil Spill Estimate Grows ' by THE ASSOCIATED PRESS via NYT http://t.co/kUiecEtK2z,1,Mild,0
+7546,outbreak,Unknown,Families to sue over Legionnaires - More than 40 families affected by the fatal outbreak of Legionnaires' disease ... http://t.co/urbl692Syj,1,Severe,2
+7549,outbreak,Nigeria,Families to sue over Legionnaires: More than 40 families affected by the fatal outbreak of Legionnaires' disea... http://t.co/yfsD4xS7lc,1,Severe,2
+7562,outbreak,Unknown,Families to sue over Legionnaires: More than 40 families affected by the fatal outbreak of Legionnaires' disea... http://t.co/z16jNX3LQe,1,Severe,2
+7564,outbreak,"Dunwoody, GA",Legionnaires' Disease: What's Being Done to Stop Deadly Outbreak http://t.co/Ud96b7ThsV,1,Moderate,1
+7567,outbreak,"FCT, Abuja ",Mumps outbreak at University of Illinois grows http://t.co/7xYkuJylX0 #SEBEE,1,Mild,0
+7572,outbreak,Unknown,Families to sue over Legionnaires: More than 40 families affected by the fatal outbreak of Legionnaires' disea... http://t.co/A6xRnI8XHg,1,Severe,2
+7574,outbreak,"Nashville, Tennessee",Families to sue over Legionnaires: More than 40 families affected by the fatal outbreak of Legionnaires' disea... http://t.co/RJEN6iMWPI,1,Severe,2
+7575,outbreak,Dubai,Families to sue over Legionnaires: More than 40 families affected by the fatal outbreak of Legionnaires' disea... http://t.co/boZfh1M3wb,1,Severe,2
+7586,outbreak,Unknown,Families to sue over Legionnaires: More than 40 families affected by the fatal outbreak of Legionnaires' disea... http://t.co/6oPYSf87K2,1,Severe,2
+7592,outbreak,Unknown,More than 40 families affected by the fatal outbreak of Legionnaires' disease in Edinburgh areÛ_ http://t.co/XpvKqME5Ls,1,Severe,2
+7606,pandemonium,"Loreto College, Mullingar",This time next week there will be absolute pandemonium in several homes around Westmeath with some carefully... http://t.co/nwfNxs4rIE,1,Mild,0
+7637,pandemonium,Nigeria|| Lagos,Pandemonium In Aba As Woman Delivers Baby Without Face (Photos): According to eye witnesses in Ogbor Hill in A... http://t.co/lJYIG8RBOQ,1,Mild,0
+7745,police,Unknown,Police arrest suspect in killing of Mexican journalist and 4 women http://t.co/uvxLZhIG4R,1,Severe,2
+7762,police,"Gresham, OR",FOLLOW-UP at 4700 BLOCK OF SW 11TH ST GRESHAM OR [Gresham Police #PG15000044153] 17:00 #pdx911,1,Mild,0
+7770,police,Unknown,"Stockton Shooting Kills One Officers Investigating: STOCKTON ÛÓ
+Stockton police are investigating a shooting t... http://t.co/7vnrB5kurU",1,Severe,2
+7778,police,Philadelphia & Worldwide,Police: Tennessee theater shooting suspect was 29 http://t.co/CthoDZpLW3 #Philadelphia #News,1,Moderate,1
+7786,police,Nigeria,Now Trending in Nigeria: Police charge traditional ruler others with informantÛªs  murder http://t.co/DQhpm4A5qY,1,Severe,2
+7792,police,"Colorado, The Mile High City",@longshipdriver the police here in the U.S. need to stop killing people,1,Moderate,1
+7845,quarantined,"ÌÏT: 41.106046,-80.657836",Ebola Outbreak: Alabama Man Tested Negative For Virus 6 Firefighters 2 Family Members Quarantined - https://t.co/lCpR20USYL,1,Moderate,1
+7859,quarantined,Unknown,Alabama Home Quarantined Over Possible EbolaåÊCase http://t.co/cGKy5rw9cw,1,Mild,0
+7875,quarantined,Venezuela,Officials: Alabama home quarantined over possible Ebola case http://t.co/juW5wtOqB0,1,Mild,0
+7886,quarantined,"Bronx, New York",Alabama home quarantined over possible EbolaåÊcase https://t.co/jr4k7IiSbu,1,Mild,0
+7899,radiation emergency,?x??p = ?/2,Japan NRA proposes raising maximum radiation dose to 250 mSv for nuclear plant workers in emergency situations. http://t.co/Iqb8YH6hHT,1,Moderate,1
+7900,radiation emergency,"Kuala Lumpur, Malaysia",Jerry Brown declares state of emergency over wildfires drought street gangs radiation dead fish LGBT mania air pollution unemployment,1,Severe,2
+7904,radiation emergency,"Salem, OR",SB228 [Passed] Relating to sources of radiation; and declaring an emergency. http://t.co/D1xlFKNJsM,1,Moderate,1
+7919,rainstorm,"Secane, PA",Approaching rainstorm http://t.co/3YREo3SpNU,1,Mild,0
+7920,rainstorm,Unknown,Severe rainstorm in Italian Alps causes landslide killing three near ski resort http://t.co/DzKOKka1Eh,1,Severe,2
+7921,rainstorm,Keffi,Landslide in Italian Alps kills three: ROME (Reuters) - Three people were killed when a severe rainstorm in th... http://t.co/2pZ9t2FnSz,1,Severe,2
+7925,rainstorm,Unknown,Landslide in Italian Alps kills three - ROME (Reuters) - Three people were killed when a severe rainstorm in the I... http://t.co/i1i1Qp5VrO,1,Severe,2
+7927,rainstorm,Unknown,Photo: Rainstorm On The Way To Brooks NearåÊDinosaur Provincial Park Alberta July 11 2015. http://t.co/Mp9EccqvLt,1,Mild,0
+7928,rainstorm,"Kent, United Kingdom",Landslide in Italian Alps kills three: ROME (Reuters) - Three people were killed when a severe rainstorm in th... http://t.co/GX1UXeY57B,1,Severe,2
+7931,rainstorm,"Memphis, TN",driving home after a fairly large rainstorm makes me wonder how some of y'all manage to drive when it's dry out,1,Mild,0
+7946,rainstorm,"Phoenix, AZ",Landslide in Italian Alps kills three: ROME (Reuters) - Three people were killed when a severe rainstorm in th... http://t.co/mBPWr0fUvJ,1,Severe,2
+7947,rainstorm,"Calgary, Alberta",@WerdEmUp It's already been messed up thanks to an earlier rainstorm. Needs to go in for maintenance anyway.,1,Mild,0
+7956,rainstorm,South East Florida,@SavanahResnik @CBS12 I would hide out at the Coldstone at monterrey and us 1. Great place to wait out a rainstorm.,1,Mild,0
+7961,razed,Harare,#CecilTheLion The Latest: More Homes Razed by Northern California Wildfire - New York Times: ... http://t.co/Vi05Yq85Ly #Harare #263chat,1,Mild,0
+7964,razed,Kaneville,'The Latest: More Homes Razed by Northern California Wildfire' by THE ASSOCIATED PRESS via NYT http://t.co/rDF0ZuW7lZ,1,Mild,0
+7966,razed,Unknown,#?? #?? #??? #??? The Latest: More Homes Razed by Northern California Wildfire - New York Times  http://t.co/IPnHSIyorc-,1,Mild,0
+7974,razed,Abuja,The Latest: More Homes Razed by Northern California Wildfire - ABC News http://t.co/55IdFT20A2 http://t.co/2VSX1yO5hT,1,Mild,0
+7979,razed,Unknown,The Latest: More Homes Razed by Northern California Wildfire - ABC News http://t.co/ATokCD74bA,1,Mild,0
+7985,razed,California,ABC News The Latest: More Homes Razed by Northern California Wildfire ABC News The latest onÛ_ http://t.co/RruNs5rDz5,1,Mild,0
+7986,razed,Digitosphere,World News&gt;&gt; 'The Latest: More homes razed by Northern California wildfire - http://t.co/M6OK4EH3ob' http://t.co/VGa0OhB6XF,1,Mild,0
+7995,razed,Unknown,The Latest: More homes razed by Northern California wildfire - SFGate http://t.co/65hunplHYB,1,Mild,0
+7998,razed,Unknown,The Latest: More Homes Razed by Northern California Wildfire - ABC News http://t.co/ORdoKfUIBm,1,Mild,0
+8004,razed,Unknown,The Latest: More Homes Razed by Northern California Wildfire - ABC News http://t.co/lj4J54vxq3,1,Mild,0
+8007,razed,Unknown,The Latest: More Homes Razed by Northern California Wildfire - ABC News http://t.co/VP6wbXMZmj,1,Mild,0
+8014,refugees,Nigeria,12000 Nigerian refugees repatriated from Cameroon http://t.co/LeLYa0vDOg read /////,1,Mild,0
+8033,refugees,Unknown,wowo--=== 12000 Nigerian refugees repatriated from Cameroon,1,Mild,0
+8042,refugees,Unknown,./.....hmm 12000 Nigerian refugees repatriated from Cameroon http://t.co/FVTj8qwJZW /(,1,Mild,0
+8046,refugees,"Shellharbour, Wollongong",.@PeterDutton_MP Maintaining the integrity of our borders while not maintaining human rights of our refugees. Nice trade off.,1,Mild,0
+8050,refugees,Unknown,...//..// whao.. 12000 Nigerian refugees repatriated from Cameroon http://t.co/aVwE1LBvhn,1,Mild,0
+8051,refugees,Unknown,Refugees as citizens - The Hindu http://t.co/GJSaAf3U6K,1,Mild,0
+8053,refugees,Unknown,reaad/ plsss 12000 Nigerian refugees repatriated from Cameroon,1,Mild,0
+8063,rescue,Chicagoland and the world!,Florida Firefighters Rescue Scared Meowing Kitten from Vent Shaft http://t.co/RVKffcxbvC #fire #firefighter,1,Severe,2
+8077,rescue,Unknown,Officials rescue 367 migrants off Libya; 25 bodies found - Fox News http://t.co/9CAignPR6S #NoAgenda #MvDint,1,Mild,0
+8090,rescue,Unknown,"Revel8ion Media recently went out to support the 'Rocky Fire' rescue efforts. This is what we filmed.
+#RockyFire  http://t.co/Haxz4XLs8d",1,Mild,0
+8099,rescued,Summerside,Worker rescued from top of Central Street water tower in Summerside http://t.co/MkMlCTYmee,1,Mild,0
+8104,rescued,Canada,10-Month-Old Baby Girl was Rescued by Coastguard after She Floated HALF A MILE Out to Sea! http://t.co/kJUzJC6iGD,1,Mild,0
+8115,rescued,Niger State,Three suspects in police net for kidnapping &amp; trafficking a 4month old Baby from Kontagora to Aba# Baby rescued alive.,1,Mild,0
+8117,rescued,"Burnley, Lancashire",British trekkers rescued amid flash floods in Himalayas - BBC News,1,Mild,0
+8123,rescued,"Pembroke Dock, Wales",SkyNews: Migrant Boat Tragedy Survivors Arrive In Italy - Migrants rescued http://t.co/FORBy6MmKp,1,Severe,2
+8124,rescued,Unknown,nigeriantribune: 4 kidnapped ladies rescued by police in Enugu | Nigerian Tribune http://t.co/7hmHpl1Z4y,1,Mild,0
+8127,rescued,Unknown,NAIROBI Kenya (AP) ÛÓ Two people died and 25 others were rescued after a passenger boat with about two dozen passengers collided with a,1,Severe,2
+8132,rescued,Patra-Greece.,Incheon Prosecutors Office: Drop the charges against Nami Kim who rescued two puppies from 'Dog Hangi... https://t.co/vWzX2P6Dnk via @Change,1,Moderate,1
+8134,rescued,Hyderabad Telangana INDIA,Britons rescued amid Himalaya floods http://t.co/8f2YBus2Vk,1,Mild,0
+8139,rescued,"Bath, England",New-born piglet running down a national speed limit road is rescued #oink #Dorset http://t.co/dOMvOx2Oui http://t.co/iEVdj6KBU2,1,Mild,0
+8145,rescuers,"ÌÏT: 50.953278,-113.978785",Rescuers recover body of 37-year-old Calgary man from lake near Vulcan http://t.co/araUSJvsy9 http://t.co/U7ZWlk8THX,1,Mild,0
+8148,rescuers,"Rome, IT",#italy Hundreds of Migrants Rescued After Boat Capsizes Off Libya: Rescuers saved 400 people though 25 died w... http://t.co/e48syD5N1E,1,Mild,0
+8151,rescuers,Worldwide,VIDEO: 'We're picking up bodies from water': Rescuers are searching for hundreds of migrants in the Mediterran... http://t.co/WvMHX5tiel,1,Mild,0
+8152,rescuers,Unknown,Rescuers are searching for hundreds of migrants in the Mediterranean after a boat carrying as many as 600 peopleÛ_,1,Mild,0
+8153,rescuers,"Los Angeles, CA 90045",Bay Whale Worries Rescuers http://t.co/nfKTvVLWHm,1,Mild,0
+8160,rescuers,Unknown,Fears over missing migrants in Med: Rescuers search for survivors after a boat carrying as many as 600 migrantsÛ_ http://t.co/UUHNC8ZkOW,1,Severe,2
+8166,rescuers,Unknown,VIDEO: 'We're picking up bodies from water': Rescuers are searching for hundreds of migrants in the Mediterranean after a boat carryi...,1,Mild,0
+8167,rescuers,9 Benua Ltd.,VIDEO: 'We're picking up bodies from water': Rescuers are searching for hundreds of migrants in the Mediterran... http://t.co/xJm6Snk1G0,1,Mild,0
+8173,rescuers,"Paradise, NV",WomanÛªs GPS app guides rescuers to injured biker in Marin County http://t.co/hKv8XKtU2k,1,Moderate,1
+8174,rescuers,"ÌÏT: 7.384559,3.8793718",VIDEO: 'We're picking up bodies from water': Rescuers are searching for hundreds of migrants in the Mediterran... http://t.co/biiiYi7DaE,1,Mild,0
+8178,rescuers,Unknown,News Break Nigeria Rescuers search for survivors after a boat carrying as many as 600 migrants capsizes in the... http://t.co/lNiTVT7B53,1,Mild,0
+8179,rescuers,Unknown,Photo: theonion: Rescuers Heroically Help Beached Garbage Back Into OceanåÊ http://t.co/YcSmt7ovoc,1,Mild,0
+8185,rescuers,Florida,When Rescuers Found Him He ... http://t.co/sTDCdHQxJX,1,Mild,0
+8186,rescuers,"Manado,Sulawesi Utara",VIDEO: 'We're picking up bodies from water': Rescuers are searching for hundreds of migrants in the Mediterran... http://t.co/XfS3pJhFh9,1,Mild,0
+8192,riot,"Portland, OR",@CHold ironically RSL call their stadium the Riot,1,Severe,2
+8229,riot,NYC,Matt Baume Digs Into the the Controversial Û÷StonewallÛª Trailer and Who the Real Heroes of the Riot Were: VIDEO http://t.co/HRoxD1qpua #gay,1,Moderate,1
+8230,riot,U.K.,Riot police intervene after Southampton and Vitesse Arnhem supporters clash: Û¢ Fans clash in buildup to second legÛ_ http://t.co/I8GX67wbGv,1,Mild,0
+8233,riot,Global,Riot police intervene after Southampton and Vitesse Arnhem supporters clash: Û¢ Fans clash in buildup to second... http://t.co/OBBcoMKAWf,1,Mild,0
+8249,rioting,Unknown,#BHRAMABULL Watch Run The Jewels Use Facts to Defend Rioting in Ferguson: The socially minded duo takes on the... http://t.co/9iP2vqHFWi,1,Mild,0
+8260,rioting,Tri-State,#BHRAMABULL Watch Run The Jewels Use Facts to Defend Rioting in Ferguson: The socially minded duo takes on the... http://t.co/y9eTXHCvjr,1,Mild,0
+8263,rioting,Azeroth,@amiestager there's better alternatives than rioting and if we don't kill them they'll kill us...,1,Mild,0
+8265,rioting,#DCjacobin,I have stopped trying to figure out if THIS will be the misogyny/racism/religion-fueled shooting that will incite rioting.,1,Severe,2
+8269,rioting,Davis,@abbydphillip @dahboo7 Shh...it's only OK for the puny 13% black population to get mad.  The gov can't control the majority rioting.,1,Moderate,1
+8272,rioting,Unknown,@foxandfriends where is protest looting and rioting that is for ignorant people,1,Severe,2
+8273,rioting,å©hicago,@brownblaze on tumblr the day/night of it was all over. The first I heard anything about it anywhere elsewere simply reports of rioting.,1,Mild,0
+8281,rioting,"Dublin, Ireland",.@runjewels appear in a new video by @BBC defending the riots in Ferguson: http://t.co/veh1seVDKO http://t.co/h2GziEfJXt,1,Severe,2
+8282,rioting,Liverpool,Half of Australia is currently rioting because they think 'Extras' is an aboriginal cricketer stealing their sport.,1,Mild,0
+8290,rioting,Unknown,http://t.co/DYKYpy3vA5  Cindy Noonan@CindyNoonan-Heartbreak in #Baltimore #Rioting #YAHIstorical #UndergroundRailraod,1,Mild,0
+8293,rubble,London,Outrage as dog found buried alive in rubble http://t.co/vrNRrpoHm8,1,Severe,2
+8322,rubble,Toronto,'Hiroshima never recovered and all the evidence was smothered under a thick cloud of rubble..' #jayElectronica,1,Moderate,1
+8323,rubble,West Coast,"@KurtSchlichter Grandpa fought his way across Western Eurpoe mustered out in Guam on his way to the Home Islands.
+
+Bounce the rubble.",1,Mild,0
+8333,rubble,CANADA ,While the world screams terrorism Assad buries civilians under the rubble of their homes. #Aleppo 05-08-2015 #Syria http://t.co/7GcPtCdx7o,1,Severe,2
+8395,sandstorm,USA,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/OFhjcn36o1,1,Mild,0
+8398,sandstorm,Unknown,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/nvSjHdGDGZ,1,Mild,0
+8407,sandstorm,USA,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/YSrSKuyaSw,1,Mild,0
+8413,sandstorm,USA,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/ELDcP3vO7C,1,Mild,0
+8417,sandstorm,USA,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/1oemJTO9Dp,1,Mild,0
+8420,sandstorm,USA,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/jqTMweDw33,1,Mild,0
+8424,sandstorm,USA,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/Tr8YcHEFGQ,1,Mild,0
+8426,sandstorm,United States,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/1ZdRKTgogD,1,Mild,0
+8427,sandstorm,USA,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/TLcWeZPuKW,1,Mild,0
+8438,sandstorm,USA,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/Fkb7iUAuL8,1,Mild,0
+8592,seismic,Unknown,@elephino_ @Thrusta1 no but it's a convenient and seismic shift in 6 months from trying to bury the event and now allegedly 'enhance it',1,Mild,0
+8594,seismic,Singapore,A subcontractor working for French seismic survey group CGG has been kidnapped in Cairo and is held by Islamic State the company said on WÛ_,1,Mild,0
+8600,seismic,USA,#Gabon : Oil and Gas Exploration Takes Seismic Shift in Gabon to Somalia http://t.co/SY8nqTLMD3 ^FJ http://t.co/yjDHoDdjox,1,Mild,0
+8602,seismic,Florida,@kc8ysl Is it wrong to pray for seismic activity along the San Andreas fault? #smh,1,Moderate,1
+8603,seismic,London ,"Anti-fracking group seeks review over #Lancashire seismic monitoring:
+ 
+http://t.co/ZzbqmGNUsl #fracking http://t.co/Y23Xzl3fZv",1,Mild,0
+8605,seismic,"Kanto, Japan",[10:45:27JST Aug06:First Alert] M4.1 at 'E off Chiba pref.' under 10km (35.8140.8). Estimated max seismic# is 3,1,Mild,0
+8611,seismic,Unknown,My brain feels like it's vibrating inside my skull. The MRI is going to look like a seismic readout of a faultline during earthquake season.,1,Mild,0
+8616,seismic,United Kingdom,Exploration takes seismic shift in Gabon to Somalia ÛÒ WorldOilåÊ(subscription) http://t.co/Hs6OhRFsA9,1,Mild,0
+8617,seismic,Unknown,#Fukushima still is not controlled &amp; #seismic retrofitting for other #reactors is a BIG issue @fukushima_actu http://t.co/lCDkTEOukj,1,Mild,0
+8619,seismic,Unknown,#Sismo DETECTADO #JapÌ_n [Report 6] 01:02:42 Okinawa Island region M3.8 Depth 10km Maximum seismic intensity 3 JST #??,1,Mild,0
+8626,seismic,"Calgary, Alberta","Nuclear-Powered Brassiere Explodes During Seismic Survey http://t.co/76mKIdOOLh
+ #Calgary #Edmonton #oilandgas #Vancouver #Toronto",1,Mild,0
+8634,seismic,Unknown,Exploration takes seismic shift in Gabon to Somalia http://t.co/dmVR2H2fKM,1,Mild,0
+8645,sinkhole,Arizona,http://t.co/OK9EBHurfl If your neighborhood school falls into a sinkhole State Sen. Steve Yarbrough may be close by...,1,Mild,0
+8649,sinkhole,"Evansville, IN",Some Evansville residents told to limit water usage due to sinkhole construction http://t.co/Lw6NeQJRoT,1,Mild,0
+8652,sinkhole,Europe,Latest: USA: Huge sinkhole swallows up Brooklyn intersection http://t.co/vspKHg3nZy,1,Mild,0
+8666,sinkhole,NYC,A Sinkhole caved in a Brooklyn Street today on 5th Ave &amp; 64th Street. http://t.co/eUKhLKgGdO,1,Mild,0
+8672,sinkhole,Unknown,Large sinkhole swallows entire pond in Lowndes County Georgia http://t.co/20Gi4Gyud5,1,Mild,0
+8675,sinkhole,"Boston, MA",A sinkhole grows ... in Brooklyn? http://t.co/UiqKDdVwKz http://t.co/aa8FwtOHyJ,1,Mild,0
+8678,sinkhole,"Texas, USA",Giant Sinkhole Swallows NYC Intersection http://t.co/ozIZdsDWP4 via @NewsBeatSocial,1,Mild,0
+8679,sinkhole,Unknown,A sinkhole grows in Brooklyn: six-meter crater swallows street http://t.co/LTLh53aRN4,1,Mild,0
+8682,sinkhole,"New York, New York",The sinkhole that ate Brooklyn http://t.co/28r2IgxmIE,1,Mild,0
+8687,sinkhole,Unknown,Watch This Giant Sinkhole Form on New York City Street http://t.co/BEnWu5IARa,1,Mild,0
+8820,sirens,Unknown,There was also a calm. Something was going to happen. Suddenly a crash of lightning came through the sky and with it the wails of sirens. --,1,Mild,0
+8833,sirens,Unknown,Fire truck sirens for the past ten minutes straight coming and going. Must be huge. Maybe it's taco bell and they'll build a Sonic instead.,1,Moderate,1
+8894,snowstorm,Unknown,How does a snowstorm happen? Find the answers here: http://t.co/m75fCLUtF2 #snowstorm,1,Mild,0
+8897,snowstorm,"NJ, USA",Tess was almost born in a snowstorm. I was 39 years ago. Here's her birth story. http://t.co/UnyuRR8baw #VBAC #NaturalBirth,1,Mild,0
+8898,snowstorm,The Land of Make Believe,She rose to her lofty position after being transported by accident to Oz in a hot air balloon during a snowstorm.,1,Mild,0
+8904,snowstorm,"Philadelphia, PA",It's creepy seeing 676 closed. It was closed during a snowstorm and my balcony overlooked the 676/76 overpass. Very eerie,1,Mild,0
+8910,snowstorm,Mountains,RT RTphotographyUK: New #photo Oak in a snowstorm http://t.co/gWOKZELq5Q taken in #winter on the #SouthDowns #Hampshire #photography #artÛ_,1,Mild,0
+8915,snowstorm,Los Angeles,@BigBang_CBS ...wow...ok...um...that was like ice water blizzard snowstorm to the face.,1,Mild,0
+8917,snowstorm,"Saint John, N.B, Canada ",@erincandy Hr/15 mins for me in that place. During a snowstormI was pissed lol We got oil delivered to them on snowmobiles in the end,1,Moderate,1
+8919,snowstorm,Unknown,Long Island is technically the leftover dirt from a snowstorm and thats a geologic fact. That place is terrible.,1,Severe,2
+8925,snowstorm,Mountains,New #photo Oak in a snowstorm http://t.co/gWOKZELq5Q taken in #winter on the #SouthDowns #Hampshire #photography #art #tree #treeporn,1,Mild,0
+8929,snowstorm,Northeast United States ,RT @WhistlerBlckcmb: One more #SnowBackSunday share: Snowstorm on the Glacier July 26 2015! via @momentumcamps http://t.co/JohKyMv9El,1,Mild,0
+8930,snowstorm,Unknown,The sun is shining on this house now but imagine trying to build this summer home during a North East snowstorm!... http://t.co/BtJL9JkvXZ,1,Mild,0
+8937,snowstorm,Unknown,This week on dream from last night: my mom drove my car in a snowstorm. She hit another car while parallel parking. Saw my first ex......,1,Mild,0
+8951,storm,Unknown,Well this storm hit out of no where! ??,1,Mild,0
+8958,storm,"Florence, SC",The Florence Regional Airport Director says no major damage at airport from yesterday's storm. No evacuations and no blown out windows.,1,Moderate,1
+8977,storm,Unknown,Another next day #ThrowbackThursday of Kinky Kristy and @KyleSalive rehearsing up a storm! #DoingHashtagsRight http://t.co/UJ9hxUg7QS,1,Mild,0
+8981,storm,Fairbanks Alaska,Aurora Prediction: Kp: 3.33(11:16) 4.67(14:16) AK (earth 2.00) 75% Status: Low Storm,1,Mild,0
+8990,storm,Unknown,Û÷SexistÛª peer review causes storm online https://t.co/WO2T0K4zXi via @timeshighered,1,Mild,0
+9036,stretcher,Unknown,georgegallagher: RT WNBA: Stars coach Dan Hughes taken off court on stretcher after collision with Danielle RobinÛ_ http://t.co/wz4xVZYqJd,1,Moderate,1
+9043,structural failure,"Cimahi,West Java,Indonesia",Investigators say a fatal Virgin Galactic spaceship crash last year was caused by structural failure after the... http://t.co/FoxpVpTttA,1,Severe,2
+9046,structural failure,Unknown,Investigators say a fatal Virgin Galactic spaceship crash last year was caused by structural failure after the co-pilot unlocked a braking,1,Severe,2
+9048,structural failure,United States of America,Investigators say a fatal Virgin Galactic spaceship crash last year was caused by structural failure after the... http://t.co/QOs0DE9BKQ,1,Severe,2
+9049,structural failure,"Stone Mountain, GA",Investigators rule catastrophic structural failure resulted in 2014 Virgin Galactic crash http://t.co/nLzbHcfXCM,1,Severe,2
+9050,structural failure,United States,NTSB: Virgin Galactic crash caused by structural failure triggered when brakes unlocked early http://t.co/MgIG4uX7DM Û_,1,Severe,2
+9065,structural failure,Ireland,Virgin galactic crash: early unlocking of brakes triggered structural failure http://t.co/3YLSQ1fSEf http://t.co/ABpMLymHNK,1,Severe,2
+9066,structural failure,Unknown,Investigators say a fatal Virgin Galactic spaceship crash last year was caused by structural failure after the... http://t.co/SYL7ou7qVW,1,Severe,2
+9069,structural failure,"Virginia Beach, VA USA",ÛÏ@NewsHour: Investigators rule catastrophic structural failure resulted in 2014 Virgin Galactic crash http://t.co/M8HRetrO31Û,1,Severe,2
+9073,structural failure,Fano (Italy),The NTSB reports that last year's crash of a Virgin Galactic spaceship was caused by structural failure after the Û_ http://t.co/vSAPkWJTEA,1,Severe,2
+9076,structural failure,USA,#BBCLive Investigators say a fatal Virgin Galactic spaceship crash last year was caused by structural failure ...  http://t.co/u5suyvLfZJ,1,Severe,2
+9092,suicide bomb,Unknown,International News Û¢åÊ'Nigeria suicide bomb kills at least seven at market ' via @233liveOnline. Full story at http://t.co/MtTdvy6141,1,Severe,2
+9104,suicide bomb,WorldWide,Pic of 16yr old PKK suicide bomber who detonated bomb in Turkey Army trench released http://t.co/VtVXa0Srmw http://t.co/Qq70Gf99ba,1,Severe,2
+9105,suicide bomb,Unknown,reaad/ plsss Pic of 16yr old PKK suicide bomber who detonated bomb in Turkey Army trench released,1,Severe,2
+9111,suicide bomb,Nigeria,#GRupdates Pic of 16yr old PKK suicide bomber who detonated bomb in Turkey Army trench released --&gt;... http://t.co/hUCyI6NRbB,1,Severe,2
+9115,suicide bomb,"lagos , Usa",ll//ll= Pic of 16yr old PKK suicide bomber who detonated bomb in Turkey Army trench released http://t.co/8vBgg9IY7i /,1,Severe,2
+9117,suicide bomb,Unknown,./.....hmm Pic of 16yr old PKK suicide bomber who detonated bomb in Turkey Army trench released http://t.co/5v29w19tFX /(,1,Severe,2
+9122,suicide bomb,Unknown,wo Pic of 16yr old PKK suicide bomber who detonated bomb in Turkey Army trench released http://t.co/Sj57BoKsiB /'/'//,1,Severe,2
+9125,suicide bomb,Seek for LIGHT today!!!,Pic of 16yr old PKK suicide bomber who detonated bomb in Turkey Army trench released: Harun Ìàekdar a member o... http://t.co/v0NTQyZlPK,1,Severe,2
+9129,suicide bomb,Nigeria,#Bestnaijamade: 16yr old PKK suicide bomber who detonated bomb in ... http://t.co/KSAwlYuX02 bestnaijamade bestnaijamade bestnaijamade beÛ_,1,Severe,2
+9133,suicide bomb,Nigeria,#GRupdates Pic of 16yr old PKK suicide bomber who detonated bomb in Turkey Army trench released --&gt;... http://t.co/P5yASKTq0K,1,Severe,2
+9136,suicide bomb,London/Lagos,Pic of 16yr old PKK suicide bomber who detonated bomb in Turkey Army trench released http://t.co/I3ceSn7KXI http://t.co/2yCM0dlQ2f,1,Severe,2
+9140,suicide bomb,YesNaija.com,Pic of 16yr old PKK suicide bomber who detonated bomb in Turkey Army trench released: Harun Ìàekdar a member o... http://t.co/fMoqK26hIm,1,Severe,2
+9147,suicide bomber,Unknown,#Noticias Suicide bomber kills 15 in Saudi security site mosque  http://t.co/oipt1uBaXo,1,Severe,2
+9150,suicide bomber,Unknown,Suicide Bomber Kills 13 At Saudi Mosque: Back in May a suicide bomber struck a Shi'ite mosque in eastern Saud.. http://t.co/FlrOvkANC0,1,Severe,2
+9152,suicide bomber,Atlanta,Suicide bomber kills 15 in Saudi security site mosque http://t.co/1I62JjK6pT,1,Severe,2
+9153,suicide bomber,Unknown,"qtSZg mhtw4fnet
+
+Suicide bomber kills 15 in Saudi security site mosque - Reuters",1,Severe,2
+9155,suicide bomber,Unknown,Suicide bomber kills at least 15 in Saudi mosque: A suicide bomb attack inside a mosque in a local security fo... http://t.co/n6njdG6r9l,1,Severe,2
+9158,suicide bomber,Unknown,New post: Suicide Bomber Kills 13 At Saudi Mosque http://t.co/YcuV4KTgrl,1,Severe,2
+9160,suicide bomber,Netherverse,Suicide bomber detonates in Saudi Arabia mosque 17 reportedly killed http://t.co/BNVCvNYXXj,1,Severe,2
+9163,suicide bomber,Maryland,Suicide Bomber Kills 13 At Saudi Mosque http://t.co/VHQeD0gO0n,1,Severe,2
+9165,suicide bomber,India,Suicide bomber kills 15 in Saudi Arabia mosque used by the police :IS claims responsible for barbarism http://t.co/Ux5YA1cSG3,1,Severe,2
+9167,suicide bomber,Pune,@ZeeNews How come no one asked the obvious QN? Why show a Hindu suicide bomber?  Never heard of one.,1,Severe,2
+9168,suicide bomber,"Dubai, United Arab Emirates",More details: Bomber kills at least 13 at #Saudi mosque in Asir - including 10+ members of 'special emergency forces' http://t.co/i1626mnNd9,1,Severe,2
+9170,suicide bomber,"Vienna, Austria, Europe",Suicide bomber kills 15 in Saudi security site mosque - Reuters http://t.co/KCObrZBVDs http://t.co/y62HSFVIAQ,1,Severe,2
+9176,suicide bomber,Unknown,[The Guardian] Islamic State claims suicide bombing at Saudi Arabian mosque http://t.co/tqvPUSaFJQ,1,Severe,2
+9178,suicide bomber,Worldwide,Google News CA: Suicide bomber kills 15 in Saudi security site mosque - Reuters: Wall Street Jou... http://t.co/mawD20REGb #News #Canada,1,Severe,2
+9184,suicide bomber,Unknown,#?? #?? #??? #??? Suicide bomber kills 15 in Saudi security site mosque - Reuters  http://t.co/ebGGmfxoBy,1,Severe,2
+9186,suicide bomber,Unknown,Islamic State claims suicide bombing at Saudi Arabian mosque: Ten members of emergency services... http://t.co/0Bznfdg0aR #Kabari #World,1,Severe,2
+9188,suicide bomber,World,'Islamic State' group claims Saudi mosque suicide blast: The jihadist group claims it sent a suicide bomber toÛ_ http://t.co/H2CTpG4oyZ #dw,1,Severe,2
+9189,suicide bomber,Unknown,17 dead as suicide bomber attacks Saudi Arabian mosque http://t.co/d5cUDwuhww | https://t.co/twnsWk0hFJ,1,Severe,2
+9190,suicide bomber,Unknown,IS claims suicide bombing against Saudi police: An Islamic State group suicide bomber on Thursday detona... http://t.co/yoXZFbRvzI #news,1,Severe,2
+9198,suicide bombing,"Charlotte, NC",@JRehling @MyyTwoCentss And if your best evidence is the word of a guy who encouraged suicide bombing as a means to get to heaven.....well..,1,Mild,0
+9199,suicide bombing,Unknown,AFP: #PKK said it carried out suicide bombing against troops in eastern #Turkey as a reprisal for 'bombing of a civilian village',1,Severe,2
+9200,suicide bombing,New York City,"ErdoganÛªs Bloody Gambit: 
+Max Zirngast in Jacobin:
+On July 20 a suicide bombing took the lives of thirty-one... http://t.co/l1vN8zXLGG",1,Severe,2
+9202,suicide bombing,United States,#ISIS claims credit for suicide bombing 'with 6 tons of explosives' at the central command of #Syria(n) T4 airbase http://t.co/QOaU2QLJ3B,1,Severe,2
+9204,suicide bombing,"England, United Kingdom",IF SUICIDE BOMBING WASTHE SMARTEST THING2 DO FOR ALLAH/GODJESUS/THE HOLY PROPHET MUHAMMAD COULD HAVE KILLEDSOMEBODY? http://t.co/tGfWuVVHxj,1,Severe,2
+9205,suicide bombing,Unknown,Kurdish Militants Target Turkish Military In Suicide Attack - Huffington Post http://t.co/03bJm4ORoW,1,Severe,2
+9213,suicide bombing,istanbul,@PieroCastellano @nipped suicide bombing civilians in major TR cities yet?,1,Severe,2
+9214,suicide bombing,Unknown,Remembering Sgt.-Maj. Roni Ghanem 28 of Maghar murdered by Hamas terrorists in the suicide bombing of Egged bus No. 361 13 years ago today,1,Severe,2
+9224,suicide bombing,USA,Turkish troops killed in Kurdish militant 'suicide attack' http://t.co/q1eIXnjjpt,1,Severe,2
+9227,suicide bombing,"philadelphia, pa",@mehdirhasan percentages of young Muslims who believe suicide bombing is justified per pew research: 35% Britain 42% France 29% Spain,1,Moderate,1
+9228,suicide bombing,Unknown,PKK Suicide Bombing Kills 2 Soldiers in Turkey http://t.co/dfanUDwSQ3,1,Severe,2
+9229,suicide bombing,Unknown,YAOUNDE Cameroon (AP) ÛÓ Authorities have ordered the closure of mosques and Islamic schools following a series of suicide bombing attacks,1,Severe,2
+9234,suicide bombing,"Los Angeles, CA",@61_alvin @Craigyb74 @nomar4eva @Shahasda80 @wherepond @trensabby @parallelpond the wall Israel erected has stopped suicide bombing?,1,Severe,2
+9236,suicide bombing,Unknown,#ISIL has claimed credit for three suicide bombing attacks targeting regime checkpoints on the outskirts of Al-Qaryatayn. #Homs #Syria,1,Severe,2
+9241,suicide bombing,Lagos,MUST-SEE: Massive ISIS Suicide Truck Bombing Caught On Tape http://t.co/hMsPYpozLn via @GabbyOgbechie1TPGazette,1,Severe,2
+9256,sunk,Tweets by David ,Today 5/8/1941 Today 1941 British cargo ship Kumasian torpedoed/sunk Atlantic lost 1 of 60 lives Any1 have link? #crewlist #WW2,1,Severe,2
+9331,survive,Unknown,#WWII #SGM T34 in flames but with tank of gasoline to the outside it is likely that the crew survive . http://t.co/Psz22ky0fM,1,Mild,0
+9349,survived,Brazil,"Grandma's friends survived to the attack in Hiroshima but they died with cancer when kids/teenagers??
+#BombEffects",1,Severe,2
+9354,survived,portsmouth ,Good news Adam Barton survived the helicopter crash in #Emmerdale maybe now he can start training &amp; get match fit. #Pompey,1,Mild,0
+9366,survived,argentina,The 390-Year-Old Tree That Survived the Bombing of Hiroshima http://t.co/kEirA8MA3K,1,Mild,0
+9394,survivors,"Dubai, UAE",Haunting memories drawn by survivors http://t.co/a4H2e5xhiK via CNN,1,Moderate,1
+9398,survivors,"Melbourne, Australia",The Cafe Run by Acid Attack Survivors in #India http://t.co/XtVRJMRREs http://t.co/ndvlAPJvQL,1,Moderate,1
+9399,survivors,Unknown,CNN: Haunting memories drawn by survivors http://t.co/ZEnDvsgYMD,1,Moderate,1
+9407,survivors,Unknown,Aya KanoÛªs family has taken two nuclear hits: First #Hiroshima. Then #Fukushima. http://t.co/kcx9w2EJ8A http://t.co/aC50jw3Xmw,1,Mild,0
+9409,survivors,"Carlow, Ireland",See the comment from @yogal700 on @thejournal_ie:LÌä Niamh leads search for survivors of capsized migrant boat.... http://t.co/TAKgauQ6pd,1,Mild,0
+9412,survivors,Orlando,#orlando Survivors of Shanghai Ghetto reunite after 70 years http://t.co/f8pE52ZeyX,1,Mild,0
+9413,survivors,"Bangkok, Thailand.",As Anniversary Nears Atomic Bomb Survivors Speak Out Against Nuclear Power | Common Dreams  http://t.co/n8f2dXVduD,1,Moderate,1
+9419,survivors,SDF-1 Macross S. Ataria Island,Haunting memories drawn by survivors http://t.co/kDh4evYWpt via cnnbrk CNN #news,1,Moderate,1
+9424,survivors,New York City,"RT @SyedIHusain @penelopephoto 
+The man who survived Hiroshima: 'I had entered a living hell on earth' http://t.co/qFinwD7ls7",1,Severe,2
+9427,survivors,"Hollywood, CA",@TheNerdsofColor @GeorgeTakei narrates our new doc about #Hiroshima WWII bombing and survivors tales. Check it out http://t.co/33RfRc7ZqT,1,Moderate,1
+9429,survivors,Unknown,@ShaunKing Check this out: Tribute to survivors of sexual assault by law enforcement officers on facebook.,1,Moderate,1
+9433,survivors,"Last Legs, New Zealand",Hiroshima schoolgirls archive memories of A-bomb horror http://t.co/32IzXXrUdP via @ABCNews,1,Severe,2
+9442,terrorism,Udaipur,"Cross-border terrorism: Pakistan caught red-handed again
+http://t.co/FfbnLuiy0f via@timesofindia",1,Severe,2
+9443,terrorism,                           FLA,@BBCNewsAsia State sponsored terrorism.,1,Severe,2
+9447,terrorism,"Toronto, Ontario",A Brief History of False Flag Terrorism | Wake Up World - http://t.co/KTeqJRXzpc via http://t.co/yZxlQeMKPF,1,Severe,2
+9459,terrorism,??????,Online Homeland security: An Appraisal of #PakistanÛªs #Anti-Terrorism #Act http://t.co/aeRU3nStpN,1,Moderate,1
+9461,terrorism,Unknown,"Truth...
+https://t.co/GLzggDjQeH
+#News
+#BBC
+#CNN
+#Islam
+#Truth
+#god
+#ISIS
+#terrorism
+#Quran
+#Lies http://t.co/MYtCbJ6nmh",1,Moderate,1
+9462,terrorism,Citizen of the World,Combating #fear of #terrorismturn off your tv &amp;Veterans For Peace Calls 4 an End 2 #NATO #VFP http://t.co/YPPG4kZIpS http://t.co/cBfdI6LF2X,1,Moderate,1
+9464,terrorism,Unknown,Cross-border terrorism: Pakistan caught red-handed again http://t.co/NVGNF9AcuU,1,Severe,2
+9473,terrorism,"Washington, DC",New US counter #terrorism program urges #Muslims to rat each other out critics say http://t.co/r0w85x3b0z http://t.co/VUUQqBo6mp,1,Severe,2
+9475,terrorism,New Jersey,People buyout over terrorism and Isis but have a better chance getting shot at in a movie theater  https://t.co/jkdjH2zw8s,1,Moderate,1
+9476,terrorism,"New Jersey, USA",Cross-border terrorism: Pakistan caught red-handed again @timesofindia http://t.co/ZfdcWV4ch0,1,Severe,2
+9477,terrorism,(SoCal),"?? Iran largest sponsor of terrorism
+?? If #IranDeal goes thru US gives $150 Billion
+
+?? FACT: US will become largest supporter of terrorism",1,Severe,2
+9478,terrorism,Unknown,"Truth...
+https://t.co/Kix1j4ZyGx
+#News
+#BBC
+#CNN
+#Islam
+#Truth
+#god
+#ISIS
+#terrorism
+#Quran
+#Lies http://t.co/pi6Qn7y7ql",1,Moderate,1
+9479,terrorism,Unknown,New US counter #terrorism program urges #Muslims to rat each other out critics say http://t.co/mVn6T9VhUl http://t.co/7lUfjX684i,1,Severe,2
+9483,terrorism,Unknown,@Daggy1 Maybe reagan giving weapons to Iran's regime in the 1980s is terrorism no?,1,Severe,2
+9487,terrorism,Unknown,"Truth...
+https://t.co/n1K5nlib9X
+#News
+#BBC
+#CNN
+#Islam
+#Truth
+#god
+#ISIS
+#terrorism
+#Quran
+#Lies http://t.co/CGz84MUOCZ",1,Moderate,1
+9494,terrorist,Kurnool,Terrorist attack in #Udhampur district in J&amp;K; 2 SPOs injured,1,Severe,2
+9497,terrorist,Unknown,Udhampur terror attack: NIA takes over probe Pakistani terrorist quizzed; Pak denies link  http://t.co/i3gLzABeGl,1,Severe,2
+9498,terrorist,India,Three Israeli soldiers wounded in West Bank terrorist attack - Haaretz http://t.co/Mwd1iPMoWT #world,1,Severe,2
+9512,terrorist,"Lagos, Nigeria.",POLLS:  SHOULD THE UNBORN BABIES OF BOKO HARAM TERRORIST BE KILLED IN THEIR MOTHERS WOMB OR SPARED?                http://t.co/3skw0DqZ0r,1,Severe,2
+9514,terrorist,MAD as Hell,RT AbbsWinston: #Zionist #Terrorist kidnapped 15 #Palestinians in overnight terror on Palestinian Villages Û_ http://t.co/J5mKcbKcov,1,Severe,2
+9515,terrorist,"Washington, DC",Reading rec today: Faisal Devji's Terrorist in Search of Humanity on extremists using idea ever since the bomb of humanity as single entity,1,Severe,2
+9516,terrorist,Unknown,@VICE no sympathyONLF is a terrorist group affiliated with AL shabab This is war! Go report on  war crimes committed by Western powers!,1,Severe,2
+9517,terrorist,MAD as Hell,"RT AbbsWinston: #Zionist #Terrorist Demolish Tire Repair Shop Structure in #Bethlehem
+http://t.co/ph2xLI8nVe http://t.co/22fuxHn7El",1,Severe,2
+9521,terrorist,Unknown,To whom we shld ask tht from where this bldy PAK terrorist has entered in our country...?,1,Severe,2
+9523,terrorist,patna,#Article 370 hs to.remove by this govt.otherwise our son who is on Border 'll b slain by Muslim terrorist.Bstrd Media takig SculrismFinis'em,1,Severe,2
+9527,terrorist,Kolkata,something is seriously wrong.suddenly deres one attack after anoder.Did a large contingency of terrorist... http://t.co/MVhjSelV5z,1,Severe,2
+9528,terrorist,Unknown,Stop using the money of tax layers of the country to feed bloody terrorist. Shot them and give a strong msg as other country does...,1,Severe,2
+9532,terrorist,"New Delhi, Delhi",#Congi &amp; Indian News Presstitutes must be sympathising on the Terrorist caught alive in Jammu.If they can do for Yakub Sonia must be feeling,1,Severe,2
+9534,terrorist,Unknown,@RegaJha @sethiankit True also a racial attack in US perturbs buzzfeed India more than 3 back to back terrorist attacks on India..,1,Severe,2
+9536,terrorist,Unknown,[August 06 2015 at 08:02PM] Three Israeli soldiers wounded in West Bank terrorist attack via http://t.co/6nDHERpBoT,1,Severe,2
+9545,threat,"San Francisco, CA",A reminder: White Americans are the biggest terror threat in the United States according to new study. http://t.co/BqzhPjOTF5,1,Severe,2
+9549,threat,"Portland, Oregon, USA",Most Popular Content Top story: Barrel Bombs Not ISIS Are the Greatest ThreatÛ_ http://t.co/c8YYUWmefG see more http://t.co/BsMz4qlLBN,1,Mild,0
+9601,thunder,ny || ga,it doesn't really get much better then summer thunder storms wrapped in a blanket. #icouldsitinthismomentforever,1,Mild,0
+9614,thunderstorm,"Red Deer, Alberta, Canada",[HIGH PRIORITY] SEVERE THUNDERSTORM WATCH ENDED Issued for Red Deer [Updated: Aug 05th 20:29 MDT] http://t.co/ZrIyNa6f6m,1,Severe,2
+9615,thunderstorm,Unknown,Severe Thunderstorm Warning until 10:30 PM local for Oklahoma County in OK. 60 Mph Wind Gusts And Half Dollar Size Hail. #okwx #myswc,1,Severe,2
+9621,thunderstorm,OKC,New event. Severe Thunderstorm Warning from 8/5/2015 9:50 PM to 10:30 PM CDT for Oklahoma County. Mo,1,Severe,2
+9622,thunderstorm,Lake Hefner Bike Trail,Stood there for 20 mics tryin to get a #lightning pic before settling for a vid. #okc #weather #summer #thunderstorm http://t.co/k2GJBOk6ft,1,Mild,0
+9623,thunderstorm,United States,GSP issues STRONG THUNDERSTORM WILL IMPACT PORTIONS OF NORTHEASTERN PICKENS COUNTY UNTIL 1115 PM EDT for  Greater Pickens Pickens MountainÛ_,1,Mild,0
+9624,thunderstorm,Cambridge ,A Dog Was Abandoned In A Thunderstorm. But Then A Neighbor Steps Up And Does THIS http://t.co/iR3OXEH7id,1,Moderate,1
+9626,thunderstorm,"Oklahoma City, OK",Severe Thunderstorm Warning for Oklahoma County in OK until 10:30pm. http://t.co/Iyq8gf437p,1,Severe,2
+9628,thunderstorm,Worldwide,RT @LivingSafely: #NWS issues Severe #Thunderstorm Warnings for parts of #AR #NC #OK. Expect more trauma cases: http://t.co/FWqfCKNCQW,1,Severe,2
+9631,thunderstorm,Unknown,RT @LivingSafely: NWS posts Severe #Thunderstorm Warnings for parts of #AR #NC #OK. Seek strong shelter if at risk: http://t.co/kImr0l24Fb,1,Moderate,1
+9635,thunderstorm,Unknown,OUN issues Severe Thunderstorm Warning for Oklahoma [OK] till 10:30 PM CDT http://t.co/do6H2pVuB4,1,Severe,2
+9637,thunderstorm,Unknown,Special Weather Statement issued August 05 at 10:40PM EDT by NWS: ...STRONG THUNDERSTORM WILL IMPACT PORTIONS ... http://t.co/ulqeR1yTpX,1,Mild,0
+9641,thunderstorm,Unknown,Loud ass thunderstorm for no reason !??,1,Severe,2
+9647,thunderstorm,Worldwide,RT @LivingSafely: NWS posts Severe #Thunderstorm Warnings for parts of #AR #NC #OK. Seek strong shelter if at risk: http://t.co/HE4Qh2I5wF,1,Moderate,1
+9648,thunderstorm,"Oklahoma City, OK",Severe Thunderstorm Warnings have been cancelled in central Oklahoma. Still expect 50 mph winds penny sized hail,1,Severe,2
+9662,tornado,"ÌÏT: 35.353272,-78.553744",Storm damage maybe a tornado near Chadbourn. See http://t.co/gAs4sS3dKS http://t.co/zlhVYArtCU,1,Moderate,1
+9668,tornado,Unknown,Going to attempt the California fair again tomorrow hopefully we don't die in a tornado ??,1,Mild,0
+9676,tornado,Unknown,http://t.co/Dg0EcBYKJL Tornado warnings end after thunderstorms hammer Calgary region for 2nd night #HeadlinesApp,1,Moderate,1
+9677,tornado,Midwest,(AL)  Severe Thunderstorm Warning issued August 05 at 8:44PM CDT until August 05 at 9:15PM CDT by NWS http://t.co/bviYy8BMsb #alwx,1,Severe,2
+9682,tornado,Canada,Tornado warnings issued for southern Alberta http://t.co/zqmzAi8yIz,1,Moderate,1
+9689,tornado,Unknown,@sarahnandola BTW we all live in libertyville now. Bc of the tornado,1,Mild,0
+9711,tragedy,"Mumbai, India",Rly tragedy in MP: Some live to recount horror: ÛÏWhen I saw coaches of my train plunging into water I called ... http://t.co/KiXRcBNjLs,1,Severe,2
+9721,tragedy,http://www.amazon.com/dp/B00HR,'1 Death is a tragedy; a million Deaths is a statistic.' Stalin August 6 1945 U.S. Atomic Bomb Dropped On... http://t.co/kaMPx4eOS9,1,Severe,2
+9740,tragedy,Unknown,jiwa mines Rly tragedy in MP: Some live to recount horror: ÛÏWhen I saw coaches of my train plunging into water... http://t.co/LOEPKBS38J,1,Severe,2
+9742,tragedy,Unknown,Rly tragedy in MP: Some live to recount horror: ÛÏWhen I saw coaches of my train plunging into water I called ... http://t.co/BdlqasD0wB,1,Severe,2
+9747,tragedy,Namma Bengaluru,Rly tragedy in MP: Some live to recount horror: ÛÏWhen I saw coaches of my train plunging into water I called ... http://t.co/cSPAmWTo6T,1,Severe,2
+9748,tragedy,Mumbai,Rly tragedy in MP: Some live to recount horror: ÛÏWhen I saw coaches of my train plunging into water I c... http://t.co/AWWg8kNMZg Over.,1,Severe,2
+9751,tragedy,Unknown,Rly tragedy in MP: Some live to recount horror: ÛÏWhen I saw coaches of my train plunging into water I called ... http://t.co/HR4GNyGSiC,1,Severe,2
+9803,trapped,Unknown,1961 LES WOZNI In Hospital After He Broke His Leg Trapped in CAVE IN Press Photo http://t.co/7Rr4lo1lfW http://t.co/IOLOFaphsv,1,Severe,2
+9821,trauma,"Nashville, TN",Esteemed journalist recalls tragic effects of unaddressed #childhood #trauma. #counciling #therapy #newauthors #HIV http://t.co/GXq1AuhzCy,1,Severe,2
+9839,trauma,Unknown,Hiroshima: They told me to paint my story: Eighty-nine year old man recalls the terror and the trauma when the... http://t.co/VhMbN4bn0b,1,Severe,2
+9848,trauma,Unknown,Gutted. 6 weeks to go. Suspected fracture to my left ankle. Trauma clinic to see Specialist tomorrow #gnr @sageuk http://t.co/wa3sIUtoI0,1,Severe,2
+9876,traumatised,Time for NON VIOLENT dissent! ,"@PeterDutton_MP 
+YOU DIDN'T 'STARE' DOWN 'PPL SMUGGLERS' 
+YOU PAID THEM TO GO AWAY!
+2 men died many traumatised children abused. #auspol",1,Severe,2
+9914,trouble,"City of Bacoor, CALABARZON PHL",RT MMDA: ADVISORY: Stalled Bus at EDSA Service Road Cubao SB due to mechanical trouble as of 7:53 AM. 1 lane occupied. MMDA T/C on site. TÛ_,1,Moderate,1
+9922,trouble,Unknown,RT  ADVISORY: Stalled Bus at EDSA Service Road Cubao SB due to mechanical trouble as of 7:53 AM. 1 lane occupied.Û_ https://t.co/HRNZKU66mm,1,Moderate,1
+9968,tsunami,Unknown,TheDIYHacks: RT Illusionimagess: A tsunami cloud. http://t.co/H6t4x1EVTx,1,Mild,0
+9969,tsunami,in the Word of God,@TerriF77 GodsLove &amp; #thankU beloved sister Terri for RT of NEW VIDEO http://t.co/cybKsXHF7d The Coming Apocalyptic US Earthquake &amp; Tsunami,1,Severe,2
+9970,tsunami,in the Word of God,@DArchambau THX for your great encouragement and for RT of NEW VIDEO http://t.co/cybKsXHF7d The Coming Apocalyptic US Earthquake &amp; Tsunami,1,Severe,2
+9996,tsunami,"Evansville, IN",I think Tsunami has hit the wall. Dang... #STLCards,1,Mild,0
+9999,tsunami,Unknown,This high-tech sphere can be the key to saving lives during a tsunami. What would you pack in it? http://t.co/KwlpFqRBVp,1,Mild,0
+10007,tsunami,http://t.co/mOY6lmu,Help support the victims of the Japanese Earthquake and Pacific Tsunami http://t.co/O5GbPBQH http://t.co/MN5wnxf0 #hope4japan #pray4japan,1,Mild,0
+10019,twister,"Quezon, Philippines",Twister hits 4 villages in Quezon province - http://t.co/ehJv0gvo47 http://t.co/pzJcRNrBSr #Quezon #news,1,Mild,0
+10062,typhoon,"Bengaluru, India",Struggling to Return to Life: Makurazaki Typhoon on September 17 1945 killed thousands. http://t.co/fmp0JsH4wX http://t.co/X3TotYZAZe,1,Severe,2
+10063,typhoon,ID,Obama Declares Disaster for Typhoon-Devastated Saipan: Obama signs disaster declaration for Northern Marians a... http://t.co/Hni4v2ZUk3,1,Severe,2
+10065,typhoon,Breaking News,#Map: Typhoon Soudelor's predicted path as it approaches Taiwan; expected to make landfall over southern China by Û_ http://t.co/PgD7UXtVGg,1,Mild,0
+10068,typhoon,Unknown,Obama signs disaster declaration for Northern Marians after typhoon hits US territory  http://t.co/0IPaVKJgDC,1,Severe,2
+10078,typhoon,Unknown,Typhoon Soudelor heads for Taiwan http://t.co/Pg0BhL6FQC #wtf #news #tv #fun #funny,1,Mild,0
+10086,typhoon,"London, UK",UK WEATHER ALERT: Remnants of Asian super typhoon Soudelor to cause VIOLENT ... - http://t.co/JXOcfzKyw7 http://t.co/sZx1v2mk8K,1,Severe,2
+10094,typhoon,Unknown,#Trending #Viral Spectacular satellite view of Typhoon Soudelor @rumblevideo http://t.co/VkF0gkZ9N3,1,Mild,0
+10095,typhoon,Unknown,"#WorldNews #World
+ Saipan Has No Water Electricity in Typhoon Aftermath - Voice of America - World - Google News.. http://t.co/5sUdXgNdA3",1,Moderate,1
+10096,typhoon,Edmonton,Striking views of Super Typhoon Soudelor as it tracks toward Taiwan China http://t.co/hsjp6Hoffe,1,Mild,0
+10097,typhoon,New York ,Saipan has no water electricity in aftermath of typhoon http://t.co/UBAk5uOI48,1,Moderate,1
+10103,typhoon,"Indonesia
+",Obama Declares Disaster for Typhoon-Devastated Saipan: Obama signs disaster declaration for Northern Marians a... http://t.co/a1MoeJxqyA,1,Severe,2
+10104,typhoon,United States,#abc Obama Declares Disaster for Typhoon-Devastated Saipan http://t.co/ueHFZTeYHu #international #news,1,Severe,2
+10158,violent storm,Philadelphia; World War I,@RoxYunkFalls August 4 1915 http://t.co/jjNS0YjaLA Violent storm strikes city Manayunk flooding and damage. Sports &amp; War news,1,Severe,2
+10160,violent storm,Unknown,Dramatic Video Shows Plane Landing During Violent Storm http://t.co/YX8OdrrINr,1,Severe,2
+10161,violent storm,Unknown,@hippieXox If the word 'violent' comes to mind it's food poisoning. Nothing you can do but weather the storm about 24 hours.  :(,1,Severe,2
+10162,violent storm,Shanatic/GGian/SRKian,And Kolkata is struck by a Cyclonic Storm. Sumthng big is gonna happen 2day evng. Heavy rains nd a violent storm approachng. God help us.,1,Severe,2
+10165,violent storm,Chicago,More Severe Weather Heads Toward Chicago Area: A brief violent storm swept through the Chicago area Sunday af... http://t.co/JWSLLsuKjg,1,Severe,2
+10166,violent storm,United Kingdom,Terrifying POV footage captures violent landing from inside a passenger jet during a storm in Amsterdam http://t.co/TyAOYEpelz,1,Severe,2
+10167,violent storm,Unknown,[WP] You work on the top floor of a hotel when suddendly a violent storm comes the news proclaims your city in a Û_ http://t.co/S6Rc7dbAL1,1,Severe,2
+10170,violent storm,"Edmonton, Alberta",RT @calgarysun: Sun photographer Stuart Dryden spotted this vortex spun off a violent storm in Sylvan Lake. #abstorm http://t.co/w0BZ0JNGvB,1,Severe,2
+10178,violent storm,Unknown,Holy crap! BRAVO Sir! Amazing! Dramatic Video Shows Plane Landing During Violent Storm http://t.co/xB0bw8h8Ur,1,Severe,2
+10181,violent storm,Unknown,Circus tent collapses in violent storm killing 2 kids in New Hampshire http://t.co/j0saXEKBTa,1,Severe,2
+10185,violent storm,"Calgary, AB",Storm is here! Violent winds and pounding rains in Evergreen. #yyc,1,Severe,2
+10188,violent storm,"Harvard Square, Cambridge, MA",Stay inside for the next little while kids. We're having a bit of a violent storm right now. -kjc,1,Moderate,1
+10190,violent storm,missouri USA,Watch: Violent Storm Causes Deadly Accident at New Hampshire Circus http://t.co/jpPiR3ZzKA #GMA http://t.co/nV5GCDpIBA,1,Severe,2
+10200,violent storm,Unknown,#calgaryweather  It would be nice if they would fix radar before another violent storm  Uninformed citizens dangerous #YYC #yycweather,1,Mild,0
+10205,violent storm,"Greater Vancouver, British Columbia",2012#Shell's 250-foot-tall drilling rig broke loose from a towline&amp;drifted out of control during violent winter storm #incompetent #shellno,1,Severe,2
+10219,volcano,probably watching survivor,The sunset looked like an erupting volcano .... My initial thought was the Pixar short Lava http://t.co/g4sChqFEsT,1,Mild,0
+10227,volcano,Worcester,@Jesssssssee @eevans17 The Illuminati: The Yellowstone Super Volcano Conspiracy http://t.co/wymv9cYxzK,1,Mild,0
+10228,volcano,Unknown,idgaf fly into a volcano,1,Mild,0
+10232,volcano,Planet Earth,Learning from the Legacy of a Catastrophic Eruption - The New Yorker http://t.co/y8YqPBE4t9,1,Moderate,1
+10233,volcano,"Hawaii, USA",#USGS M 1.9 - 5km S of Volcano Hawaii: Time2015-08-06 01:04:01 UTC2015-08-05 15:04:01 -10:00 at epicenter... http://t.co/meVvkaXcdE #SM,1,Mild,0
+10238,volcano,Desde Republica Argentina,#Sismo M 1.9 - 5km S of Volcano Hawaii: Time2015-08-06 01:04:01 UTC2015-08-05 15:04:01 -10:00 at epicente... http://t.co/K28mgWTZcV #CS,1,Mild,0
+10240,volcano,Unknown,Quake: M 1.9 - 5km S of Volcano Hawaii,1,Mild,0
+10261,war zone,Enemy of the state ,Sammy is here in this war zone. Jamal spoke to me on the phone. Now my wife is next to speak to me ...what else can&gt; http://t.co/2CppfprxoG,1,Moderate,1
+10267,war zone,MDS af ?,Saipan looks like a war zone though,1,Moderate,1
+10281,war zone,Sky's The limit (B.I.G) ????,Twitter is going to be a war zone today  https://t.co/1QHNqCZvod,1,Severe,2
+10282,war zone,Canada,The Resistance wages guerrilla warfare against KPA forces in the Red Zone the war-torn outskirts of... http://t.co/WFxAwQvvjr,1,Severe,2
+10324,weapon,"Pune, Maharashtra India",On 70th anniversary of #Hiroshima bomb it is important to learn from history and ban this weapon.,1,Moderate,1
+10354,weapons,Global,Security experts report that the only way to keep Iran 'honest' and stop her march to nuclear weapons is by... http://t.co/DGnbUsfXkw,1,Moderate,1
+10363,weapons,Tokyo,Abe proposed a new plan for abolishing nuclear weapons. Yesterday his defense minister made clear nukes are fine. http://t.co/A6IR8rKuwS,1,Mild,0
+10370,weapons,Unknown,NAVY SAYS LT CMDR WHO FIRED SIDEARM IN DEFENSE DURING NOSC CHATTANOOGA TERRORIST ATTACK WILL NOT FACE CHARGES... http://t.co/vCcDKC4qt2,1,Severe,2
+10391,whirlwind,Unknown,Missing Malaysian airplane: Debris was planted ÛÒ Families News - WhirlWind News http://t.co/bLd0nHKzbh,1,Moderate,1
+10435,wild fires,Toronto,#HarperANetflixShow  Blazing Saddles  (a show about wild fires in Alberta),1,Mild,0
+10437,wild fires,Welt,?? #BREAKING: massive wild- and field fires reported throughout Germany! The most fires are in eastern #German http://t.co/4zSIy7EO2O,1,Mild,0
+10438,wild fires,Unknown,We all complain about PA but atleast we don't have those wild fires taking our homes like north Cali or the floods in Florida right now,1,Mild,0
+10447,wild fires,Unknown,NetNewsLedger Wild Fire Update ÛÒ August 4 2015: THUNDER BAY ÛÒ WEATHER ÛÒ ThereåÊwere no new fires confirmed by t... http://t.co/JflxgEmBdA,1,Moderate,1
+10452,wild fires,Unknown,@myralynn24 Becuase it can cause property damage and cause wild fires,1,Severe,2
+10453,wild fires,New york,Hey @Macys ! My moms house burned down in the CA wild fires &amp; I bought her an e gift card to buy her CLOTHES (cont) http://t.co/sWdjnypCXK,1,Mild,0
+10454,wild fires,USA,California wild fires...clearly caused by global climate change and excess CO2!!!?,1,Moderate,1
+10459,wild fires,"North Tonawanda, NY",California wild fires blow my mind every time,1,Mild,0
+10460,wild fires,Where e'er the mood takes me,@MrRat395 Are those wild fires getting anywhere near you?,1,Mild,0
+10463,wild fires,Colorado,Stampedes and fires brought him home; can her love make him stay? TAME A WILD HEART #audiobook http://t.co/2dPKqAFtbr #BYNR @BeingAuthor,1,Mild,0
+10465,wild fires,Unknown,Go home California you're drunk. Natural selection has taken affect. Debt extreme wild fires water supply problems. You fail as a state.,1,Severe,2
+10469,wild fires,Montana/North Carolina,@CBS evening news covers tent collapse wild fires NO mention of worst Planned Parenthood video to date #Narrative,1,Severe,2
+10474,wild fires,Unknown,WILD FIRES! http://t.co/EgrMdkXpOi,1,Mild,0
+10475,wild fires,Unknown,Wild Fires In California Continue To Burn - http://t.co/nKcmib9WL0 http://t.co/CpMGBWVDXM,1,Mild,0
+10476,wild fires,FRM JERZ LIVING IN DADE COUNTY,one of them wild fires in cali or something or in the mid west or where ever they show up..shit dont pop up around me,1,Severe,2
+10477,wild fires,"Brantford, Ontario",@JacobHoggard @therealmattleaf  it's so sad out there in BC all the wild fires. Hope u are safe.,1,Mild,0
+10480,wild fires,Unknown,when there's 35 wild fires in the US and 21 of them are in California....AND we're in a drought.....this state is so sad,1,Moderate,1
+10491,wildfire,Colorado,11:57am Wildfire by The Mynabirds from Lovers Know,1,Mild,0
+10493,wildfire,USA,Finger Rock wildfire grows to 500 acres #Tucson http://t.co/zSXGEI1Nxf,1,Mild,0
+10494,wildfire,Unknown,#chattanooga The Latest: California governor headed to site of wildfire http://t.co/D6E7IICW5W,1,Mild,0
+10495,wildfire,Unknown,About to get it with the babes of #wildfire and @taviiikenney of course!!,1,Mild,0
+10497,wildfire,"Tucson, Arizona",Here's a quick timelapse I made of the Finger Rock Fire last night from about 9PM - 1AM. Check it out! #fingerrockfire #wildfire #catalinas,1,Mild,0
+10501,wildfire,"Seattle, WA",#WAwildfire in #chelan? Wolverine fire results in evacuation. http://t.co/yePlnZPoWu,1,Moderate,1
+10507,wildfire,Unknown,Cherokee Road and Road 22 (Three Sisters Wildfire): There are two roads closed to the general public: ... http://t.co/WwnL8FvfMM #IDFire,1,Mild,0
+10509,wildfire,"California, USA",As California fires rage the Forest Service sounds the alarm about sharply rising wildfire costs http://t.co/ht8FyiMJlR,1,Severe,2
+10512,wildfire,"408 N. Western, Wenatchee, WA ","Wolverine Fire Update - Thursday August 6 - 9:00 Am
+
+Incident: Wolverine Fire Wildfire
+Released: 41 min. ago... http://t.co/8WDTTzpTXH",1,Severe,2
+10514,wildfire,Unknown,Cooler weather helps crews battling state wildfire.. Related Articles: http://t.co/15fHVIi9Qp,1,Mild,0
+10526,wildfire,"Seattle, WA",Wildfire near Columbia River town is 50 percent contained - http://t.co/yTPiPXpqr9 http://t.co/HCUQ6jpBtL,1,Mild,0
+10528,wildfire,Unknown,"smHRN mhtw4fnet
+
+Crews gaining on huge Northern California wildfire - CBS News",1,Mild,0
+10530,wildfire,Unknown,Rocky Fire #cali #SCFD #wildfire #LakeCounty https://t.co/3pu0000v5o,1,Moderate,1
+10531,wildfire,Unknown,This machine really captured my attention. #helicopter #firefighting #wildfire #oregon #easternoregonÛ_ https://t.co/eKt456jY1s,1,Mild,0
+10532,wildfire,Get our App,Forest Grove grass fire sparked by tractor quickly contained - KATU http://t.co/FMbcocS79u,1,Moderate,1
+10586,wounded,Narbin city  ,Police Officer Wounded Suspect Dead After Exchanging Shots http://t.co/e4wvXQItV4,1,Severe,2
+10594,wounded,??,"The South Korean army wounded 44 persons' Takeshima's Japanese fisherman and occupies the island.  
+http://t.co/mJCXgKU8Yt",1,Moderate,1
+10595,wounded,"Kansas City, MO",Gunmen kill four in El Salvador bus attack: Suspected Salvadoran gang members killed four people and wounded s... http://t.co/LZWRONbTmi,1,Severe,2
+10602,wounded,Unknown,#Dime_Miloko Officer Wounded Suspect Killed in Exchange of Gunfire: Richmond police officer wounded suspect killed in exchange of gunfire,1,Severe,2
+10604,wounded,Unknown,Police officer wounded suspect dead after exchanging shots: A Richmond police officer was wounded and a suspe... http://t.co/FzQPiQeCHB,1,Severe,2
+10614,wounded,Philippines,"Pope Francis talks about WOUNDED FAMILIES
+http://t.co/m1RfBPODI9",1,Severe,2
+10618,wounded,"Chicago, Illinois  ",Man seriously wounded in Auburn Gresham shooting http://t.co/qPsSbAfSuL #Chiraq,1,Severe,2
+10619,wounded,Singapore,Suspected Salvadoran gang members killed four people and wounded seven more on Wednesday in an attack on a bus as it travelled down a ruralÛ_,1,Severe,2
+10624,wounded,SWMO,Officer Wounded Suspect Killed in Exchange of Gunfire http://t.co/HHSjnAVHUA,1,Severe,2
+10633,wounded,??????,'Police Officer Wounded Suspect Dead After Exchanging Shots' http://t.co/guNq7ZTUn4 #????_?????,1,Severe,2
+10634,wounded,Mii Facebook,Police Officer Wounded Suspect Dead After Exchanging Shots: Richmond police officer wounded suspect killed a... http://t.co/YIKQRqczVZ,1,Severe,2
+10645,wounds,CLT via NOLA via MO via MN,ME: gun shot wounds 3 4 6 7 'rapidly lethal' would have killed in 30-60 seconds or few minutes max. #kerricktrial,1,Severe,2
+10652,wounds,Washington D.C. / Istanbul,Israeli military shoot Palestinian who injured 3 in West Bank car attack http://t.co/P9DCnuLODR via @YahooNews,1,Severe,2
+10661,wounds,#Kashmir,2 Policemen receive bullet wounds Reports indicate 6-7 armed men attacked a police post.,1,Severe,2
+10664,wounds,Unknown,Palestinian rams car into Israeli soldiers wounding 3 http://t.co/n79BMXQKlg #EMM,1,Moderate,1
+10703,wreck,"Columbus, OH",Interesting in watching a train wreck while taking acid kind of way https://t.co/kM08qiWW4g,1,Mild,0
+10714,wreck,Unknown,Man faces manslaughter charges following fatal Sunday wreck | AL.c.. Related Articles: http://t.co/5xrFhdXTvX,1,Severe,2
+10738,wreckage,India,Wreckage 'Conclusively Confirmed' as From MH370: Malaysia PM,1,Mild,0
+10740,wreckage,"Mumbai, Maharashtra",Wreckage 'Conclusively Confirmed' as From MH370: Malaysia PM: Investigators and the families of those who were... http://t.co/cUrJAT1BqI,1,Mild,0
+10742,wreckage,Unknown,Wreckage 'conclusively confirmed' as from MH370: Malaysia PM http://t.co/Se1QkNPltS | https://t.co/DnhRviV1dJ,1,Mild,0
+10756,wreckage,Mumbai,Wreckage 'Conclusively Confirmed' as From MH370: Malaysia PM: Investigators and the families of those who were... http://t.co/O8sTW4YN8R,1,Mild,0
+10757,wreckage,Unknown,#science Now that a piece of wreckage from flight MH370 has been confirmed on RÌ©union Island is it possible t...  http://t.co/cKQ7tOE82u,1,Mild,0
+10761,wreckage,Mumbai,Wreckage 'Conclusively Confirmed' as From MH370: Malaysia PM: Investigators and the families of those who were... http://t.co/1RzskdRrDk,1,Mild,0
+10762,wreckage,Canada,TOP STORY: wreckage from #MH370 officially confirmed. @janisctv reports on the critical clue from a tiny island. http://t.co/hlWw2P5k9o,1,Mild,0
+10773,wreckage,Unknown,Wreckage 'Conclusively Confirmed' as From MH370: Malaysia PM http://t.co/MN130C4e2D via @ndtv,1,Mild,0
+10778,wreckage,Mumbai,Wreckage 'Conclusively Confirmed' as From MH370: Malaysia PM: Investigators and the families of those who were... http://t.co/mzB0MKuUo7,1,Mild,0
+10781,wreckage,our galaxy,RT @australian Debris found on an Indian Ocean island confirmed to be from flight #MH370. http://t.co/gY9MrSl6x2,1,Mild,0
+10836,Unknown,Unknown,#Ebola #EbolaOutbreak Ebola Virus: Birmingham Ala. Firefighters Quarantined After Possible Exposure Officials Say http://t.co/tjpYlU9fOX,1,Mild,0
+10838,Unknown,Unknown,Malaysian PM confirms debris is from missing flight MH370 http://t.co/pfAvW5QyqE,1,Moderate,1
+10845,Unknown,Unknown,Officials: Alabama home quarantined over possible Ebola case - Washington Times,1,Mild,0
+10856,Unknown,Unknown,See the 16yr old PKK suicide bomber who detonated bomb in Turkey Army trench released: Harun Ìàekdar ... http://t.co/hKuT5mSdtP @MsOreo_,1,Severe,2
+10857,Unknown,Unknown,To conference attendees! The blue line from the airport has DERAILED - please look into taking a taxi to the hotel! See you soon!,1,Moderate,1
+10858,Unknown,Unknown,The death toll in a #IS-suicide car bombing on a #YPG position in the Village of Rajman in the eastern province of Hasaka has risen to 9,1,Severe,2
+10861,Unknown,Unknown,EARTHQUAKE SAFETY LOS ANGELES ÛÒ SAFETY FASTENERS XrWn,1,Mild,0
+10865,Unknown,Unknown,Storm in RI worse than last hurricane. My city&amp;3others hardest hit. My yard looks like it was bombed. Around 20000K still without power,1,Mild,0
+10868,Unknown,Unknown,Green Line derailment in Chicago http://t.co/UtbXLcBIuY,1,Mild,0
+10874,Unknown,Unknown,MEG issues Hazardous Weather Outlook (HWO) http://t.co/3X6RBQJHn3,1,Mild,0
+10875,Unknown,Unknown,#CityofCalgary has activated its Municipal Emergency Plan. #yycstorm,1,Moderate,1
